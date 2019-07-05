@@ -1,0 +1,888 @@
+firstName,lastName,phone,address,city,state,profileLink
+Jennifer,Prescott,4156006616,"45 Castro St Ste 160A,",San Francisco,CA,https://doctor.webmd.com/doctor/jennifer-prescott-b9697c4c-2e79-4f6c-9690-2168c761f58d-overview?=lid=5009830
+Nancy,Zinn,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/nancy-zinn-0f072a89-40b3-452a-8a8f-09f7f6427c82-overview?=lid=5054700
+Deborah,McNeil,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/deborah-mcneil-2b1b29ac-2147-43ae-83f2-1139912abd2e-overview?=lid=5054700
+Donna,Chee,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/donna-chee-aaf31602-8c42-40ae-9ad7-f5084692fcd6-overview?=lid=5054700
+Jennifer,Tagatz,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/jennifer-tagatz-ba1aeb71-bad0-4403-9819-5725d5d8b8d4-overview?=lid=5054700
+Judith,Adler,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/judith-adler-d65ebd56-252e-4b66-a597-5579317305a4-overview?=lid=5054700
+Svetka,Grskovic,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/svetka-grskovic-0b6773a8-4d69-4718-a776-f88ad07e4e7b-overview?=lid=5054700
+Karyna,Karpiyevich,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/karyna-karpiyevich-5ef1dbb7-1ef5-438f-94fa-b6bdb4b90a7e-overview?=lid=5054700
+Judy,Woon,4158332202,"2238 Geary Blvd,",San Francisco,CA,https://doctor.webmd.com/doctor/judy-woon-68280db5-56c7-4509-a319-8c30ec0c97bf-overview?=lid=5054700
+Stephany,Rodriguez,4153532421,"400 Parnassus Ave,",San Francisco,CA,https://doctor.webmd.com/doctor/stephany-rodriguez-e5887994-3da7-4880-833c-e726ff555c65-overview?=lid=5083220
+Diana,Leykina,4159280134,"2299 Post St Ste 305,",San Francisco,CA,https://doctor.webmd.com/doctor/diana-leykina-304f81f1-f41b-4855-85fa-34cf970e2437-overview?=lid=5065295
+Inessa,Svidler,4153464199,"2299 Post St Ste 203,",San Francisco,CA,https://doctor.webmd.com/doctor/inessa-svidler-a1831ba9-773e-420b-a313-fd8800296c28-overview?=lid=5082778
+Victor,Lyapis,4157714072,"2320 Sutter St Ste 101,",San Francisco,CA,https://doctor.webmd.com/doctor/victor-lyapis-0d1dcc3b-59fa-4956-9590-ecd1c8a75175-overview?=lid=5353068
+Bella,Nudel,4159282110,"2320 Sutter St Ste 101,",San Francisco,CA,https://doctor.webmd.com/doctor/bella-nudel-5f1e5d15-f73e-47e9-91fc-ba960dbdc9a7-overview?=lid=5082867
+Del,Vergara,4159657944,"1801 Divisadero St,",San Francisco,CA,https://doctor.webmd.com/doctor/del-vergara-93cc3b4d-5056-416a-b98f-c99049b06b73-overview?=lid=5603119
+Fred,Strauss,4159347700,"3850 17th St,",San Francisco,CA,https://doctor.webmd.com/doctor/fred-strauss-0e8b264d-6f1c-47a3-8be9-f8145a0405bb-overview?=lid=V10574077
+Jean,Talleyrand,4157225195,"1426 Fillmore St Ste 206,",San Francisco,CA,https://doctor.webmd.com/doctor/jean-talleyrand-6bc13441-d726-489d-bf19-421c7a660297-overview?=lid=V10555618
+Renaldo,Barrios,4155294099,"595 Castro St,",San Francisco,CA,https://doctor.webmd.com/doctor/renaldo-barrios-3904825e-f46f-4397-935f-045f95ebc79c-overview?=lid=5533293
+Martin,Kramer,4155294099,"595 Castro St,",San Francisco,CA,https://doctor.webmd.com/doctor/martin-kramer-6acb057a-1835-42ec-ac8d-5935e13c8910-overview?=lid=5533293
+Sam,Oryol,4158760007,"3838 California St Rm 601,",San Francisco,CA,https://doctor.webmd.com/doctor/sam-oryol-7f6fdcc3-775d-e111-ae23-001f29e3eb44-overview?=lid=5063918
+Alison,Prins,4153793700,"3838 California St Rm 801,",San Francisco,CA,https://doctor.webmd.com/doctor/alison-prins-16c1eda8-e17a-43b8-ad4d-6f8d3e5b3b71-overview?=lid=5529501
+Harriet,Wolfe,4159211046,"2105 Divisadero St,",San Francisco,CA,https://doctor.webmd.com/doctor/harriet-wolfe-285860f6-7f47-4ed5-8541-7c2797443f16-overview?=lid=5082851
+Aaron,Blackledge,4158644444,"508 14th St Ste A,",San Francisco,CA,https://doctor.webmd.com/doctor/aaron-blackledge-5954d678-68d7-43dd-b937-b8a22c78c707-overview?=lid=5423700
+Vincent,Macino,4155906140,"840 Irving St,",San Francisco,CA,https://doctor.webmd.com/doctor/vincent-macino-da63fffe-43df-405d-baaf-7efd4a49f878-overview?=lid=5603061
+Jennifer,Wurz,4155906140,"840 Irving St,",San Francisco,CA,https://doctor.webmd.com/doctor/jennifer-wurz-2f3fc81a-c374-4c63-b9ec-d7cd7836eed9-overview?=lid=5603061
+Robert,Pandolfe,4155294050,"2410 California St,",San Francisco,CA,https://doctor.webmd.com/doctor/robert-pandolfe-8a1a52d3-0876-4fe7-811a-673b6faf8117-overview?=lid=5533292
+Sevasti,Dames,4155294050,"2410 California St,",San Francisco,CA,https://doctor.webmd.com/doctor/sevasti-dames-ba01b26a-86b7-4b62-9816-947ee877b36c-overview?=lid=5533292
+Craig,Wilson,4157530999,"1032 Irving St,",San Francisco,CA,https://doctor.webmd.com/doctor/craig-wilson-fd8414b2-83e6-45cd-9e85-8d5151d8055b-overview?=lid=V23541
+Ko-Myong,Lieu,4153462777,"1610 Post St Ste 202,",San Francisco,CA,https://doctor.webmd.com/doctor/ko-myong-lieu-b79b72fe-9031-4c7d-a932-d3dac8679013-overview?=lid=V10673290
+Joanna,Hauser,4158858600,"2100 Webster St Ste 326,",San Francisco,CA,https://doctor.webmd.com/doctor/joanna-hauser-e47fad95-e49f-4d7a-9206-3b7c6fc2fcd6-overview?=lid=5082990
+Anne,Trevino,4155755666,"30 Van Ness Ave Ste 260,",San Francisco,CA,https://doctor.webmd.com/doctor/anne-trevino-7c261dab-9726-4412-9bdd-20e1189a869a-overview?=lid=V10018631
+Mariah,Ruther,4154173517,"160 Capp St,",San Francisco,CA,https://doctor.webmd.com/doctor/mariah-ruther-fb436cf1-253a-4a34-95b7-db972ccab365-overview?=lid=V10136757
+Theresa,Sofarelli,4158304744,"3901 23rd St,",San Francisco,CA,https://doctor.webmd.com/doctor/theresa-sofarelli-87fa9011-5f80-4d55-a99b-06963c6a411f-overview?=lid=5371478
+William,Naber,4153460255,"1375 Sutter St Ste 201,",San Francisco,CA,https://doctor.webmd.com/doctor/william-naber-25a1c920-fb35-4d04-9639-f4238288d700-overview?=lid=5065492
+Sean,Darcy,3237904983,"7307 W Sunset Blvd,",Los Angeles,CA,https://doctor.webmd.com/doctor/sean-darcy-aaa91b3b-8901-4fe4-92ac-f50dd45ad478-overview?=lid=5590232
+Albert,Gomez,4156428522,"2460 Mission St Ste 208,",San Francisco,CA,https://doctor.webmd.com/doctor/albert-gomez-285ecbbf-3129-4567-bdca-573e81e6a0f4-overview?=lid=5082696
+Joseph,Pace,4153557400,"230 Golden Gate Ave,",San Francisco,CA,https://doctor.webmd.com/doctor/joseph-pace-801324d2-9444-422e-8d9f-196421662f9a-overview?=lid=6510855
+Avril,Swan,4156420333,"1286 Sanchez St Ste A,",San Francisco,CA,https://doctor.webmd.com/doctor/avril-swan-3e7605c5-325a-4ed9-9f54-9ff2332e73ad-overview?=lid=5168302
+Anne,Lee,4152551200,"1200 Howard St,",San Francisco,CA,https://doctor.webmd.com/doctor/anne-lee-bd351edf-7bf5-4e6e-8793-aec299a61da8-overview?=lid=5335412
+Grant,Weiss,4152551200,"1200 Howard St,",San Francisco,CA,https://doctor.webmd.com/doctor/grant-weiss-262edb25-a21b-4ae1-afdf-1e907859237c-overview?=lid=5335412
+Diomedes,Remigio,4158633883,"1111 Market St,",San Francisco,CA,https://doctor.webmd.com/doctor/diomedes-remigio-c5ed5cca-011d-4759-930b-ebb8d917b00e-overview?=lid=5517502
+Sonia,Bledsoe,4152418320,"150 Golden Gate Ave Fl 2,",San Francisco,CA,https://doctor.webmd.com/doctor/sonia-bledsoe-8e698a68-8556-4184-80a9-7ce974207290-overview?=lid=5082452
+Shikata,Nudakha,4152418320,"150 Golden Gate Ave Fl 2,",San Francisco,CA,https://doctor.webmd.com/doctor/shikata-nudakha-ee6ec81a-4f88-4563-8970-9a6d3a5e9c7b-overview?=lid=5082452
+Eugene,Pudberry,4157754448,"2000 Van Ness Ave Ste 703,",San Francisco,CA,https://doctor.webmd.com/doctor/eugene-pudberry-bbfd85d3-751e-468a-a2f1-8d6acce2e36a-overview?=lid=5426755
+Raha,Borazjani,4153536380,"1199 Bush St Ste 200,",San Francisco,CA,https://doctor.webmd.com/doctor/raha-borazjani-986dd516-8655-4d72-80b4-0bc270d2b26f-overview?=lid=5563658
+Molly,Maloof,4158573527,"1087 Mission St,",San Francisco,CA,https://doctor.webmd.com/doctor/molly-maloof-35b3f8f6-2639-454e-a447-f29b149a19e2-overview?=lid=V10133497
+Audrey,Sellers,4158633883,"364 28th St,",San Francisco,CA,https://doctor.webmd.com/doctor/audrey-sellers-3d8ce0ea-e300-473d-867a-11b51b308a15-overview?=lid=V10663821
+Jessica,Dodge,4154373000,"2727 Mariposa St Ste 100,",San Francisco,CA,https://doctor.webmd.com/doctor/jessica-dodge-29ff1b67-3619-4fc4-962b-bf6b6a03e5e5-overview?=lid=5335416
+Lou,Bolin,4154373000,"2727 Mariposa St Ste 100,",San Francisco,CA,https://doctor.webmd.com/doctor/lou-bolin-b9f3808e-d83e-42c0-ac12-81621e33528e-overview?=lid=5335416
+Ruth,Armstrong,4154373000,"2727 Mariposa St Ste 100,",San Francisco,CA,https://doctor.webmd.com/doctor/ruth-armstrong-20eb115a-7759-49b3-b5f0-0a1617329b00-overview?=lid=5335416
+Kelly,Lippi,4154373000,"2727 Mariposa St Ste 100,",San Francisco,CA,https://doctor.webmd.com/doctor/kelly-lippi-5c2f46b2-0ad6-45e0-9fe1-5e49b58e0e0a-overview?=lid=5335416
+Jason,Comfort,4156732771,"2041 Polk St Ste E,",San Francisco,CA,https://doctor.webmd.com/doctor/jason-comfort-8539b27c-6c70-40d0-99ed-b16293bd4ffa-overview?=lid=5082581
+Bruce,Flagg,6508987604,"2041 Polk St Ste E,",San Francisco,CA,https://doctor.webmd.com/doctor/bruce-flagg-47b4a4db-da09-4d71-b072-e0591c84c786-overview?=lid=5564441
+Leland,Duffield,4158267575,"3620 Cesar Chavez,",San Francisco,CA,https://doctor.webmd.com/doctor/leland-duffield-0bf9d823-d528-4bed-a211-ae0c17ca9539-overview?=lid=V24066
+Arkary,Shusterman,4157529448,"2424 Clement St,",San Francisco,CA,https://doctor.webmd.com/doctor/arkary-shusterman-3c117c9a-b926-4b9d-9898-a5061ab3a481-overview?=lid=V10034828
+Luis,Bonilla,4152857940,"1580 Valencia St Ste 803B,",San Francisco,CA,https://doctor.webmd.com/doctor/luis-bonilla-415f2aac-f566-496f-84d6-d25fd3f2498a-overview?=lid=5162798
+James,Buck,4156420707,"1580 Valencia St Ste 703,",San Francisco,CA,https://doctor.webmd.com/doctor/james-buck-b33e23ec-e91b-4db7-83c3-1941a1466190-overview?=lid=5475483
+Ann,Walgenbach,4155633110,"3727 Buchanan St Ste 300,",San Francisco,CA,https://doctor.webmd.com/doctor/ann-walgenbach-bb936e48-0b9e-4950-9219-eea873ea27d2-overview?=lid=5083289
+Tsun-Nin,Lee,4156651800,"1790 26th Ave,",San Francisco,CA,https://doctor.webmd.com/doctor/tsun-nin-lee-16ae0d6c-dddc-4d5f-8c75-0328c7b8de15-overview?=lid=V10758268
+Ann,Peters,4156898366,"450 Sutter St Rm 1800,",San Francisco,CA,https://doctor.webmd.com/doctor/ann-peters-66976934-469d-4dc3-a0ef-0d30e0423be7-overview?=lid=5512082
+Masa,Rambo,4152068287,"1001 Potrero Ave Ste 4C,",San Francisco,CA,https://doctor.webmd.com/doctor/masa-rambo-b542d393-813c-418f-9b48-b1be8e4c4cb8-overview?=lid=5610288
+Joy,Sheppard,4157819200,"126 Post St Fl 2,",San Francisco,CA,https://doctor.webmd.com/doctor/joy-sheppard-9123bddf-b052-4071-9058-172992dc7a72-overview?=lid=5465114
+David,Kang,4157819200,"126 Post St Fl 2,",San Francisco,CA,https://doctor.webmd.com/doctor/david-kang-b860510b-f31a-4b8f-bed8-0de2ce3a3a63-overview?=lid=5465114
+Jerome,Jew,4159824011,"919 Clay St,",San Francisco,CA,https://doctor.webmd.com/doctor/jerome-jew-e25ea2c2-6c95-4add-b8ba-1d82b66e820e-overview?=lid=5082535
+Tuan,Hoang,4153975660,"890 Jackson St Ste 203,",San Francisco,CA,https://doctor.webmd.com/doctor/tuan-hoang-e5c2ea1d-d0ce-47ed-b0f5-8bf6d1408ffa-overview?=lid=5065481
+Paul,Lynn,4155661000,"380 West Portal Ave Ste C,",San Francisco,CA,https://doctor.webmd.com/doctor/paul-lynn-08843835-e271-41fe-b2ef-67a9a6dd06b0-overview?=lid=5083298
+Angela,Powlen,4152910480,"110 Sutter St Fl 6,",San Francisco,CA,https://doctor.webmd.com/doctor/angela-powlen-c69cd95f-3e82-4e85-8ad0-81391ae31c25-overview?=lid=5321334
+Sarah,Maxwell,4152910480,"110 Sutter St Fl 6,",San Francisco,CA,https://doctor.webmd.com/doctor/sarah-maxwell-4350cc46-1d10-4f3a-b986-3a176297ed95-overview?=lid=5321334
+Philip,Zuzolo,8009290926,"360 3rd St,",San Francisco,CA,https://doctor.webmd.com/doctor/philip-zuzolo-f1a197d1-8208-4882-b97c-2a5c1cf454c2-overview?=lid=V10807540
+Warren,Wong,4156483022,"1050 Wisconsin St,",San Francisco,CA,https://doctor.webmd.com/doctor/warren-wong-bc9d7217-1c52-4d4f-b6be-210b285033a3-overview?=lid=5012933
+Pauli,Amornkul,4155978177,"50 Beale St,",San Francisco,CA,https://doctor.webmd.com/doctor/pauli-amornkul-6c4b3ce3-eb3b-4c1d-a720-5141cf2db2d9-overview?=lid=V22322
+Hana,Yoshikawa,4155783100,"2 Embarcadero Ctr Lbby 8,",San Francisco,CA,https://doctor.webmd.com/doctor/hana-yoshikawa-d7a9e1fe-04ad-466c-a3db-07515e9eb28c-overview?=lid=5510305
+Margit,Tagliaferri,4155270263,"455 Mission Bay Blvd S Ste 124,",San Francisco,CA,https://doctor.webmd.com/doctor/margit-tagliaferri-01366201-9140-49ca-a42f-f8abe2ec7e3e-overview?=lid=V16951433
+Terese,Tatum,4155294566,"4 Embarcadero Ctr,",San Francisco,CA,https://doctor.webmd.com/doctor/terese-tatum-c7de8013-bff2-47d3-8604-4472f7e38bc4-overview?=lid=5542158
+Jess,Pinder,4155039277,"201 Spear St Ste 230,",San Francisco,CA,https://doctor.webmd.com/doctor/jess-pinder-0158a7d4-3873-4aa4-b05f-31cb2bfdab28-overview?=lid=5533289
+Jennifer,Yang,4156571730,"1525 Silver Ave,",San Francisco,CA,https://doctor.webmd.com/doctor/jennifer-yang-91f7596a-3168-4eb9-84a9-3898886a6f05-overview?=lid=V10582492
+Scott,Bradley,4155660717,"933 Geneva Ave Ste A,",San Francisco,CA,https://doctor.webmd.com/doctor/scott-bradley-0f3456fd-93f1-4019-a033-80015ef4f356-overview?=lid=5494727
+Angelo,Arcilla,6509940459,"1800 Sullivan Ave Rm 101,",Daly City,CA,https://doctor.webmd.com/doctor/angelo-arcilla-8908bb9e-8486-4deb-b5bd-30075c4b69a2-overview?=lid=5009774
+Lornalyn,Carrillo,6509940459,"1800 Sullivan Ave Rm 101,",Daly City,CA,https://doctor.webmd.com/doctor/lornalyn-carrillo-37d0f45f-dbbc-4417-b5bd-9c0cffa8ce61-overview?=lid=5009774
+Lartily,Mateo,6509917002,"1850 Sullivan Ave Ste 510,",Daly City,CA,https://doctor.webmd.com/doctor/lartily-mateo-4e23305c-e811-4c50-a21b-253c42fa0a7a-overview?=lid=5064925
+Viven,Valdez,6507561214,"1850 Sullivan Ave Ste 420,",Daly City,CA,https://doctor.webmd.com/doctor/viven-valdez-7c92ca84-0888-4cf0-9dac-753f8652dc39-overview?=lid=5265027
+Moira,Opalka,4153800480,"1050 Northgate Dr Ste 410,",San Rafael,CA,https://doctor.webmd.com/doctor/moira-opalka-7f92b8ac-d6c2-4e87-ac81-2878b9b3b9a9-overview?=lid=5048708
+Augusto,Valera Jr,6509924777,"901 Campus Dr Ste 305,",Daly City,CA,https://doctor.webmd.com/doctor/augusto-valera-jr-bafde363-000c-4447-a3ef-1a815df2e684-overview?=lid=V10477960
+Cherie,Hawkins,6507422000,"1200 El Camino Real Fl 4,",South San Francis,CA,https://doctor.webmd.com/doctor/cherie-hawkins-b0e8548b-2788-485a-87ac-aa9d2ce77d55-overview?=lid=5513766
+Thea,Fand Freeman,6507423008,"1200 El Camino Real,",South San Francis,CA,https://doctor.webmd.com/doctor/thea-fand-freeman-ad3897c7-97fe-4825-8155-4b7740e1ab4a-overview?=lid=5617511
+Lorna,Thornton,6508777070,"306 Spruce Ave Fl 2,",South San Francis,CA,https://doctor.webmd.com/doctor/lorna-thornton-294854ee-62e7-4b2e-a16b-3e4e9c2562e4-overview?=lid=5238920
+Susan,Moore,6508777070,"306 Spruce Ave Fl 2,",South San Francis,CA,https://doctor.webmd.com/doctor/susan-moore-1e5de800-a092-49ac-a865-1d67ccaf7a63-overview?=lid=5238920
+Carol,Lemon,6508777070,"306 Spruce Ave Fl 2,",South San Francis,CA,https://doctor.webmd.com/doctor/carol-lemon-c031d6bc-71a8-4922-b356-29c768af5a4c-overview?=lid=5238920
+Luis,Montalvo,6506361286,"455 Grand Ave,",South San Francis,CA,https://doctor.webmd.com/doctor/luis-montalvo-6c55e034-ce8b-4229-9da9-9522f684ae08-overview?=lid=5009742
+Anna Marie,Maagdenberg,6506361286,"455 Grand Ave,",South San Francis,CA,https://doctor.webmd.com/doctor/anna-marie-maagdenberg-dd8dd623-f0b0-4b75-8244-a7ab4721ff27-overview?=lid=5009742
+Donald,Dossett,6506361286,"455 Grand Ave,",South San Francis,CA,https://doctor.webmd.com/doctor/donald-dossett-83a313ab-1279-4924-910f-64135a7865da-overview?=lid=5009742
+Anthony,Lopresti,6506361286,"455 Grand Ave,",South San Francis,CA,https://doctor.webmd.com/doctor/anthony-lopresti-2e4b87de-0d2a-4e87-b4fa-569a1e68a49e-overview?=lid=5009742
+Mary,Chen,6505896500,"192 Beacon St,",South San Francis,CA,https://doctor.webmd.com/doctor/mary-chen-545a1438-86b9-47f3-a071-d3f8cc8384b0-overview?=lid=V37983
+Richard,Apollo,4153885170,"61 Camino Alto Ste 104,",Mill Valley,CA,https://doctor.webmd.com/doctor/richard-apollo-ebf9f929-0fc8-4005-ba7c-332c31dfca39-overview?=lid=5085136
+Cuong,Vu,5104524690,"412 8th St Ste B,",Oakland,CA,https://doctor.webmd.com/doctor/cuong-vu-1703a0a0-c5ef-4efb-b6f5-50b30c769d30-overview?=lid=5063868
+Sarah,Christensen,5102510121,"969 Broadway Fl 2,",Oakland,CA,https://doctor.webmd.com/doctor/sarah-christensen-a98af182-da18-4ba2-87a0-1e8284313959-overview?=lid=5286230
+Muntu,Davis,5102085946,"1000 Broadway Ste 500,",Oakland,CA,https://doctor.webmd.com/doctor/muntu-davis-c5bcf6fd-9741-4a50-813e-f54d6a4e7843-overview?=lid=5473149
+Anh,Do,,"919 Harrison St,",Oakland,CA,https://doctor.webmd.com/doctor/anh-do-ad761e3c-4944-4d9e-86c1-87673475e320-overview?=lid=V49845
+Carolyn,Bernstein,5108359900,"1480 64th St Ste 100,",Emeryville,CA,https://doctor.webmd.com/doctor/carolyn-bernstein-6706534c-4a41-46cf-b19d-286a63a545c9-overview?=lid=5205786
+Kenneth,Shedd,5102677800,"2221 Martin Luther King Jr Way,",Oakland,CA,https://doctor.webmd.com/doctor/kenneth-shedd-3c43595d-d4e5-4940-af9e-06011d373125-overview?=lid=5084769
+Alix,Magloire,5102677800,"2221 Martin Luther King Jr Way,",Oakland,CA,https://doctor.webmd.com/doctor/alix-magloire-fee31931-1dab-440d-8216-f8d503909baf-overview?=lid=5084769
+Kathleen,Lefevre,5102677800,"2221 Martin Luther King Jr Way,",Oakland,CA,https://doctor.webmd.com/doctor/kathleen-lefevre-3b878d1e-6a81-4fb6-862d-7eca6d85ff14-overview?=lid=5084769
+Ronald,Chun,5102677800,"2221 Martin Luther King Jr Way,",Oakland,CA,https://doctor.webmd.com/doctor/ronald-chun-6019ad16-e09e-42f0-883d-2a00e3fc4d55-overview?=lid=5084769
+Richard,Karp,5102677800,"2221 Martin Luther King Jr Way,",Oakland,CA,https://doctor.webmd.com/doctor/richard-karp-e650abdc-d855-46af-9fa4-ee4ff9cf99f8-overview?=lid=5084769
+Genevieve,Dy,6507422100,"901 El Camino Real Fl 1,",San Bruno,CA,https://doctor.webmd.com/doctor/genevieve-dy-bc3b537d-be6f-4f92-a0cc-e515ce33d2ae-overview?=lid=5427433
+Otareia,Randall Koayen,5108918950,"384 14th St,",Oakland,CA,https://doctor.webmd.com/doctor/otareia-randall-koayen-3fbc790a-1497-4fbd-b721-6a3b732619b3-overview?=lid=6510137
+De,Le,5108392758,"312 13th St,",Oakland,CA,https://doctor.webmd.com/doctor/de-le-830ac1e3-e2ec-4c0d-8556-60cf91353f2b-overview?=lid=5084770
+Roger,Morrison,5104129040,"1220 Brickyard Cove Rd Ste 101,",Richmond,CA,https://doctor.webmd.com/doctor/roger-morrison-5e0f544b-41a4-4112-80a1-5ca4f3e50abe-overview?=lid=5354754
+Jeffrey,Edman,4154885933,"239 Miller Ave Ste 8,",Mill Valley,CA,https://doctor.webmd.com/doctor/jeffrey-edman-e064177d-18fe-4aef-a6aa-acf7b67b20a2-overview?=lid=V10401694
+Lorna,Hall,5105968125,"3031 Telegraph Ave,",Oakland,CA,https://doctor.webmd.com/doctor/lorna-hall-9d3794e1-7d81-46eb-bfea-285e36188a22-overview?=lid=5059823
+Doris,Gee,5108344897,"2940 Summit St Ste 1,",Oakland,CA,https://doctor.webmd.com/doctor/doris-gee-ca7db614-adbf-49ad-b41f-40085d059826-overview?=lid=5063890
+Euna,Kim,5104449460,"5709 Market St,",Oakland,CA,https://doctor.webmd.com/doctor/euna-kim-f91de356-358d-478f-9df5-2846cc6596aa-overview?=lid=5063859
+Erin,Lopez,5104373582,"1 Eagle Rd Bldg 1,",Alameda,CA,https://doctor.webmd.com/doctor/erin-lopez-5b0d491b-f18b-4e24-992e-f7df27762e61-overview?=lid=6503347
+Susan,Parrish,5104373582,"1 Eagle Rd Bldg 1,",Alameda,CA,https://doctor.webmd.com/doctor/susan-parrish-595ca3d5-7836-48e2-b711-9cbfe6a512b6-overview?=lid=6503347
+Dawn,Brown,5107713000,"1524 Fairview St,",Berkeley,CA,https://doctor.webmd.com/doctor/dawn-brown-ba91aa12-4d60-4576-86dc-e6930a20dbe6-overview?=lid=5512405
+Katharine,May,5105210596,"6 Castlebar Pl,",Alameda,CA,https://doctor.webmd.com/doctor/katharine-may-3419edfb-6797-4c74-b69f-4c5a4916909f-overview?=lid=V10277076
+Ronald,Varcak,,"100 International Terminal Level 3 Side,",San Francisco,CA,https://doctor.webmd.com/doctor/ronald-varcak-c951c1e6-0781-49ba-8188-23fa73e5e05a-overview?=lid=V84112
+Frank,Staggers Jr,5106440200,"2975 Sacramento St,",Berkeley,CA,https://doctor.webmd.com/doctor/frank-staggers-jr-2900bfa7-c4a5-48d2-a86d-262aecf7f912-overview?=lid=6510389
+Paul,Marcus,5106440200,"2975 Sacramento St,",Berkeley,CA,https://doctor.webmd.com/doctor/paul-marcus-579e979c-c4ce-48fd-9ab6-6d1a46cc8393-overview?=lid=6510389
+Gordon,Raskin,5106440200,"2975 Sacramento St,",Berkeley,CA,https://doctor.webmd.com/doctor/gordon-raskin-7c4e93b1-1dd1-4153-b441-0477f539958c-overview?=lid=6510389
+Davis,Golson,5106440200,"2975 Sacramento St,",Berkeley,CA,https://doctor.webmd.com/doctor/davis-golson-e318d94b-4c88-4693-a45e-2abd3f25da04-overview?=lid=6510389
+Kathryn,Tenney,4153885520,"125 Throckmorton Ave,",Mill Valley,CA,https://doctor.webmd.com/doctor/kathryn-tenney-35c9e626-6b12-41cf-9e97-4db12a14adc7-overview?=lid=5309204
+Beth,Mcdougall,4153885520,"125 Throckmorton Ave,",Mill Valley,CA,https://doctor.webmd.com/doctor/beth-mcdougall-f103bb2b-e73d-45b4-bb71-89be94c017eb-overview?=lid=5309204
+Ronald,Pinkard,5105970283,"400 40th St Ste 202,",Oakland,CA,https://doctor.webmd.com/doctor/ronald-pinkard-b68b3433-74d1-44df-ab12-f6ba25b57197-overview?=lid=V10486486
+David,Goodman,4156724427,"5643 Paradise Dr,",Corte Madera,CA,https://doctor.webmd.com/doctor/david-goodman-697f370f-a1c4-49bb-be01-8a3a42392bb2-overview?=lid=5468590
+Ushakiran,Khade,5102203294,"1406 Park St Ste 100,",Alameda,CA,https://doctor.webmd.com/doctor/ushakiran-khade-4f8bd578-1eb9-4b8a-9a9a-3ffd2ccd8554-overview?=lid=V10447943
+Brett,Curtis,4159244525,"101 Casa Buena Dr,",Corte Madera,CA,https://doctor.webmd.com/doctor/brett-curtis-2976a50e-1b66-4974-9e3d-00c13d182409-overview?=lid=5085077
+Brett,Mensh,4159244525,"101 Casa Buena Dr,",Corte Madera,CA,https://doctor.webmd.com/doctor/brett-mensh-e43acf63-ec69-4ac8-baf3-9792221f8e34-overview?=lid=V10679446
+Owen,Shibata,8002684420,"2100 Embarcadero Ste 105,",Oakland,CA,https://doctor.webmd.com/doctor/owen-shibata-89256844-9ea4-4ea1-903d-2a3b64c56d09-overview?=lid=V10736671
+Frances,Dalton,5104201860,"3756 Grand Ave Ste 201,",Oakland,CA,https://doctor.webmd.com/doctor/frances-dalton-e57429d2-e257-403d-ac45-643dc83e6977-overview?=lid=5262929
+Robert,Winshall,5305343793,"2721 Shattuck Ave # 268,",Berkeley,CA,https://doctor.webmd.com/doctor/robert-winshall-08709b54-77e1-4d60-bae2-d41830e69b32-overview?=lid=V16998820
+Dipti,Barot,5105354400,"2144 Russell St,",Berkeley,CA,https://doctor.webmd.com/doctor/dipti-barot-06dcab6a-39dd-4d2c-bd6e-d03d45720a88-overview?=lid=V10628295
+Daniel,Kusnir,4155770620,"2315 Prince St,",Berkeley,CA,https://doctor.webmd.com/doctor/daniel-kusnir-31cff7bd-a777-4785-8197-75c7e2989006-overview?=lid=V10401285
+Stephen,Langer,5105487384,"3031 Telegraph Ave Ste 230,",Berkeley,CA,https://doctor.webmd.com/doctor/stephen-langer-46c661b6-e25f-41f8-8037-85b29af30943-overview?=lid=5084891
+Beverly,Mikuriya,,"513 El Cerrito Plz Ste 513,",El Cerrito,CA,https://doctor.webmd.com/doctor/beverly-mikuriya-2de9038f-f6f8-427b-87b9-6f9e74239371-overview?=lid=5084918
+Adam,Gratz,5105241680,"1498 Solano Ave,",Albany,CA,https://doctor.webmd.com/doctor/adam-gratz-7eeb6cb2-2dc3-49af-b023-6b5ab4b52582-overview?=lid=V10524003
+Christine,Ciavarella,5105243117,"400 Evelyn Ave Ste 221,",Albany,CA,https://doctor.webmd.com/doctor/christine-ciavarella-941aae58-a433-4bfa-8b22-36125284b568-overview?=lid=5084895
+Stephanie,Daniel,5108488585,"1700 Shattuck Ave,",Berkeley,CA,https://doctor.webmd.com/doctor/stephanie-daniel-b16575eb-0888-4632-95b5-3236bee83f12-overview?=lid=V10645999
+Sunjya,Schweig,5108496500,"2414 Ashby Ave Ste 201,",Berkeley,CA,https://doctor.webmd.com/doctor/sunjya-schweig-57a398d9-dcd4-e111-9faf-001f29e3eb44-overview?=lid=5573805
+Stephanie,Petreas,5102048120,"2999 Regent St Ste 301,",Berkeley,CA,https://doctor.webmd.com/doctor/stephanie-petreas-52f48811-4571-4b73-ba5b-5b4dc79ff8af-overview?=lid=5042982
+Jane,Summer,5102155001,"1030 Nevin Ave,",Richmond,CA,https://doctor.webmd.com/doctor/jane-summer-ef113fb4-6a3c-4372-bf72-8b345e15c13c-overview?=lid=5294360
+Patricia,Thomas,5102359014,"120 Broadway Ste 21,",Richmond,CA,https://doctor.webmd.com/doctor/patricia-thomas-0b0a090c-0145-4c3d-b6fb-504362fa1c8a-overview?=lid=5084939
+Meheret,Asgedom,5103071500,"901 Nevin Ave,",Richmond,CA,https://doctor.webmd.com/doctor/meheret-asgedom-42643eda-9cb8-4558-9b61-bd81ffc4a0af-overview?=lid=5007333
+Carlos,Ramirez,5105328831,"3608 International Blvd,",Oakland,CA,https://doctor.webmd.com/doctor/carlos-ramirez-5e9164df-8195-4a90-9db2-6678296b53b6-overview?=lid=V10738781
+Aitan,Melamud,6509942868,"1828 El Camino Real Ste 605,",Burlingame,CA,https://doctor.webmd.com/doctor/aitan-melamud-6e253030-779b-4aaf-8265-418b8586c64e-overview?=lid=5046168
+Barry,Landfield,4154613500,"900 S Eliseo Dr Ste 202,",Greenbrae,CA,https://doctor.webmd.com/doctor/barry-landfield-c2fd961e-5382-4ca3-9d4a-5bfc53537dfd-overview?=lid=5021544
+Donald,Calvo,6506970600,"1663 Rollins Rd,",Burlingame,CA,https://doctor.webmd.com/doctor/donald-calvo-2e770520-24db-407f-a1fe-0e4bc26d5ad0-overview?=lid=5082092
+Susan,Fullemann,6506977202,"1820 Ogden Dr Ste 100,",Burlingame,CA,https://doctor.webmd.com/doctor/susan-fullemann-d158ea66-25d2-44fc-b5f3-9d4f7123aa73-overview?=lid=5082113
+Leland,Cohn,,"5828 Saint Paul Ct,",Oakland,CA,https://doctor.webmd.com/doctor/leland-cohn-585adeb8-54a5-4b8a-881b-26844a381666-overview?=lid=V71222
+John,Konstantin,5105305400,"2584 Macarthur Blvd,",Oakland,CA,https://doctor.webmd.com/doctor/john-konstantin-4aeded52-02d0-4780-a894-64e71b1ec0f4-overview?=lid=5084601
+Flash,Gordon,4154612262,"1000 S Eliseo Dr Ste 204,",Greenbrae,CA,https://doctor.webmd.com/doctor/flash-gordon-a2a89b13-b8c9-42df-8422-cf52f3d7547c-overview?=lid=6610534
+John,Andrew,4159251523,"599 Sir Francis Drake Blvd # 20,",Greenbrae,CA,https://doctor.webmd.com/doctor/john-andrew-3e8e9db6-b910-45a6-ac00-a99179942fe6-overview?=lid=5241551
+Michael,Mustille,5106529896,"6201 Swainland Rd,",Oakland,CA,https://doctor.webmd.com/doctor/michael-mustille-7c6001b7-6699-4c76-90ed-6d0dfb682086-overview?=lid=V10161248
+Wanda,Heffernon,4156729861,"2360 Scout Rd,",Oakland,CA,https://doctor.webmd.com/doctor/wanda-heffernon-36b2dd20-4d5b-4fc9-aa1d-64e4396fba78-overview?=lid=V10429714
+James,Taylor,4154550914,"155 Andersen Dr Ste 1108,",San Rafael,CA,https://doctor.webmd.com/doctor/james-taylor-0d71233f-d0ce-4c97-aa79-46c735a90ab6-overview?=lid=5241568
+Catherine,Silva,6502881200,"329 Primrose Rd,",Burlingame,CA,https://doctor.webmd.com/doctor/catherine-silva-61c42670-6b63-4d2d-b0cd-663eb78b31f8-overview?=lid=5533305
+Susan,Lin,6503407546,"448 N San Mateo Dr Ste 1,",San Mateo,CA,https://doctor.webmd.com/doctor/susan-lin-1860abc5-1507-445e-b35a-3e941d542020-overview?=lid=V10630772
+Jamee,Brazier IV,8008864813,"328 N San Mateo Dr Ste C,",San Mateo,CA,https://doctor.webmd.com/doctor/jamee-brazier-iv-6cd3ea86-7508-4e6b-b556-09665afcf1cb-overview?=lid=V10617760
+Masayasu,Kihira,6505580337,"40 N San Mateo Dr,",San Mateo,CA,https://doctor.webmd.com/doctor/masayasu-kihira-5f7aa4f8-4199-4cd0-bc9e-5d79e020c415-overview?=lid=5325044
+Marieta,Angtuaco,6503479858,"101 S San Mateo Dr Ste 115,",San Mateo,CA,https://doctor.webmd.com/doctor/marieta-angtuaco-836ca89d-96c3-44df-8770-f9af904c86c5-overview?=lid=5064932
+Dale,Ritzo,6503434003,"101 S San Mateo Dr Ste 206,",San Mateo,CA,https://doctor.webmd.com/doctor/dale-ritzo-570c5dbd-9805-4450-ac77-fe147f784da0-overview?=lid=5167574
+Denise,Ellison,5107587462,"3160 Garrity Way,",San Pablo,CA,https://doctor.webmd.com/doctor/denise-ellison-36b87545-abee-4253-a962-e749168486da-overview?=lid=5596292
+Robert,Yee,5103513553,"2587 Merced St,",San Leandro,CA,https://doctor.webmd.com/doctor/robert-yee-eb7282a2-6ff8-4ce0-8122-f56b14d964c7-overview?=lid=5084616
+Rebecca,Steinberg,,"2587 Merced St,",San Leandro,CA,https://doctor.webmd.com/doctor/rebecca-steinberg-1cc86952-d2c1-4056-b358-ccc5989de102-overview?=lid=V74367
+Janice,Barry,4154996651,"13 Peter Behr Dr,",San Rafael,CA,https://doctor.webmd.com/doctor/janice-barry-c4d0a5c2-5509-4ed9-bf41-282a7b9ebdb7-overview?=lid=5523332
+Vincent,Baldwin,5103573690,"333 Estudillo Ave Ste C,",San Leandro,CA,https://doctor.webmd.com/doctor/vincent-baldwin-cb75e052-59b4-43d5-9eee-1a86285af6e8-overview?=lid=6510375
+Catherine,Fehrmann,4154599200,"769 Center Blvd Ste 124,",Fairfax,CA,https://doctor.webmd.com/doctor/catherine-fehrmann-2b60b07b-d93e-4c30-9093-963a74b8f383-overview?=lid=5354679
+Kirby,Knox,5104835881,"595 Estudillo Ave,",San Leandro,CA,https://doctor.webmd.com/doctor/kirby-knox-dd37d09b-4bb8-40c8-b87b-72e9e2646a77-overview?=lid=5084360
+Natalie,Viakhireva,4154442940,"99 Montecillo Rd,",San Rafael,CA,https://doctor.webmd.com/doctor/natalie-viakhireva-d62845e1-304a-4c32-a412-0b96463a65be-overview?=lid=5017036
+Caren,Cascio,4154442940,"99 Montecillo Rd,",San Rafael,CA,https://doctor.webmd.com/doctor/caren-cascio-bbba487b-4949-43a2-b8c9-fbff1d0ba43b-overview?=lid=5017036
+Ellen,Prodromou,4154442940,"99 Montecillo Rd,",San Rafael,CA,https://doctor.webmd.com/doctor/ellen-prodromou-de76b167-1d34-4f86-acf1-3e46fc8a81d2-overview?=lid=5017036
+Linda,Humphrey,4154442940,"99 Montecillo Rd,",San Rafael,CA,https://doctor.webmd.com/doctor/linda-humphrey-3974100c-402c-4fff-b0a2-8733a8321262-overview?=lid=5017036
+Patricia,Bauman,4154725733,"750 Las Gallinas Ave Ste 219,",San Rafael,CA,https://doctor.webmd.com/doctor/patricia-bauman-5c5f292a-0a93-43d7-a9e0-a2d16f863c68-overview?=lid=5085002
+Frederick,Hass,4154791771,"750 Las Gallinas Ave Ste 106,",San Rafael,CA,https://doctor.webmd.com/doctor/frederick-hass-e88f8b7d-777d-40e8-87cd-443bbf321ecf-overview?=lid=5064483
+Jane,Wardzinska,5108958700,"13847 E 14th St Ste 110,",San Leandro,CA,https://doctor.webmd.com/doctor/jane-wardzinska-af43ffbf-3cf5-4582-9566-15503d2b5ea9-overview?=lid=5168091
+Miriam,Jang,6503781000,"1241 E Hillsdale Blvd Ste 100,",Foster City,CA,https://doctor.webmd.com/doctor/miriam-jang-283172bf-ba82-4fe7-9207-6c55d7797c49-overview?=lid=V10333694
+Gary,Gadwood,5107240481,"2150 Appian Way Ste 206,",Pinole,CA,https://doctor.webmd.com/doctor/gary-gadwood-50da7e40-d476-44b9-a1c4-c267a6d97fa8-overview?=lid=5064177
+William,Meecham,4154724021,"4280 Redwood Hwy Ste 4,",San Rafael,CA,https://doctor.webmd.com/doctor/william-meecham-a0a61866-dc57-4329-9654-875cdc19689e-overview?=lid=V10414976
+Mary,Tagliaferri,5104204170,"47 Martling Rd,",San Anselmo,CA,https://doctor.webmd.com/doctor/mary-tagliaferri-8147ec65-ae38-4854-8640-e3be1823cdc1-overview?=lid=V10270822
+Ryan,Luginbuhl,5109120105,"13847 E 14th St Ste 108,",San Leandro,CA,https://doctor.webmd.com/doctor/ryan-luginbuhl-7b0846ac-58d6-447b-aa3a-96d2a1e73f02-overview?=lid=V10017168
+Karen,Gold,5104814554,"16335 E 14th St Fl 2,",San Leandro,CA,https://doctor.webmd.com/doctor/karen-gold-966de8ae-583e-42f1-b0df-3599e7993594-overview?=lid=5541971
+Edward,Ohara,5103438300,"13939 E 14th St Ste 150,",San Leandro,CA,https://doctor.webmd.com/doctor/edward-ohara-5104e776-6204-497f-9258-a8526480c0e0-overview?=lid=5549919
+Weyman,Wong,6503496039,"372 Bowfin St,",Foster City,CA,https://doctor.webmd.com/doctor/weyman-wong-0158a8b3-7872-4248-ad2a-5802ea2dd660-overview?=lid=V10401875
+Lauren,Fiske,6503634000,"225 37th Ave,",San Mateo,CA,https://doctor.webmd.com/doctor/lauren-fiske-3db89a72-c5e3-437c-b494-932a112cbdb2-overview?=lid=V10601675
+Daniel,Irby,6505733900,"225 37th Ave,",San Mateo,CA,https://doctor.webmd.com/doctor/daniel-irby-5ce412f2-cb7c-4215-92d4-47275b24b0cf-overview?=lid=V10601675
+Kelly,Heath,6505733702,"222 W 39th Ave,",San Mateo,CA,https://doctor.webmd.com/doctor/kelly-heath-432c61b8-d519-460c-ab0a-227881048ca0-overview?=lid=5402351
+Michael,Lee,6505732222,"222 W 39th Ave,",San Mateo,CA,https://doctor.webmd.com/doctor/michael-lee-781a9a55-e6da-46a1-b32f-ff0dfacbbea9-overview?=lid=V27177
+Michael,Lee,6505732222,"222 W 39th Ave,",San Mateo,CA,https://doctor.webmd.com/doctor/michael-lee-781a9a55-e6da-46a1-b32f-ff0dfacbbea9-overview?=lid=V27177
+Arielle,Lasky,6505732222,"222 W 39th Ave,",San Mateo,CA,https://doctor.webmd.com/doctor/arielle-lasky-cffe6a06-e536-4fc9-bdc8-5913935c9621-overview?=lid=V27177
+Alan,Linder,5102764653,"17251 Hesperian Blvd,",San Lorenzo,CA,https://doctor.webmd.com/doctor/alan-linder-721706e1-30ad-4914-88af-f51d41f348d2-overview?=lid=5037722
+Elyse,Eisenberg,9252845200,"251 Lafayette Cir Ste 150,",Lafayette,CA,https://doctor.webmd.com/doctor/elyse-eisenberg-0bad6762-448d-40d7-9932-9fd08c30d8a0-overview?=lid=5083893
+Lorry,Larson,4159828380,"2201 Brittan Ave,",San Carlos,CA,https://doctor.webmd.com/doctor/lorry-larson-51c835b9-330f-49cb-9dfc-b9c13d5446d1-overview?=lid=V10348917
+Richard,Paltenghi,9254516472,"1547 Palos Verdes Mall # 225,",Walnut Creek,CA,https://doctor.webmd.com/doctor/richard-paltenghi-69c4a794-b044-4112-8843-bc168afdddf1-overview?=lid=V10555391
+Sharon,Friedman,5108853735,"25800 Carlos Bee Blvd,",Hayward,CA,https://doctor.webmd.com/doctor/sharon-friedman-3f841d74-05b3-4adc-a8e7-45c089f5193e-overview?=lid=V10688491
+Taemin,Surh,6502612366,"2900 Whipple Ave Ste 140,",Redwood City,CA,https://doctor.webmd.com/doctor/taemin-surh-abdf1dc2-8f53-41fb-8c36-292fe23e9874-overview?=lid=5619120
+Vicki,Silverman,9254793773,"4000 Dublin Blvd Ste 150,",Dublin,CA,https://doctor.webmd.com/doctor/vicki-silverman-2aa3deba-dcbb-4a4c-9360-52edbcb7de7f-overview?=lid=V10653546
+Rachna,Patel,9257089351,"710 S Broadway Ste 204,",Walnut Creek,CA,https://doctor.webmd.com/doctor/rachna-patel-fdd2b6e0-c001-4f6c-abe3-9c251a973c48-overview?=lid=5562527
+Brent,Price,6502992000,"1100 Veterans Blvd,",Redwood City,CA,https://doctor.webmd.com/doctor/brent-price-b4ba36db-ce26-4c4c-a0d0-201bf680e3a4-overview?=lid=5007254
+Iraj,Naima,9252621162,"1804 San Miguel Dr,",Walnut Creek,CA,https://doctor.webmd.com/doctor/iraj-naima-52aafbb9-38d2-4d67-a1ab-f9269c38155e-overview?=lid=5083938
+Ronald,Campos,9259431721,"1844 San Miguel Dr Ste 307,",Walnut Creek,CA,https://doctor.webmd.com/doctor/ronald-campos-3a5d4464-f63e-4c1f-b3a2-2adebb82d726-overview?=lid=5064317
+Alana,Albano,5107809400,"1649 Industrial Pkwy W,",Hayward,CA,https://doctor.webmd.com/doctor/alana-albano-b45f4468-9cb9-4202-b64f-d60ab914316f-overview?=lid=5577361
+Jeffrey,Stevenson,4158975400,"300 Professional Ctr Dr # 326,",Novato,CA,https://doctor.webmd.com/doctor/jeffrey-stevenson-8055eaad-7fc6-4b6e-ae52-efc7a122f725-overview?=lid=5319537
+Vikas,Patel,9253722000,"150 Muir Rd,",Martinez,CA,https://doctor.webmd.com/doctor/vikas-patel-c02aeb80-2728-4f92-87bc-6e01fea06562-overview?=lid=5007592
+Guy,Tribble,6505684377,"470 W Maple Way,",Woodside,CA,https://doctor.webmd.com/doctor/guy-tribble-353028fa-aca3-44f4-8b07-806ad1e19723-overview?=lid=V93585
+Joseph,Sclafani,6507255106,"450 Broadway St ,",Redwood City,CA,https://doctor.webmd.com/doctor/joseph-sclafani-eed502a7-0ede-4e07-8e6f-53f6aa475b9f-overview?=lid=V10008497
+Larry,Cooperider,9253721000,"200 Muir Rd,",Martinez,CA,https://doctor.webmd.com/doctor/larry-cooperider-901b2e1f-774c-4118-a1df-527d4b87acd0-overview?=lid=5007306
+Stephanie,Chin,9252742860,"106 La Casa Via Ste 140,",Walnut Creek,CA,https://doctor.webmd.com/doctor/stephanie-chin-44f96756-e624-443b-9c2e-6524308cc4fb-overview?=lid=5020875
+Andrea,Agcaoili,9259330707,"1450 Treat Blvd Ste 120,",Walnut Creek,CA,https://doctor.webmd.com/doctor/andrea-agcaoili-bcd13250-7ff3-4b05-af76-19b5a738e0e9-overview?=lid=5064173
+Rakhi,Singh,6505787141,"2710 Middlefield Rd,",Redwood City,CA,https://doctor.webmd.com/doctor/rakhi-singh-7077d25c-96b6-4c36-b28a-1ab22732d0f9-overview?=lid=5012917
+Vera,Janika,4158923300,"1324 Grant Ave,",Novato,CA,https://doctor.webmd.com/doctor/vera-janika-a5f8dce3-e0c3-4dd2-b023-5708fa91af37-overview?=lid=5085140
+Michelle,Cleary,9256761700,"380 Civic Dr Ste 100,",Pleasant Hill,CA,https://doctor.webmd.com/doctor/michelle-cleary-07777b8e-85e9-4e56-8f0c-c57ffdeb4ed9-overview?=lid=5039491
+Pamela,Wang,9258206456,"901 San Ramon Valley Blvd # 130,",Danville,CA,https://doctor.webmd.com/doctor/pamela-wang-2054b136-9cf2-4f2d-9e4b-db8bebcb77c5-overview?=lid=5256884
+Necla,Aydar,7075843001,"301 Georgia St Ste 125,",Vallejo,CA,https://doctor.webmd.com/doctor/necla-aydar-d15de597-5277-4f8b-a657-0ddb089aab24-overview?=lid=V10468105
+Jeila,Kerdar,9256919806,"450 N Wiget Ln,",Walnut Creek,CA,https://doctor.webmd.com/doctor/jeila-kerdar-aeae55ea-5426-4cbd-ad01-721cf595f659-overview?=lid=5083901
+Susanne,Valenti,,"2401 Shadelands Dr Ste 180,",Walnut Creek,CA,https://doctor.webmd.com/doctor/susanne-valenti-de5f9372-aa7f-4517-b695-7ff69343b603-overview?=lid=5084514
+Ingrid,Freeny,9253280255,"2262 Camino Ramon Ste 200,",San Ramon,CA,https://doctor.webmd.com/doctor/ingrid-freeny-b1647526-6eec-40ee-80f7-fdee61052a63-overview?=lid=5467588
+Gabriel,Chua,7076492228,"96 Springstowne Ctr Ste B,",Vallejo,CA,https://doctor.webmd.com/doctor/gabriel-chua-2dc79b81-7b04-4307-819f-89f9164616f9-overview?=lid=5409355
+Kelly,Traver-Selling,6504986500,"1300 Crane St ,",Menlo Park,CA,https://doctor.webmd.com/doctor/kelly-traver-selling-526ec882-24fc-4222-9f1a-786ac2effbb3-overview?=lid=5007250
+Daniel,Huie,6504986500,"1300 Crane St ,",Menlo Park,CA,https://doctor.webmd.com/doctor/daniel-huie-501e5071-9a35-426a-889f-1a02ea5e2c11-overview?=lid=5007250
+Lovina,Chahal,6503250120,"1220 University Dr Ste 202,",Menlo Park,CA,https://doctor.webmd.com/doctor/lovina-chahal-13d82aac-23da-4b3f-9d55-1b53df7a4d57-overview?=lid=V10580273
+Teri,Bilhartz,7076549777,"480 Redwood St Ste 14,",Vallejo,CA,https://doctor.webmd.com/doctor/teri-bilhartz-24f43784-7bad-4832-83da-c9076b6b8b88-overview?=lid=5563043
+Louie,Ortiz-Luis,6502181403,"35455 Dumbarton Ct,",Newark,CA,https://doctor.webmd.com/doctor/louie-ortiz-luis-519e843b-eb3b-4e1d-8684-5e2e08107224-overview?=lid=V10421262
+Michael,Vallo,7075563794,"1617 Broadway St,",Vallejo,CA,https://doctor.webmd.com/doctor/michael-vallo-21f1883a-b43b-4ed4-a9f7-850260bf30e5-overview?=lid=V10725533
+Mary,Rudollph,6504986623,"321 Middlefield Rd Ste 165 ,",Menlo Park,CA,https://doctor.webmd.com/doctor/mary-rudollph-88a7d18e-3601-4b29-986e-3eeebc89aeac-overview?=lid=5508156
+Hari,Samplay,9255970202,"2182 East St,",Concord,CA,https://doctor.webmd.com/doctor/hari-samplay-0b847863-d112-4132-b258-898bb04c47fa-overview?=lid=5300657
+Deepika,Kancherla,9256877272,"2485 High School Ave Ste 311,",Concord,CA,https://doctor.webmd.com/doctor/deepika-kancherla-290b25b0-e280-4aa3-b3c8-2d2c86c96643-overview?=lid=V58913
+Michelle,Buchholz,6503307400,"1885 Bay Rd,",E Palo Alto,CA,https://doctor.webmd.com/doctor/michelle-buchholz-08c1b724-9d0c-476b-9e33-9601cc10c469-overview?=lid=5082207
+Jennifer,Logan,6503237345,"359 Middlefield Rd,",Palo Alto,CA,https://doctor.webmd.com/doctor/jennifer-logan-a849a5e6-b60e-46c1-991b-0942437fbed0-overview?=lid=5391778
+Bryan,Skinner,6503237345,"359 Middlefield Rd,",Palo Alto,CA,https://doctor.webmd.com/doctor/bryan-skinner-6795f515-19cf-48ad-9995-bc6199f58f5e-overview?=lid=5391778
+Destia,Skinner,6503237345,"359 Middlefield Rd,",Palo Alto,CA,https://doctor.webmd.com/doctor/destia-skinner-07254cd4-ee51-439d-b9e7-5d0764e4d2f5-overview?=lid=5391778
+Aide,Paredes-Salceda,7076411900,"220 Hospital Dr,",Vallejo,CA,https://doctor.webmd.com/doctor/aide-paredes-salceda-705d858c-08ca-4f16-9a8d-23a329e537a1-overview?=lid=5513225
+Sara,Whitehead,6503802178,"310 Bryant St,",Palo Alto,CA,https://doctor.webmd.com/doctor/sara-whitehead-22d2ee00-d3af-46bf-b669-e06022b10b1c-overview?=lid=V10331865
+Christopher,Sharp,6507236028,"211 Quarry Rd,",Palo Alto,CA,https://doctor.webmd.com/doctor/christopher-sharp-792a6545-b63c-4308-add5-973c086556fa-overview?=lid=5020224
+Rodolfo,Daquioag,7075544495,"1460 N Camino Alto Ste 100,",Vallejo,CA,https://doctor.webmd.com/doctor/rodolfo-daquioag-b0e10fdd-36de-4bdd-9518-f05eb8910616-overview?=lid=5084458
+Richard,Lee,6502890110,"605 Cowper St,",Palo Alto,CA,https://doctor.webmd.com/doctor/richard-lee-d480d488-e9f9-410c-be26-b12e2483e59d-overview?=lid=5363139
+Edward,Weiss,6503266560,"900 Welch Rd Ste 208,",Palo Alto,CA,https://doctor.webmd.com/doctor/edward-weiss-4b55e933-25c7-4d40-8392-63c920e19638-overview?=lid=V10461377
+Melissa,Fought,6503214121,"795 El Camino Real Lvl 3,",Palo Alto,CA,https://doctor.webmd.com/doctor/melissa-fought-a6e1c679-0200-446a-9b6c-3de7fc5bdb09-overview?=lid=5012913
+Terri,Petersen,6503214121,"795 El Camino Real Lvl 3,",Palo Alto,CA,https://doctor.webmd.com/doctor/terri-petersen-86def471-f77d-43d2-8a92-aa767c17cde1-overview?=lid=5012913
+Randolph,Charlton,6503273636,"690 Waverley St,",Palo Alto,CA,https://doctor.webmd.com/doctor/randolph-charlton-7a33912d-c250-4a5d-9c93-209f115a5220-overview?=lid=5590479
+Allen,Chang,6507234000,"300 Pasteur Dr,",Stanford,CA,https://doctor.webmd.com/doctor/allen-chang-be0e20e4-45c8-419f-b21c-92004c1c5687-overview?=lid=V16867688
+Katie,Knott,6502236400,"825 El Camino Real,",Palo Alto,CA,https://doctor.webmd.com/doctor/katie-knott-c31a8461-333c-4862-9e98-1e01a034be30-overview?=lid=5083516
+Jackie,Bolds,5105051600,"6066 Civic Terrace Ave,",Newark,CA,https://doctor.webmd.com/doctor/jackie-bolds-0931c10c-3b90-4791-a4ca-ec8b689d83c1-overview?=lid=5286235
+Meera,Bhateja,5105051600,"6066 Civic Terrace Ave,",Newark,CA,https://doctor.webmd.com/doctor/meera-bhateja-4e151e53-61f8-48f7-8663-11483422649f-overview?=lid=5286235
+Donald,Siao,4084045050,"3100 Capitol Ave Ste A,",Fremont,CA,https://doctor.webmd.com/doctor/donald-siao-3bc21548-ac02-43a5-b6ec-150c27082d4b-overview?=lid=5571107
+Jessica,Bode,6507244270,"730 Welch Rd Fl 3,",Palo Alto,CA,https://doctor.webmd.com/doctor/jessica-bode-277696f8-4fdf-4e1c-b7b9-33cf5365da29-overview?=lid=5441496
+Ann,Vu-Nguyen,6507234841,"866 Campus Dr,",Stanford,CA,https://doctor.webmd.com/doctor/ann-vu-nguyen-ba66130b-8354-4289-a15e-0ba82e08d216-overview?=lid=5083687
+Julie,Richards,6507234841,"866 Campus Dr,",Stanford,CA,https://doctor.webmd.com/doctor/julie-richards-af3a8ba7-99d5-4f53-b670-dcc939d81795-overview?=lid=5083687
+Racquel,Cua,6507234841,"866 Campus Dr,",Stanford,CA,https://doctor.webmd.com/doctor/racquel-cua-dd034f48-97b3-4910-930f-ce52666d5e0f-overview?=lid=5083687
+Leslie,Abrams,6507234841,"866 Campus Dr,",Stanford,CA,https://doctor.webmd.com/doctor/leslie-abrams-9edc03a0-9ef1-4525-af61-a7b205184222-overview?=lid=5083687
+Brian,Begley,6507234841,"866 Campus Dr,",Stanford,CA,https://doctor.webmd.com/doctor/brian-begley-4afeb027-85e8-42c3-a2c4-b0874d89c83c-overview?=lid=5083687
+Ammie,Rodden,6507234841,"866 Campus Dr,",Stanford,CA,https://doctor.webmd.com/doctor/ammie-rodden-e2ea51ee-078a-4c98-b90c-231b5c2ef271-overview?=lid=5083687
+Rekha,Reddy,6503278717,"270 Grant Ave,",Palo Alto,CA,https://doctor.webmd.com/doctor/rekha-reddy-7ba59f6d-d59e-451c-99ad-fb58a70ec07f-overview?=lid=5012910
+Haleh,Sheikholeslami,6503278717,"270 Grant Ave,",Palo Alto,CA,https://doctor.webmd.com/doctor/haleh-sheikholeslami-622354e9-5d36-4c34-b3af-dcf6b62d297a-overview?=lid=5012910
+Carl,Carlson,5107922012,"2333 Mowry Ave Ste 220,",Fremont,CA,https://doctor.webmd.com/doctor/carl-carlson-d43fce1a-6aa9-45bc-b814-0abf5d6e906e-overview?=lid=5084010
+Erin,Akar,,"2500 Mowry Ave Ste 212,",Fremont,CA,https://doctor.webmd.com/doctor/erin-akar-43a784d9-6703-47a0-910f-e21a11b2ea1f-overview?=lid=V10543608
+Simran,Sethi,2093348540,"210 Fremont Hub Courtyard,",Fremont,CA,https://doctor.webmd.com/doctor/simran-sethi-cbb2479b-4354-4b1d-9ed9-66f653055d98-overview?=lid=V16995686
+Seanna,Kim,5107914001,"39199 Liberty St Bldg B,",Fremont,CA,https://doctor.webmd.com/doctor/seanna-kim-31ec20f6-cb77-4fe9-94b5-9f56fe14445d-overview?=lid=5509721
+Julia,Nyquist,5107961000,"3161 Walnut Ave,",Fremont,CA,https://doctor.webmd.com/doctor/julia-nyquist-96f30b45-13a3-484b-8fb2-6ed0694cf5ed-overview?=lid=5084056
+Veronica,Caballero,5107961000,"3161 Walnut Ave,",Fremont,CA,https://doctor.webmd.com/doctor/veronica-caballero-2e3e7c97-69fb-4651-97fb-68ebb3655c3d-overview?=lid=5084056
+Lilian,Chan,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/lilian-chan-5d8042f1-8b55-4cff-bfef-2204162dba41-overview?=lid=5007300
+Jennifer,Gregovich,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/jennifer-gregovich-13568db9-5952-4852-a582-9101881474c1-overview?=lid=5007300
+Elaine,Berger,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/elaine-berger-4596f329-9144-4988-a094-b2af724318a0-overview?=lid=5007300
+Ravinder,Chohan,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/ravinder-chohan-3335733c-7999-4635-9be8-20659c3ccb2e-overview?=lid=5007300
+Yunhe,Rodriguez Choi,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/yunhe-rodriguez-choi-7b19eaca-32f8-4084-b0dc-43a965bcbe6a-overview?=lid=5007300
+Lili,Tom,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/lili-tom-7596e0ed-7965-43b6-bd91-2cf4c071b478-overview?=lid=5007300
+Ann,Holleman,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/ann-holleman-83cd762c-634f-41b0-93ff-18b5bb286e9b-overview?=lid=5007300
+Julie,Sprague Mc Rae,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/julie-sprague-mc-rae-5e626331-7f48-4e55-ac32-7c07f922416d-overview?=lid=5007300
+Sean,Kennedy,5102483000,"39400 Paseo Padre Pkwy,",Fremont,CA,https://doctor.webmd.com/doctor/sean-kennedy-32f8396f-b273-4ff2-b807-709f7c68f6d5-overview?=lid=5007300
+Peter,Eckman,6504932048,"3507 Alma St,",Palo Alto,CA,https://doctor.webmd.com/doctor/peter-eckman-79dc4f77-2b2c-4ed5-a48b-b955166ccb00-overview?=lid=5083722
+Laura,O'Bannon,6504935000,"3801 Miranda Ave,",Palo Alto,CA,https://doctor.webmd.com/doctor/laura-obannon-97d07082-74e0-4510-a2e3-98320c1efe97-overview?=lid=5493273
+Fredric,Morgan,9256000660,"5776 Stoneridge Mall Rd Ste 175,",Pleasanton,CA,https://doctor.webmd.com/doctor/fredric-morgan-059204a7-5cd1-4a95-9ac9-a84dcec2fe91-overview?=lid=5547622
+Raymond,Herr,9255516700,"5325 Broder Blvd,",Dublin,CA,https://doctor.webmd.com/doctor/raymond-herr-920f5dfc-098c-4b4b-96b7-23bd6dc14d51-overview?=lid=V10306082
+Wesley,Sokolosky,4156697000,"49 Inverness Way,",Inverness,CA,https://doctor.webmd.com/doctor/wesley-sokolosky-69f4db48-2d88-49f6-9eed-e16452239d8c-overview?=lid=V46797
+Tedde,Rinker,6504742130,"5050 El Camino Real Ste 110,",Los Altos,CA,https://doctor.webmd.com/doctor/tedde-rinker-9fd514d8-1ac7-432a-9a24-eb6ffb5488fa-overview?=lid=5082186
+Anne,Ray,6502545200,"370 Distel Cir,",Los Altos,CA,https://doctor.webmd.com/doctor/anne-ray-e57c4a99-c7c7-4247-85ee-f278efcaa83f-overview?=lid=V10750399
+Rose,Conde,6502545200,"370 Distel Cir,",Los Altos,CA,https://doctor.webmd.com/doctor/rose-conde-f012dbce-0b97-4fdb-bed8-3e4bd5d8fe98-overview?=lid=5012907
+Anuja,Garg,9254621755,"4361 Railroad Ave Ste G,",Pleasanton,CA,https://doctor.webmd.com/doctor/anuja-garg-4e648ba8-3d11-4864-af57-ba82b24c8770-overview?=lid=5084161
+Priyanka,Kallem,9254621755,"4361 Railroad Ave Ste G,",Pleasanton,CA,https://doctor.webmd.com/doctor/priyanka-kallem-39a41b60-7671-46dc-835e-24deeac2746d-overview?=lid=5084161
+Sadaf,Zafer,9254621755,"4361 Railroad Ave Ste G,",Pleasanton,CA,https://doctor.webmd.com/doctor/sadaf-zafer-1f269718-7698-4184-812d-68d8e81fdc85-overview?=lid=5084161
+Charles,White,9254621755,"4361 Railroad Ave Ste G,",Pleasanton,CA,https://doctor.webmd.com/doctor/charles-white-3ec11810-5964-40eb-8a1d-c6097a41bfd6-overview?=lid=5084161
+Sudha,Chadalawada,9254621755,"4361 Railroad Ave Ste G,",Pleasanton,CA,https://doctor.webmd.com/doctor/sudha-chadalawada-301900cd-4480-49b0-896a-91a9c57effc9-overview?=lid=5084161
+June,Withers,6509682389,"4906 El Camino Real Ste 2,",Los Altos,CA,https://doctor.webmd.com/doctor/june-withers-95e5683e-d279-4ac7-81c6-583b7c2e396d-overview?=lid=5312756
+Karen,Krieger Bagwe,6506038234,"546 Vernon Ave,",Mountain View,CA,https://doctor.webmd.com/doctor/karen-krieger-bagwe-4c9c53f2-aaea-4789-b8b3-de0faef4ed27-overview?=lid=V10289563
+Eugene,Shusterman,9254257363,"1048 Serpentine Ln Ste 301,",Pleasanton,CA,https://doctor.webmd.com/doctor/eugene-shusterman-4fc38f82-6f5f-4ffc-b5ef-5b962fba24c3-overview?=lid=V10769525
+Elizabeth,Ryan,7077653900,"3900 Lakeville Hwy,",Petaluma,CA,https://doctor.webmd.com/doctor/elizabeth-ryan-94875ec3-198b-435d-8e8d-e964965a8d03-overview?=lid=5007340
+Milton,Mccoll,6505207284,"13151 W Sunset Dr,",Los Altos Hills,CA,https://doctor.webmd.com/doctor/milton-mccoll-d8a7599d-4be1-4265-99a8-882c57315afa-overview?=lid=V4978
+Miguel,Avila-Rondon,9256620982,"100 Main St,",Pleasanton,CA,https://doctor.webmd.com/doctor/miguel-avila-rondon-99510be1-56a0-48fe-8a35-b7661b9d725f-overview?=lid=A2789064
+Christine,Green,6504338925,"2500 Hospital Dr Ste 220 Bldg 2,",Mountain View,CA,https://doctor.webmd.com/doctor/christine-green-3172348c-f4ec-4e6c-b7f7-1a379e6b0b2f-overview?=lid=5584092
+Jessica,Boone,6503256682,"2500 Hospital Dr Bldg 7,",Mountain View,CA,https://doctor.webmd.com/doctor/jessica-boone-c215cf93-13f6-4c35-ab1a-6ebc911e202d-overview?=lid=5481103
+Danielle,Vak,6503256682,"2500 Hospital Dr Bldg 7,",Mountain View,CA,https://doctor.webmd.com/doctor/danielle-vak-7ae84374-55b3-46cc-9547-bbff523cca43-overview?=lid=5481103
+Edwin,Solis,9254322345,"3800 Railroad Ave,",Pittsburg,CA,https://doctor.webmd.com/doctor/edwin-solis-8c0e2ec8-0a81-4448-884b-5ad00378fc52-overview?=lid=V45872
+Diane,Dressman,6509347111,"701 E El Camino Real,",Mountain View,CA,https://doctor.webmd.com/doctor/diane-dressman-27150d07-8259-4c10-baac-a26ee6f58a69-overview?=lid=5082321
+Nicholas,Perrotto Jr,6509347111,"701 E El Camino Real,",Mountain View,CA,https://doctor.webmd.com/doctor/nicholas-perrotto-jr-8d017b36-1073-4ff6-a9df-d3f5221c4f50-overview?=lid=5082321
+Nicholas,Strange,7077639891,"905 E Washington St Ste 106,",Petaluma,CA,https://doctor.webmd.com/doctor/nicholas-strange-0bc4d4bf-4329-47c1-9001-7a528cd612e8-overview?=lid=5000349
+Michael,Kitt,6504383676,"3372 Shady Spring Ln,",Mountain View,CA,https://doctor.webmd.com/doctor/michael-kitt-38ee5393-85c8-4e7b-8540-c0a8e0df1289-overview?=lid=V10525035
+Richard,Chadwin,7078496533,"690 Hudson Ct,",Sonoma,CA,https://doctor.webmd.com/doctor/richard-chadwin-bcbe137f-7db6-4ac3-a3d5-1984c8aaee2e-overview?=lid=V10468
+Karen,Davis,7079386556,"15000 Arnold Dr,",Sonoma,CA,https://doctor.webmd.com/doctor/karen-davis-8c2e54e2-35df-4ac2-91d2-6ddfe4b4523d-overview?=lid=V69483
+Kenneth,Chew,7078642401,"500 Walnut Dr,",Fairfield,CA,https://doctor.webmd.com/doctor/kenneth-chew-392da730-c090-4459-92b1-f6fa7573d9b1-overview?=lid=V10300657
+Marci,Camenisch,4086889720,"2518 Mission College Blvd # 101,",Santa Clara,CA,https://doctor.webmd.com/doctor/marci-camenisch-df4bd65d-9bbe-4a12-abf9-857c4be4391a-overview?=lid=5596603
+Gary,Peer,9254471330,"87 Fenton St Ste 101,",Livermore,CA,https://doctor.webmd.com/doctor/gary-peer-d5607040-a150-4f78-8536-4bc0fb0d5ef8-overview?=lid=5084166
+Lewis,Broschard,7074274900,"2720 Low Ct Fl 1,",Fairfield,CA,https://doctor.webmd.com/doctor/lewis-broschard-81e2b375-fab4-48c6-9620-89c08319fec2-overview?=lid=5039970
+Andrea,Picchi,9252434400,"3000 Las Positas Rd,",Livermore,CA,https://doctor.webmd.com/doctor/andrea-picchi-2d87c988-f87a-4479-b239-d98b73051de5-overview?=lid=5482504
+Usha,Belani,4084516000,"3500 Zanker Rd,",San Jose,CA,https://doctor.webmd.com/doctor/usha-belani-0283121c-ded0-4b37-8814-5f829ff759d5-overview?=lid=V10007115
+Daniel,Martinez,4082625223,"854 N Hillview Dr,",Milpitas,CA,https://doctor.webmd.com/doctor/daniel-martinez-2000c7e3-633b-414c-b648-da196b786d90-overview?=lid=5064676
+Florentina,Duke,9257551255,"3903 Lone Tree Way Ste 104,",Antioch,CA,https://doctor.webmd.com/doctor/florentina-duke-d6545edf-f558-435c-8135-3434067c9d4a-overview?=lid=5165375
+Robert,Erwin,7072557222,"1700 Soscol Ave Ste 21,",Napa,CA,https://doctor.webmd.com/doctor/robert-erwin-c18f6467-e816-420f-939d-3850bdc865b7-overview?=lid=V10595202
+William,Quismorio,9255220124,"3707 Sunset Ln,",Antioch,CA,https://doctor.webmd.com/doctor/william-quismorio-1eab95f5-30a4-48ed-a5f6-d2cfa9f12758-overview?=lid=6507147
+Peter,Chung,4082470099,"1470 Halford Ave,",Santa Clara,CA,https://doctor.webmd.com/doctor/peter-chung-a5ca7eb6-7662-4b92-a2f9-fbc0c00f2860-overview?=lid=5319534
+Michele,Leary,7077842010,"2201 Courage Dr Ste 9-100,",Fairfield,CA,https://doctor.webmd.com/doctor/michele-leary-40c618f4-bc47-4748-bb7f-5f0c8baaa123-overview?=lid=5083988
+Gregory,Yesensky,7077842010,"2201 Courage Dr Ste 9-100,",Fairfield,CA,https://doctor.webmd.com/doctor/gregory-yesensky-e9744d67-e79e-43c6-b045-000fd0b8b456-overview?=lid=5083988
+Tuan,Tran,4082636207,"629 S Main St,",Milpitas,CA,https://doctor.webmd.com/doctor/tuan-tran-213f2131-b952-41b3-ad64-b51b2e64e42f-overview?=lid=V10466162
+George,Vellucci,7072582500,"3285 Claremont Way,",Napa,CA,https://doctor.webmd.com/doctor/george-vellucci-1637a716-62b0-48a8-9b1d-e889e12007c2-overview?=lid=5007308
+Gurinder,Dhindsa,9258136500,"4501 Sand Creek Rd,",Antioch,CA,https://doctor.webmd.com/doctor/gurinder-dhindsa-32d4151b-c5f8-48e8-b0a3-6c984b6325e4-overview?=lid=5424807
+Efren,Obsuna,4082366400,"710 Lawrence Expy Dept 460,",Santa Clara,CA,https://doctor.webmd.com/doctor/efren-obsuna-09ab37ce-150e-495a-99f2-2ed3e77ccbf9-overview?=lid=5618941
+Nancy,Lan,4088511850,"710 Lawrence Expy Ste 148,",Santa Clara,CA,https://doctor.webmd.com/doctor/nancy-lan-83a9b1a9-aa9d-4b0a-bfb0-ee21dfb3a032-overview?=lid=5527448
+Kelly,Williams,7072555454,"3421 Villa Ln Ste 2B,",Napa,CA,https://doctor.webmd.com/doctor/kelly-williams-17dd6bdb-d01f-495a-badb-805e6e083218-overview?=lid=V10448542
+Tracy,Hoeg,7072555454,"3421 Villa Ln Ste 2B,",Napa,CA,https://doctor.webmd.com/doctor/tracy-hoeg-5520c0db-e4d3-4be6-8753-a299de1f520c-overview?=lid=V10448542
+Kathleen,Preston,7072529660,"3434 Villa Ln Ste 150,",Napa,CA,https://doctor.webmd.com/doctor/kathleen-preston-e8aca61a-2372-4d70-832d-e34f8b3fd349-overview?=lid=5288664
+Benjamin,Rosner,4088511000,"700 Lawrence Expy,",Santa Clara,CA,https://doctor.webmd.com/doctor/benjamin-rosner-c9795bb2-560e-470c-aa43-647e32cef1ad-overview?=lid=5518724
+Esther,Duran,4088511000,"700 Lawrence Expy,",Santa Clara,CA,https://doctor.webmd.com/doctor/esther-duran-ce9b492f-9b1a-4f30-8ecc-335b51841d26-overview?=lid=5443105
+John,Oneil,4082441834,"1659 Scott Blvd Ste 30,",Santa Clara,CA,https://doctor.webmd.com/doctor/john-oneil-8204fe0c-bee4-4b9f-b55f-fe55a180e2cc-overview?=lid=V16913252
+Donna,Nchekwube,4082817777,"1825 Civic Center Dr Ste 17,",Santa Clara,CA,https://doctor.webmd.com/doctor/donna-nchekwube-f50fe744-b639-44f3-bd40-497fd9d045ea-overview?=lid=V10336740
+Robert,Varady,7074280778,"1525 Webster St Ste B,",Fairfield,CA,https://doctor.webmd.com/doctor/robert-varady-4a87a3c7-7ee9-4051-b056-fed01404b48f-overview?=lid=5507130
+Traci,Stevenson,7079386000,"15000 Arnold Dr,",Eldridge,CA,https://doctor.webmd.com/doctor/traci-stevenson-1ed190b9-53fc-4fc9-bd73-407724f0e30a-overview?=lid=5086578
+Ines,Munoz De Laborde,8882652120,"1910 N Capitol Ave,",San Jose,CA,https://doctor.webmd.com/doctor/ines-munoz-de-laborde-dd47164b-b730-463a-9a74-9581d4b9dc80-overview?=lid=5021542
+Sanjay,Raisoni,7076465000,"1200 B Gale Wilson Blvd,",Fairfield,CA,https://doctor.webmd.com/doctor/sanjay-raisoni-3e51195a-0720-4a3a-9f00-2dd9a5c78ca2-overview?=lid=V57888
+Lisa,Lommel,4085544501,"500 El Camino Real Ste 701,",Santa Clara,CA,https://doctor.webmd.com/doctor/lisa-lommel-b305ae44-3234-494e-be90-2829cf58e23c-overview?=lid=5523315
+Lisa,Lommel,4085544501,"500 El Camino Real Ste 701,",Santa Clara,CA,https://doctor.webmd.com/doctor/lisa-lommel-b305ae44-3234-494e-be90-2829cf58e23c-overview?=lid=5523315
+Christa,Bradley,4089888581,"1720 Ringwood Ave Ste 102,",San Jose,CA,https://doctor.webmd.com/doctor/christa-bradley-64d17ac6-2d97-4222-aa7d-780da5a850ba-overview?=lid=5319533
+Abdelsalam,Mogasbe,4085966278,"4030 Moorpark Ave Ste 251,",San Jose,CA,https://doctor.webmd.com/doctor/abdelsalam-mogasbe-e52a9b2e-6f3a-4411-b98a-812839864dc4-overview?=lid=V10592194
+Jane,Chung,4089960200,"1471 Saratoga Ave Ste 200,",San Jose,CA,https://doctor.webmd.com/doctor/jane-chung-661904e4-29aa-4c96-8d15-b8047bfd2804-overview?=lid=V10165806
+Liza,Shiff,4089718080,"2101 Forest Ave Ste 116,",San Jose,CA,https://doctor.webmd.com/doctor/liza-shiff-1fb44d68-3e06-40fc-81cf-6f39cc44aee5-overview?=lid=5085876
+Dhanu,Kapoor,4082412900,"2110 Forest Ave Ste E,",San Jose,CA,https://doctor.webmd.com/doctor/dhanu-kapoor-6420381f-bd9c-4da8-aacd-0e07955a0ed4-overview?=lid=5064882
+Anthony,Wong,,"1848 Saratoga Ave Ste 2,",Saratoga,CA,https://doctor.webmd.com/doctor/anthony-wong-2e72dea9-8fe2-442c-96d0-12feaef3bce3-overview?=lid=5383645
+Sherry,Albrink,9255139495,"3291 Walnut Blvd Ste 100,",Brentwood,CA,https://doctor.webmd.com/doctor/sherry-albrink-9cd492f6-b8ab-4e63-86b1-9cc9d04600ad-overview?=lid=5584000
+Mike,Nichols,4086472130,"14583 Big Basin Way Ste 2B,",Saratoga,CA,https://doctor.webmd.com/doctor/mike-nichols-76dfc3cb-9b70-4a68-b1dc-946d42479837-overview?=lid=5466812
+Jordan,Jarvis,7075864320,"6174 State Farm Dr,",Rohnert Park,CA,https://doctor.webmd.com/doctor/jordan-jarvis-05d50618-8db9-40ca-a0a8-fcc278455c28-overview?=lid=V10786131
+Andrew,Wong,4082979852,"259 Meridian Ave Ste 15,",San Jose,CA,https://doctor.webmd.com/doctor/andrew-wong-2b9bd234-6645-443e-8402-a30c6c1e76dd-overview?=lid=5285129
+Alfred,Forrest,4087412159,"14000 Fruitvale Ave,",Saratoga,CA,https://doctor.webmd.com/doctor/alfred-forrest-1033e830-aa27-4415-b94c-7af70bb4cee8-overview?=lid=V10401905
+Rickie,Dugal,4084778080,"1901 Monterey Hwy,",San Jose,CA,https://doctor.webmd.com/doctor/rickie-dugal-1546bd3e-7cfd-4ae3-925b-a990213ff0ac-overview?=lid=5559535
+Harry,Friedman,4082471169,"1520 Parkmoor Ave Ste A,",San Jose,CA,https://doctor.webmd.com/doctor/harry-friedman-f14a6ac2-92ed-4c0a-b218-2bc4b13a1de6-overview?=lid=5494070
+Jacqueline,Newton,4089774500,"777 E Santa Clara St,",San Jose,CA,https://doctor.webmd.com/doctor/jacqueline-newton-f5ab5226-a419-4529-a133-abce9014bd8d-overview?=lid=5620929
+Ari,Friedman,4089774500,"777 E Santa Clara St,",San Jose,CA,https://doctor.webmd.com/doctor/ari-friedman-7165553f-2362-4a9c-9216-da177cb6ffaa-overview?=lid=5620929
+Vladimir,Oykhman,4082783620,"625 Lincoln Ave,",San Jose,CA,https://doctor.webmd.com/doctor/vladimir-oykhman-4cd72010-cc2a-43bd-95e2-9176391a2bc7-overview?=lid=5000378
+Harley,Negin,4082783620,"625 Lincoln Ave,",San Jose,CA,https://doctor.webmd.com/doctor/harley-negin-9e0aae85-9110-4c69-a15a-598cc9f27914-overview?=lid=5000378
+Kim,Dao,4082547400,"2360 McKee Rd Ste 4,",San Jose,CA,https://doctor.webmd.com/doctor/kim-dao-86e14872-89b2-45f6-83ac-1d57878a976d-overview?=lid=5064681
+Darith,Khay,4082541500,"200 Jose Figueres Ave Ste 315,",San Jose,CA,https://doctor.webmd.com/doctor/darith-khay-265996c7-cbdb-4398-81f4-1d7b45f99213-overview?=lid=5223734
+Pacifico,Santos,4089268300,"200 Jose Figueres Ave Ste 325,",San Jose,CA,https://doctor.webmd.com/doctor/pacifico-santos-8bd66d10-052c-487c-bddd-d0d88a9ca62e-overview?=lid=5064956
+Kashif,Abdullah,4087087743,"175 N Jackson Ave Ste 101,",San Jose,CA,https://doctor.webmd.com/doctor/kashif-abdullah-2d415b95-45f4-48bc-882e-8f0c88aa48bf-overview?=lid=5623542
+Sally,Nacianceno,4082513364,"175 N Jackson Ave Ste 110,",San Jose,CA,https://doctor.webmd.com/doctor/sally-nacianceno-c717491d-6452-455b-a9e8-0e8e531c8a30-overview?=lid=5064869
+Julie,Fields,7079444716,"220 California Dr,",Yountville,CA,https://doctor.webmd.com/doctor/julie-fields-df8fd1a7-1eb6-481b-b4ff-7358e6e3ec72-overview?=lid=5362655
+George,Guido,4085593403,"2542 S Bascom Ave Ste 110,",Campbell,CA,https://doctor.webmd.com/doctor/george-guido-c9eb455e-9454-4c28-86a4-5712a442a005-overview?=lid=5085382
+Them,Huynh,4082547524,"1855 Alum Rock Ave Ste C,",San Jose,CA,https://doctor.webmd.com/doctor/them-huynh-3d104435-99a1-40cb-87d4-3958c327e438-overview?=lid=5085671
+George,Parkinson,4085594311,"1426 E Hamilton Ave Ste B,",Campbell,CA,https://doctor.webmd.com/doctor/george-parkinson-fa3edb19-5cd1-4279-97ca-98a06a9e03ac-overview?=lid=V10604237
+Chung,Tran,4089185500,"195 E Virginia St,",San Jose,CA,https://doctor.webmd.com/doctor/chung-tran-064b2ec5-9dca-43d2-94d5-ad0b31ca03b3-overview?=lid=5261731
+Grace,Choi,4088666651,"555 Knowles Dr Ste 211,",Los Gatos,CA,https://doctor.webmd.com/doctor/grace-choi-574f9077-5141-4426-98f8-609dcd5d74e9-overview?=lid=5476629
+Claudia,Rimai,4088716500,"220 E Hacienda Ave,",Campbell,CA,https://doctor.webmd.com/doctor/claudia-rimai-3511add3-9022-47f8-be2e-27d802dcd718-overview?=lid=5214787
+Nghi,Luu,4082726300,"3030 Alum Rock Ave,",San Jose,CA,https://doctor.webmd.com/doctor/nghi-luu-6e51bc8a-3ca7-4a4e-a1a6-5e9b379250ef-overview?=lid=5012901
+Hai,Nguyen,4089295505,"459 S Capitol Ave Ste 4,",San Jose,CA,https://doctor.webmd.com/doctor/hai-nguyen-79ed22b5-5330-496b-bb78-29fdc983ce26-overview?=lid=5522651
+Peter,Nguyen,4087942088,"749 Story Rd Ste 20,",San Jose,CA,https://doctor.webmd.com/doctor/peter-nguyen-405ccd7c-fbad-4d3f-8c1f-289f7469db15-overview?=lid=5304149
+Brenda,Malone,2098364417,"3852 Main St,",Byron,CA,https://doctor.webmd.com/doctor/brenda-malone-f43f6361-41c2-403c-9740-8aa550e70fa9-overview?=lid=V10668094
+Binoye,Naku,4089269937,"1119 S King Rd,",San Jose,CA,https://doctor.webmd.com/doctor/binoye-naku-8305b38b-8eda-4d5c-bd35-1c28ebc36940-overview?=lid=V16942004
+Rebecca,Belway,4083565292,"3425 S Bascom Ave Ste 200,",Campbell,CA,https://doctor.webmd.com/doctor/rebecca-belway-a734ceba-c19f-4d60-ba0b-ab449f7ceaaf-overview?=lid=5371810
+Christopher,Cirone,4083717777,"14880 Los Gatos Blvd,",Los Gatos,CA,https://doctor.webmd.com/doctor/christopher-cirone-b09b7676-fa1d-4692-93b8-13c780754d31-overview?=lid=5007360
+Robert,Marx,4083583511,"14911 National Ave Ste 7,",Los Gatos,CA,https://doctor.webmd.com/doctor/robert-marx-a5497a30-b6e4-4f3d-8109-4214ecc787a6-overview?=lid=5064961
+Dewey,Duckham,4083583836,"15251 National Ave Ste 108,",Los Gatos,CA,https://doctor.webmd.com/doctor/dewey-duckham-2dd210f8-be96-4222-ba5a-33dae60a089c-overview?=lid=5085378
+Sheri,Bortz,4083779180,"555 Knowles Dr Ste 203,",Los Gatos,CA,https://doctor.webmd.com/doctor/sheri-bortz-71131293-0464-4c79-9cbc-d7cdf514153b-overview?=lid=5038003
+Zuo-Fen,Hauf,7075919667,"1580 Sebastopol Rd BLDNG A,",Santa Rosa,CA,https://doctor.webmd.com/doctor/zuo-fen-hauf-1e80ecba-53ea-436e-9cd9-d52b3fe3ad3a-overview?=lid=5507162
+Lien,Nguyen,4082704267,"1569 Lexann Ave Ste 120,",San Jose,CA,https://doctor.webmd.com/doctor/lien-nguyen-6b0d31cc-c387-4451-a097-41cafdef5ef5-overview?=lid=5065369
+Nga,Pham,4085320105,"1569 Lexann Ave Ste 112,",San Jose,CA,https://doctor.webmd.com/doctor/nga-pham-a465ee1e-2e7b-49b6-a90b-1d43f3674336-overview?=lid=5167258
+Norma,Dassah,7074490483,"405 Boyd St,",Vacaville,CA,https://doctor.webmd.com/doctor/norma-dassah-796dfbed-d7b1-4a35-9501-d477b5562630-overview?=lid=V10464865
+Leizel,Fajardo,,"1600 California Dr,",Vacaville,CA,https://doctor.webmd.com/doctor/leizel-fajardo-d2b4ec7b-8172-419e-8286-ec0ef5a9d4c4-overview?=lid=5087229
+Manish,Kumar,,"1600 California Dr,",Vacaville,CA,https://doctor.webmd.com/doctor/manish-kumar-995778c5-a745-4f86-8001-f319e9914b4e-overview?=lid=5087229
+Susan,Sommer,,"1600 California Dr,",Vacaville,CA,https://doctor.webmd.com/doctor/susan-sommer-145352a4-7258-4de1-a807-93466bf708bf-overview?=lid=5087229
+Jean,Unajan,,"1600 California Dr,",Vacaville,CA,https://doctor.webmd.com/doctor/jean-unajan-17a97598-a292-4879-bfee-f4bc19795aa4-overview?=lid=5087229
+Kent,Matsuda,7075462506,"4710 Hoen Ave,",Santa Rosa,CA,https://doctor.webmd.com/doctor/kent-matsuda-034148ee-dabb-4024-9dc2-b68abce9ec59-overview?=lid=5065096
+R,Hiserote,7078248764,"496 S Main St,",Sebastopol,CA,https://doctor.webmd.com/doctor/r-hiserote-b70a245c-4f6d-45d9-9057-9ba5f29f67a3-overview?=lid=5086647
+E,Holland,7078248764,"496 S Main St,",Sebastopol,CA,https://doctor.webmd.com/doctor/e-holland-71ac4e67-a0be-4a34-97ea-d4b502e33630-overview?=lid=5086647
+James,Thomson,7075468918,"1212 Farmers Ln Ste 1,",Santa Rosa,CA,https://doctor.webmd.com/doctor/james-thomson-30b26378-d482-43c5-999c-c7e7dee4243d-overview?=lid=5086518
+Louis,Tran,4082813889,"2899 Center Rd Ste 140,",San Jose,CA,https://doctor.webmd.com/doctor/louis-tran-274bab67-5e58-469a-a98a-61a28787a566-overview?=lid=5085602
+Maria,Stoner,7074694640,"1119 E Monte Vista Ave,",Vacaville,CA,https://doctor.webmd.com/doctor/maria-stoner-5971b34c-97e3-40c5-8803-d715fe5b1aff-overview?=lid=5567954
+Kay,Weinshienk,7078249090,"145 Pleasant Hill Ave N Ste 104,",Sebastopol,CA,https://doctor.webmd.com/doctor/kay-weinshienk-ce73340a-2dbb-44eb-a844-e325835acc99-overview?=lid=V10297417
+Kathleen,Mott,7075256180,"121 Sotoyome St Ste 203,",Santa Rosa,CA,https://doctor.webmd.com/doctor/kathleen-mott-607e203c-befb-473b-abc9-c7c4d6915974-overview?=lid=5500894
+Anna Marie,Antonio,7076248230,"1020 Nut Tree Rd Ste 290,",Vacaville,CA,https://doctor.webmd.com/doctor/anna-marie-antonio-5f91798d-5b69-42b6-9d92-ac41af2b90fd-overview?=lid=5382066
+Vivek,Sahani,7075256180,"121 Sotoyome St,",Santa Rosa,CA,https://doctor.webmd.com/doctor/vivek-sahani-516db906-79ac-439b-ae6e-13e4cbe3d238-overview?=lid=V10047714
+Jon,Sterngold,7075865555,"5480 Diane Way,",Santa Rosa,CA,https://doctor.webmd.com/doctor/jon-sterngold-cb67f8b9-2650-4066-9a23-15bb8f6dda1e-overview?=lid=V16941144
+Donald,Boone,7075214500,"144 Stony Point Rd,",Santa Rosa,CA,https://doctor.webmd.com/doctor/donald-boone-57b548ce-d271-4669-8771-87e0e2acf058-overview?=lid=5064824
+Nisha,Money,7075214500,"144 Stony Point Rd,",Santa Rosa,CA,https://doctor.webmd.com/doctor/nisha-money-1fa54afc-2ffc-4304-ba4f-3ce4dafb2d51-overview?=lid=V10791350
+Michael,Klaper,7075865555,"1551 Pacific Ave,",Santa Rosa,CA,https://doctor.webmd.com/doctor/michael-klaper-6607d64c-9772-4a3a-bcb1-c8c96d4856f3-overview?=lid=5085103
+Isaac,Eliaz,7075425900,"398 Tesconi Ct,",Santa Rosa,CA,https://doctor.webmd.com/doctor/isaac-eliaz-d6085c97-afd7-46d8-aa9a-9beceb25a7bd-overview?=lid=5086557
+Raymond,Donovan,7074196026,"417 Eagle Crest Way,",Rio Vista,CA,https://doctor.webmd.com/doctor/raymond-donovan-33ef05b8-014c-4f0b-b87e-6723c82939d6-overview?=lid=V10248104
+Courtney,Dudley,4082684900,"6475 Camden Ave Ste 107,",San Jose,CA,https://doctor.webmd.com/doctor/courtney-dudley-bfd9a838-6b17-48fc-b1a6-8319ad2a5fa1-overview?=lid=5048408
+Barbara,Ferrell,4082706480,"3095 Yerba Buena Rd,",San Jose,CA,https://doctor.webmd.com/doctor/barbara-ferrell-39cdb450-8db8-4bac-9fbf-0ca9b135a1d4-overview?=lid=5593128
+Shiroko,Sokitch,7075249640,"2200 Range Ave Ste 109,",Santa Rosa,CA,https://doctor.webmd.com/doctor/shiroko-sokitch-9ed7d2a3-d56b-43ba-a75a-c7f304832816-overview?=lid=5086431
+Mary,Dylla,7079637307,"1120 Pope St Ste 100,",Saint Helena,CA,https://doctor.webmd.com/doctor/mary-dylla-6b233efa-f4ff-4f46-a6f1-40fc9fc07d88-overview?=lid=5238479
+Powen,Tu,4089723000,"250 Hospital Pkwy,",San Jose,CA,https://doctor.webmd.com/doctor/powen-tu-e80baead-d73e-4a6b-8cc5-9e86c3667f9a-overview?=lid=V10532713
+Martha,Porter,4089727000,"260 International Cir,",San Jose,CA,https://doctor.webmd.com/doctor/martha-porter-7c793508-9337-4893-bd71-854741ddd0eb-overview?=lid=V10290014
+John,Laird,7079650456,"5 Laguna Seca Ct,",Saint Helena,CA,https://doctor.webmd.com/doctor/john-laird-44a14aaa-43c1-40ea-9877-3fa43f5a8f56-overview?=lid=V121885
+Douglas,Ballaine,7075267608,"2635 Cleveland Ave Ste 5,",Santa Rosa,CA,https://doctor.webmd.com/doctor/douglas-ballaine-647861c1-2f61-4375-97bb-dcc0455c8209-overview?=lid=5591303
+Nathan,Swain,7075665557,"3975 Old Redwood Hwy Ste 152,",Santa Rosa,CA,https://doctor.webmd.com/doctor/nathan-swain-e5edbbaa-33ed-4a0f-8faa-0f13acd091be-overview?=lid=V10277824
+Carolyn,Jameson,7078742444,"3802 Main St,",Occidental,CA,https://doctor.webmd.com/doctor/carolyn-jameson-cf9aa4e0-20b4-402f-9023-18b5004ccd5c-overview?=lid=5039986
+Jonathan,Terry,4082849031,"455 Silicon Valley Blvd,",San Jose,CA,https://doctor.webmd.com/doctor/jonathan-terry-e0174e99-634a-4e94-921a-fa675a14c3a7-overview?=lid=V10793168
+Madhur,Saxena,4083633000,"80 Great Oaks Blvd,",San Jose,CA,https://doctor.webmd.com/doctor/madhur-saxena-a82bc388-4f5a-4a3a-bab0-8bd245942537-overview?=lid=5249658
+David,Beilstein,7075785599,"422 Larkfield Ctr # 271,",Santa Rosa,CA,https://doctor.webmd.com/doctor/david-beilstein-852afd62-2286-4bbd-b4de-3bb175a6769f-overview?=lid=V10124879
+Ellen,Barnett,7072849200,"175 Concourse Blvd,",Santa Rosa,CA,https://doctor.webmd.com/doctor/ellen-barnett-e7aef2e8-8bce-42fc-a559-be97a01a19ec-overview?=lid=5083880
+Robert,Dozor,7072849200,"175 Concourse Blvd,",Santa Rosa,CA,https://doctor.webmd.com/doctor/robert-dozor-44be7708-0a3a-41aa-8054-778c97d0bc6b-overview?=lid=5083880
+Shital,Hubli,2098328984,"644 W 12th St,",Tracy,CA,https://doctor.webmd.com/doctor/shital-hubli-a47fb37c-13a3-4203-828f-fd3586b0ea60-overview?=lid=5065530
+Alice,Delaurier-O Nei,2098354232,"530 W Eaton Ave Ste K,",Tracy,CA,https://doctor.webmd.com/doctor/alice-delaurier-o-nei-a3c24a46-715d-4c94-9f2d-227322d8fac0-overview?=lid=5065537
+Catherine,Montemayor,7076351600,"131 W A St Ste 1,",Dixon,CA,https://doctor.webmd.com/doctor/catherine-montemayor-1a3b45d9-7a0c-4975-a005-73f2a038bfde-overview?=lid=5231996
+Carla,Kakutani,5307954591,"111 Main St Ste B,",Winters,CA,https://doctor.webmd.com/doctor/carla-kakutani-867df4da-f839-45eb-8dad-0ef1661611cf-overview?=lid=5064656
+Thanh,Vu,8314623800,"1667 Dominican Way Ste 230,",Santa Cruz,CA,https://doctor.webmd.com/doctor/thanh-vu-62c154cb-0105-4aec-bdec-cd45269c90c7-overview?=lid=5085520
+Kathleen,Loughlin,8314544100,"1080 Emeline Ave,",Santa Cruz,CA,https://doctor.webmd.com/doctor/kathleen-loughlin-891261ba-b901-4b5a-abc1-832487fbcf66-overview?=lid=V10778779
+Jeffrey,Young,8314547531,"1080 Emeline Ave,",Santa Cruz,CA,https://doctor.webmd.com/doctor/jeffrey-young-f0d303e4-be90-4197-be7d-0c86c3c46635-overview?=lid=V118280
+Robin,Brooks,8314544100,"1080 Emeline Ave Bldg D,",Santa Cruz,CA,https://doctor.webmd.com/doctor/robin-brooks-7b22c8e9-e66b-4db1-be22-216e9c29b265-overview?=lid=5012882
+Marion,Jordan,8314544100,"1080 Emeline Ave Bldg D,",Santa Cruz,CA,https://doctor.webmd.com/doctor/marion-jordan-4f5bfd2e-f42f-45ca-9e7c-1454cfac8cc4-overview?=lid=5012882
+Wendy,Leonard,8314544100,"1080 Emeline Ave Bldg D,",Santa Cruz,CA,https://doctor.webmd.com/doctor/wendy-leonard-313230b2-8e68-4550-8cc9-52193be22bb3-overview?=lid=5012882
+Alice,Kollmann,8314542080,"115A Coral St,",Santa Cruz,CA,https://doctor.webmd.com/doctor/alice-kollmann-ac988dcb-6c69-48e8-9588-874ab0bcfa1b-overview?=lid=5429371
+Ida,Leong,8317139462,"320 River St,",Santa Cruz,CA,https://doctor.webmd.com/doctor/ida-leong-5fb8c1b5-63df-40e8-92f2-774f6bc947fc-overview?=lid=V10157846
+Lester,Reichek,8314694053,"310 San Juan Ave,",Santa Cruz,CA,https://doctor.webmd.com/doctor/lester-reichek-82ccbc2f-e295-42f5-ac84-6cabbed3c452-overview?=lid=V10631867
+Rima,Lieben,8314694053,"310 San Juan Ave,",Santa Cruz,CA,https://doctor.webmd.com/doctor/rima-lieben-68ea14b8-8333-4886-a20d-408cbd371063-overview?=lid=V10631867
+Jacqueline,Delyaei,8314257991,"615 Ocean St,",Santa Cruz,CA,https://doctor.webmd.com/doctor/jacqueline-delyaei-7bf0957a-946b-483b-ae59-546b711379cf-overview?=lid=5021535
+Scott,Prysi,8314257991,"615 Ocean St,",Santa Cruz,CA,https://doctor.webmd.com/doctor/scott-prysi-bd535ef6-60f7-4b27-bbfd-150dd63652c6-overview?=lid=5021535
+Karin,Yien,8314257991,"615 Ocean St,",Santa Cruz,CA,https://doctor.webmd.com/doctor/karin-yien-7a820111-1550-4810-90a0-029712f9e753-overview?=lid=5021535
+Jennifer,Hastings,8314265550,"1119 Pacific Ave Ste 200,",Santa Cruz,CA,https://doctor.webmd.com/doctor/jennifer-hastings-32f72764-9ef1-4041-bf3b-0afe62002a17-overview?=lid=5085488
+Igbekele,Daodu,,"2018 Mission St,",Santa Cruz,CA,https://doctor.webmd.com/doctor/igbekele-daodu-e5f11385-3bcd-4ead-88f0-0fb8d68a5bbb-overview?=lid=V57049
+Peter,Rill,4154853200,"3601 Caldwell Dr,",Soquel,CA,https://doctor.webmd.com/doctor/peter-rill-8ad87193-1d02-4b2b-9388-2a7f2e4c30df-overview?=lid=V10717331
+Sambrajya,Palagummi,2098696633,"23500 Kasson Rd,",Tracy,CA,https://doctor.webmd.com/doctor/sambrajya-palagummi-b94af31a-2f6d-40e0-8891-00dec476757b-overview?=lid=V10269298
+Robert,Scott,8314253956,"416 Lighthouse Ave,",Santa Cruz,CA,https://doctor.webmd.com/doctor/robert-scott-60d5c1e3-2288-41ae-8d70-0b9cfbe14e44-overview?=lid=V10554831
+Thomas,Yarema,8316212535,"3121 Park Ave Ste D,",Soquel,CA,https://doctor.webmd.com/doctor/thomas-yarema-07acf8c8-0ec8-4a71-968d-8dd63d483661-overview?=lid=5513430
+Randy,Baker,8314761886,"2955 Park Ave,",Soquel,CA,https://doctor.webmd.com/doctor/randy-baker-f5b929f6-a4cb-45ed-8ad8-550cd38f13f6-overview?=lid=5085581
+Abdullah,Kandil,8316623611,"6800 Soquel Dr,",Aptos,CA,https://doctor.webmd.com/doctor/abdullah-kandil-48691f28-8d0d-4910-813f-3800079debdf-overview?=lid=V10650552
+Yijan,Ruo,2094722391,"10100 Trinity Pkwy Ste 200,",Stockton,CA,https://doctor.webmd.com/doctor/yijan-ruo-cbd7a13f-3186-47d7-b7e6-90c38771a504-overview?=lid=V10774617
+Deepshikha,Gupta,2099481641,"2545 W Hammer Ln,",Stockton,CA,https://doctor.webmd.com/doctor/deepshikha-gupta-5182fb08-25aa-4b8c-8488-975e217a9a14-overview?=lid=V10770604
+Julie Ann,Robbins,2094668072,"2505 W Hammer Ln Bldg 1,",Stockton,CA,https://doctor.webmd.com/doctor/julie-ann-robbins-84a084ef-ded6-48de-a50d-ee63cce10d30-overview?=lid=5047254
+Ngac,Tran,2094732833,"1545 Saint Marks Plz Ste 1C,",Stockton,CA,https://doctor.webmd.com/doctor/ngac-tran-5ce5d253-498b-de11-a5f3-001f29e3eb44-overview?=lid=5086039
+Taymour,Malak,2094759500,"1782 W Hammer Ln,",Stockton,CA,https://doctor.webmd.com/doctor/taymour-malak-ca6f5dd6-57cd-476d-9a5f-dc04a52fea56-overview?=lid=5319329
+James,Holmes Jr,2094668683,"1502 Saint Marks Plz Ste 5,",Stockton,CA,https://doctor.webmd.com/doctor/james-holmes-jr-d6331fd0-4253-4ebd-b019-94e20a8e6175-overview?=lid=5065590
+Bradley,Tourtlotte,2095467767,"1429 W Fremont St,",Stockton,CA,https://doctor.webmd.com/doctor/bradley-tourtlotte-e14a0b6a-17fb-4cd6-9d30-145f99c9d4e6-overview?=lid=5065521
+Annette,Seiler,2094760675,"4722 Quail Lakes Dr Ste A,",Stockton,CA,https://doctor.webmd.com/doctor/annette-seiler-af8d8577-ac18-406c-b26a-281d12e0ed8b-overview?=lid=5259656
+Nicholas,Birlew,2099529696,"1148 W Hammer Ln,",Stockton,CA,https://doctor.webmd.com/doctor/nicholas-birlew-630a28f9-d3c5-4655-aaca-fccf2e04b071-overview?=lid=5021560
+Toan,Tran,2099570641,"4545 Georgetown Pl Ste C16,",Stockton,CA,https://doctor.webmd.com/doctor/toan-tran-f4ab923c-fb8c-de11-a5f3-001f29e3eb44-overview?=lid=5086049
+Brian,Peternell,8316883112,"10098 Soquel Dr,",Aptos,CA,https://doctor.webmd.com/doctor/brian-peternell-80484cb2-0fa2-497f-82d6-40916f20b92e-overview?=lid=5085223
+Gregory,Baumgarten,2094686820,"500 W Hospital Rd,",French Camp,CA,https://doctor.webmd.com/doctor/gregory-baumgarten-e2513de0-8879-4776-a43c-c1ffe483172a-overview?=lid=5547672
+Farhan,Fadoo,2094686820,"500 W Hospital Rd,",French Camp,CA,https://doctor.webmd.com/doctor/farhan-fadoo-3cde177c-fb17-4326-ba26-1a323bd773e9-overview?=lid=5547672
+Monish,Sodhi,2094686000,"500 W Hospital Rd,",French Camp,CA,https://doctor.webmd.com/doctor/monish-sodhi-b9d52d17-72d9-43d7-8d87-42045dfd94fc-overview?=lid=V10060429
+Kavita,Palapati,2099463400,"7777 S Freedom Rd,",French Camp,CA,https://doctor.webmd.com/doctor/kavita-palapati-75e3f6fc-8ac9-4be6-9897-b22c6cb93432-overview?=lid=5366225
+Dumrong,Jirasutayasuntorn,2094774485,"75 W March Ln Ste H,",Stockton,CA,https://doctor.webmd.com/doctor/dumrong-jirasutayasuntorn-79605007-f258-4853-bdc6-2a488ecbf5f0-overview?=lid=5086056
+Harbhajan,Shergill,2094784041,"5345 N El Dorado St Ste 3,",Stockton,CA,https://doctor.webmd.com/doctor/harbhajan-shergill-8ef41d8b-419a-4be9-9559-40742452d794-overview?=lid=5065523
+Donna,Burke,2099445750,"415 E Harding Way Ste D,",Stockton,CA,https://doctor.webmd.com/doctor/donna-burke-c8618dc4-65c2-4660-be87-30a6b91d8ff1-overview?=lid=5000581
+Adepeju,George,2094655891,"2800 N California St Ste 11,",Stockton,CA,https://doctor.webmd.com/doctor/adepeju-george-3b5fa69b-517e-4775-96c4-a45441ccaa6c-overview?=lid=5065607
+Kristin,Montero,2094655891,"2800 N California St Ste 11,",Stockton,CA,https://doctor.webmd.com/doctor/kristin-montero-ea453a98-329b-42b0-bb5c-47333bb3b5b8-overview?=lid=5065607
+Piseth,Suor,2094721515,"4873 West Ln Ste A,",Stockton,CA,https://doctor.webmd.com/doctor/piseth-suor-56f892db-dcd4-e111-9faf-001f29e3eb44-overview?=lid=5065622
+Bushra,Jawaid,2093732800,"7210 Murray Dr,",Stockton,CA,https://doctor.webmd.com/doctor/bushra-jawaid-e060aae6-5974-4063-bf1d-38e28aabfb15-overview?=lid=5560635
+John,Newman III,2094762080,"7373 West Ln,",Stockton,CA,https://doctor.webmd.com/doctor/john-newman-iii-bd44a621-820f-4dd3-9947-5c33f19c2a03-overview?=lid=V10525348
+Demosthenes,Pappagianis,5307523391,"1 Shields Ave,",Davis,CA,https://doctor.webmd.com/doctor/demosthenes-pappagianis-d9375e9a-d750-4c1c-b3f2-f5010e8aeae9-overview?=lid=V10680907
+Amanda,Perez,2098253555,"1777 W Yosemite Ave,",Manteca,CA,https://doctor.webmd.com/doctor/amanda-perez-f578f805-818e-4823-89e5-5ad1d0411163-overview?=lid=5269805
+Inna,Larsen,2094727400,"8001 Lorraine Ave,",Stockton,CA,https://doctor.webmd.com/doctor/inna-larsen-a815c09a-d4fd-4482-bbef-d31b811dcdcc-overview?=lid=V10579469
+Charles,Trammel,2098255155,"1040 N Main St,",Manteca,CA,https://doctor.webmd.com/doctor/charles-trammel-4e5383a9-9114-4044-a97e-d80579c1110b-overview?=lid=5528116
+James,Morgan,2096245288,"330 Northgate Dr,",Manteca,CA,https://doctor.webmd.com/doctor/james-morgan-2c916fa5-19a8-46d5-91be-683269ea3436-overview?=lid=V10713267
+Linda,Shipp,2092398301,"1205 E North St,",Manteca,CA,https://doctor.webmd.com/doctor/linda-shipp-e77dc527-e3c7-4038-bbee-83fba33f38e3-overview?=lid=5312970
+Michele,Violich,8317638400,"1430 Freedom Blvd Ste D,",Watsonville,CA,https://doctor.webmd.com/doctor/michele-violich-3779169e-de16-4470-bcd9-0610ece65ee1-overview?=lid=5238872
+Andrea,Ratto,8317638400,"1430 Freedom Blvd Ste D,",Watsonville,CA,https://doctor.webmd.com/doctor/andrea-ratto-11b8ab5f-d0ad-4897-beb0-544517ac5829-overview?=lid=5238872
+Michael,Mc Intyre,8317638400,"1430 Freedom Blvd Ste D,",Watsonville,CA,https://doctor.webmd.com/doctor/michael-mc-intyre-69fee966-1a8e-4259-aad9-d2db2004c1e0-overview?=lid=5238872
+Tye,Depena,8317221444,"1505 Main St,",Watsonville,CA,https://doctor.webmd.com/doctor/tye-depena-dc861f3e-d9db-4be0-ad17-fe1e1fc23bfc-overview?=lid=5021538
+William,Tong,8317221444,"1505 Main St,",Watsonville,CA,https://doctor.webmd.com/doctor/william-tong-a9666a76-bd9a-4beb-a8ae-b8ca8eee4180-overview?=lid=V10451139
+Cheung,Leung,4088482525,"9360 n name uno Ste 110,",Gilroy,CA,https://doctor.webmd.com/doctor/cheung-leung-3da3494b-506c-4cbe-8f63-561c8e95ab5a-overview?=lid=5064900
+George,Green,4088424466,"8833 Monterey Rd Ste E,",Gilroy,CA,https://doctor.webmd.com/doctor/george-green-f4d2da85-6c61-4e41-bd3b-2160a1b4b966-overview?=lid=5085304
+Robert,Letamendi,8317284030,"21 Brennan St Ste 21,",Watsonville,CA,https://doctor.webmd.com/doctor/robert-letamendi-e309446f-0f7a-44c3-b26e-b99a6d45ea36-overview?=lid=5267360
+Steven,Smith,8317280222,"204 E Beach St,",Watsonville,CA,https://doctor.webmd.com/doctor/steven-smith-e40bdd33-243c-48ef-9a08-a2ff85afda81-overview?=lid=5238877
+Pushpendra,Sharma,8317288250,"195 Aviation Way Ste 200,",Watsonville,CA,https://doctor.webmd.com/doctor/pushpendra-sharma-bbe430f2-2025-4c4e-86c0-c335c57f9b6d-overview?=lid=V10792097
+Clayton,Schiltz,4088465887,"7888 Wren Ave Ste A110,",Gilroy,CA,https://doctor.webmd.com/doctor/clayton-schiltz-e79eba84-9436-4bff-bf1a-dcd4cc44e743-overview?=lid=V10454196
+John,Barbara,4088420278,"7880 Wren Ave Ste C133,",Gilroy,CA,https://doctor.webmd.com/doctor/john-barbara-0aa93c45-df4f-432e-ad28-e8760e952d2f-overview?=lid=5064793
+Joseph,Barbara,4088420278,"7880 Wren Ave Ste C133,",Gilroy,CA,https://doctor.webmd.com/doctor/joseph-barbara-140f4feb-8923-480b-a029-5cdd5ab1e6db-overview?=lid=5064793
+Faith,Protsman,4088466444,"700 W 6th St Ste C,",Gilroy,CA,https://doctor.webmd.com/doctor/faith-protsman-628087e3-7d8d-4c54-8cfb-bcf0c4077c1d-overview?=lid=5261714
+Alicia,Martinez,5306614400,"175 W Court St,",Woodland,CA,https://doctor.webmd.com/doctor/alicia-martinez-4a42752f-c485-482c-8a4c-2ffbb8de48bb-overview?=lid=5251259
+Jeremiah,Lewis,5306614400,"175 W Court St,",Woodland,CA,https://doctor.webmd.com/doctor/jeremiah-lewis-e0fb6914-a713-4cef-b8c6-360febf33122-overview?=lid=5251259
+Constance,Caldwell,5306668828,"137 N Cottonwood St Ste 2450,",Woodland,CA,https://doctor.webmd.com/doctor/constance-caldwell-5f7d5c27-5b67-44c8-80ab-c73dd750c16f-overview?=lid=V10147020
+Luke,Ardill,5306611081,"2081 Bronze Star Way,",Woodland,CA,https://doctor.webmd.com/doctor/luke-ardill-509e8632-770c-4842-a57b-c08e68663305-overview?=lid=5621278
+Marc,Johnson,9163737575,"3680 Industrial Blvd Ste 550H,",West Sacramento,CA,https://doctor.webmd.com/doctor/marc-johnson-65b9bd97-56e3-41d5-adea-c19fced20a54-overview?=lid=V10332849
+Winston,Nguyen,9163912229,"4241 Florin Rd Ste 40,",Sacramento,CA,https://doctor.webmd.com/doctor/winston-nguyen-efac53db-a110-437a-8cb9-edfc4abfa7c0-overview?=lid=5203043
+Meredith,Rishwain,9168173700,"2575 E Bidwell St Ste 100,",Folsom,CA,https://doctor.webmd.com/doctor/meredith-rishwain-9ae0f81c-0e2c-47f5-ae56-892d31b65945-overview?=lid=5328460
+Kristopher,Kordana,9166882106,"6600 Bruceville Rd,",Sacramento,CA,https://doctor.webmd.com/doctor/kristopher-kordana-ba2bdc6e-8c3a-4cbd-b962-c5998ffcfb00-overview?=lid=5087563
+Theresa,Pattugalan,9166882000,"6600 Bruceville Rd,",Sacramento,CA,https://doctor.webmd.com/doctor/theresa-pattugalan-c37906d2-1203-4864-8e70-6acb861b7f8f-overview?=lid=5087563
+Rebecca,Jordan,9165252021,"7600 Hospital Dr Ste G,",Sacramento,CA,https://doctor.webmd.com/doctor/rebecca-jordan-73e986a1-9e44-44af-bbd1-70cf475f31c1-overview?=lid=5488870
+Steven,Stockslager,9166882000,"7300 Wyndham Dr,",Sacramento,CA,https://doctor.webmd.com/doctor/steven-stockslager-21ce20fc-04b2-466c-9a1d-cf35f5b43a65-overview?=lid=5510135
+Bud,Burgoyne,,"8947 N Camden Dr,",Elk Grove,CA,https://doctor.webmd.com/doctor/bud-burgoyne-5c5de45e-7119-454a-9cb8-c1b6c6dd4a18-overview?=lid=V9590
+Jonathan,Davidson,9166421867,"5524 Assembly Ct,",Sacramento,CA,https://doctor.webmd.com/doctor/jonathan-davidson-435b5051-82ab-4169-8816-716622a313b1-overview?=lid=5087677
+Natalia,Black,9163750720,"804 Harbor Blvd,",West Sacramento,CA,https://doctor.webmd.com/doctor/natalia-black-9f5898fd-148c-4bf4-bfc5-b698635c197f-overview?=lid=5087219
+Thuc,Duong,9164287990,"7260 E Southgate Dr Ste D,",Sacramento,CA,https://doctor.webmd.com/doctor/thuc-duong-274acc03-3693-de11-9b4f-001f29e3bb62-overview?=lid=5087573
+Gordon,Ma,,"1459 Fernwood St,",West Sacramento,CA,https://doctor.webmd.com/doctor/gordon-ma-e1806a7a-813e-44d5-af20-f5ad89d6cb9f-overview?=lid=V80816
+Helen,Pensanti,9164280656,"5385 Franklin Blvd Ste K,",Sacramento,CA,https://doctor.webmd.com/doctor/helen-pensanti-764e772f-dd67-4479-8c02-945d27190487-overview?=lid=V16883130
+Minh,Wu,2098923111,"1010 Sperry Ave Ste D,",Patterson,CA,https://doctor.webmd.com/doctor/minh-wu-bb5690cd-b94a-4d41-b79c-2f420545b024-overview?=lid=5564865
+Hung,Hoang,9163910170,"6540 Stockton Blvd Ste 3A,",Sacramento,CA,https://doctor.webmd.com/doctor/hung-hoang-ed798546-e34f-439d-b394-ac5dc11d1e0c-overview?=lid=5087562
+Dung,Cao,9164284118,"6665 Stockton Blvd Ste 8,",Sacramento,CA,https://doctor.webmd.com/doctor/dung-cao-de9be6d0-b711-4553-8625-88b21928a61a-overview?=lid=5087568
+Michael,Schorr,2098926184,"101 N 3rd St,",Patterson,CA,https://doctor.webmd.com/doctor/michael-schorr-3e5d7d06-2ae5-441c-90e6-31ddef0a4b08-overview?=lid=5065336
+Anh,Nguyen,9163919497,"5026 Fruitridge Rd Ste 1,",Sacramento,CA,https://doctor.webmd.com/doctor/anh-nguyen-bf99df55-087c-4bbc-ad43-0b916427380f-overview?=lid=5087523
+Janet,Mohle-Boetani,,"520 I St,",Sacramento,CA,https://doctor.webmd.com/doctor/janet-mohle-boetani-53d1091d-c62a-42c0-a8f0-ee878eba1207-overview?=lid=V6303
+Janet,Abshire,9166916780,"651 I St,",Sacramento,CA,https://doctor.webmd.com/doctor/janet-abshire-c4331509-dbb8-466c-b9ff-561cd7b9a2e4-overview?=lid=V10120155
+Brittany,Ballen,9167342011,"2315 Stockton Blvd,",Sacramento,CA,https://doctor.webmd.com/doctor/brittany-ballen-25b9832f-6627-4f82-a92f-48bfbd6d7d6c-overview?=lid=V10190007
+Joseph,Simmerman,9167342724,"2315 Stockton Blvd,",Sacramento,CA,https://doctor.webmd.com/doctor/joseph-simmerman-ef362acc-322c-4166-9519-97ad303f6788-overview?=lid=V10190007
+Rebecca,Wattenbarger,9167333333,"3000 Q St Fl 1,",Sacramento,CA,https://doctor.webmd.com/doctor/rebecca-wattenbarger-ec25d9e9-87b7-4278-81d9-9fd809acc1be-overview?=lid=5000365
+Yasuo,Takegoshi,9164552374,"1935 Stockton Blvd,",Sacramento,CA,https://doctor.webmd.com/doctor/yasuo-takegoshi-6028469d-0e8c-4415-8de4-cb1ba95d1e0a-overview?=lid=V10798523
+Kimberly,Wong,9167342812,"4150 V St,",Sacramento,CA,https://doctor.webmd.com/doctor/kimberly-wong-024e6edb-cd87-4349-b954-c1079c7599b8-overview?=lid=V10452750
+Theresa,Duong,9167342812,"4150 V St,",Sacramento,CA,https://doctor.webmd.com/doctor/theresa-duong-8d0a4ca5-a345-4100-a9f6-36cccc8c12d3-overview?=lid=V10452750
+Faith,Fitzgerald,9167342177,"4150 V St Ste 2400,",Sacramento,CA,https://doctor.webmd.com/doctor/faith-fitzgerald-7279937a-4968-4ccd-b65c-f02eb83bc2c5-overview?=lid=5507932
+Jose,Mejia Oneto,9167347041,"4860 Y St,",Sacramento,CA,https://doctor.webmd.com/doctor/jose-mejia-oneto-854ad8b9-b624-4802-8eec-802c92202c53-overview?=lid=V41283
+Colin,Randau,9167346313,"4860 Y St,",Sacramento,CA,https://doctor.webmd.com/doctor/colin-randau-da75657b-6ea4-4ccd-8654-d869af73f6a2-overview?=lid=V41283
+Bruce,Wenokur,9164564000,"3000 L St,",Sacramento,CA,https://doctor.webmd.com/doctor/bruce-wenokur-bb11b578-0e52-4250-8e72-117fb21868e2-overview?=lid=V66317
+Sandra,Lee,9163876929,"5501 Power Inn Rd Ste 140,",Sacramento,CA,https://doctor.webmd.com/doctor/sandra-lee-f63eda24-30e4-4610-b958-e54a6d33a7ba-overview?=lid=V10323485
+Ashley,Lorenzo,9164542345,"3701 J St Ste 201,",Sacramento,CA,https://doctor.webmd.com/doctor/ashley-lorenzo-6626c1ce-b643-4c6e-91ca-0d0dba442ca6-overview?=lid=5087345
+Mahendra,Sharma,9164001993,"4106 Garden Hwy,",Sacramento,CA,https://doctor.webmd.com/doctor/mahendra-sharma-5d660e55-fb2e-4f75-9d94-476d19017c94-overview?=lid=V10345373
+Michelle,Cheng,9167346111,"3301 C St Ste 1300,",Sacramento,CA,https://doctor.webmd.com/doctor/michelle-cheng-7922686c-ca05-40ed-95d0-a85a64c9f91c-overview?=lid=V10393712
+Jennifer,Brown,9164199900,"4420 Duckhorn Dr Ste 200,",Sacramento,CA,https://doctor.webmd.com/doctor/jennifer-brown-a363857c-75c0-4593-b7a6-82887b8d969c-overview?=lid=5328128
+Shaoxing,Huang,9164199900,"4420 Duckhorn Dr Ste 200,",Sacramento,CA,https://doctor.webmd.com/doctor/shaoxing-huang-1ecedbf8-ab25-48eb-9aeb-1883168cb41b-overview?=lid=5328128
+Andrew,Last,9163962929,"4112 E Commerce Way,",Sacramento,CA,https://doctor.webmd.com/doctor/andrew-last-9f41dd27-8e96-4652-a4a1-bc620707b378-overview?=lid=V10160605
+Jeffrey,Souza,9164363015,"87 Scripps Dr Ste 116,",Sacramento,CA,https://doctor.webmd.com/doctor/jeffrey-souza-df029ee3-8246-488c-a234-7e1e22fb4c37-overview?=lid=5623038
+Akhila,Gummi,2095763523,"401 Paradise Rd Ste E,",Modesto,CA,https://doctor.webmd.com/doctor/akhila-gummi-5716abe5-e53b-4fd5-93cd-18c786890a0f-overview?=lid=V10057321
+Mikhail,Palatnik,9169721100,"701 Howe Ave Ste C3,",Sacramento,CA,https://doctor.webmd.com/doctor/mikhail-palatnik-cd5daf68-8092-de11-9b4f-001f29e3bb62-overview?=lid=5292164
+Melanie,Yurkovich,2098388587,"2080 McHenry Ave Ste 200,",Escalon,CA,https://doctor.webmd.com/doctor/melanie-yurkovich-511fcc81-bbfb-48a7-b706-8fa30fc479db-overview?=lid=5540019
+Mary,Zhu,9169247988,"2200 del Paso Blvd,",Sacramento,CA,https://doctor.webmd.com/doctor/mary-zhu-d0d13c04-f717-49b2-aef0-6ee22b4b9513-overview?=lid=V10221449
+Brian,Talleur,2095274597,"1235 McHenry Ave,",Modesto,CA,https://doctor.webmd.com/doctor/brian-talleur-7d90018f-b763-4bca-919d-054ceb5f3eb9-overview?=lid=V10439316
+Jesse,Vaughn,8885432243,"650 Howe Ave Ste 600,",Sacramento,CA,https://doctor.webmd.com/doctor/jesse-vaughn-8f5e32ee-9935-4f9e-8a91-8494e98f1f47-overview?=lid=5580559
+Thomas,Mahoney,9165640521,"3946 Norwood Ave,",Sacramento,CA,https://doctor.webmd.com/doctor/thomas-mahoney-39ad98d9-dcd4-e111-9faf-001f29e3eb44-overview?=lid=5067753
+Sanjeev,Batra,9169296161,"4700 Northgate Blvd Ste 100,",Sacramento,CA,https://doctor.webmd.com/doctor/sanjeev-batra-57604995-c96d-461b-ad70-b3d0b412eee4-overview?=lid=V10324844
+Frank,Fine,2095690776,"803 Coffee Rd Ste 4,",Modesto,CA,https://doctor.webmd.com/doctor/frank-fine-1816ea4c-dc96-4e37-96d6-57c50077fb12-overview?=lid=5259681
+Holly,Schwantz,2095504702,"600 Coffee Rd Fl 2,",Modesto,CA,https://doctor.webmd.com/doctor/holly-schwantz-2e67e773-5959-4d5f-a8c2-fd5aca2a217e-overview?=lid=5444235
+Supinder,Tiwana,2095504702,"600 Coffee Rd Fl 2,",Modesto,CA,https://doctor.webmd.com/doctor/supinder-tiwana-76d48f1e-46d5-4f58-bc50-9077cdc6ef1b-overview?=lid=5444235
+Terry,McGarvey-tanenb,9169735322,"2025 Morse Ave Rm 3E3C,",Sacramento,CA,https://doctor.webmd.com/doctor/terry-mcgarvey-tanenb-74ce06e0-7760-4616-803a-77f164ce3dd5-overview?=lid=5517133
+Joel,Bresolin,9169735499,"2016 Morse Ave,",Sacramento,CA,https://doctor.webmd.com/doctor/joel-bresolin-14636ea0-43ef-411e-8b9f-3e85f5d0ff5f-overview?=lid=5328019
+Alejandro,Mercado,9165502488,"1813 Professional Dr,",Sacramento,CA,https://doctor.webmd.com/doctor/alejandro-mercado-52027a84-47b1-4355-b22d-2413544a8a81-overview?=lid=V10585633
+Joseph,Heffernan Sr,9164861311,"2628 El Camino Ave Ste A8,",Sacramento,CA,https://doctor.webmd.com/doctor/joseph-heffernan-sr-e9aa1842-dff2-43a5-ba02-177cd5c9f461-overview?=lid=5087533
+Elizabeth,Francisco,2095576200,"1225 Oakdale Rd,",Modesto,CA,https://doctor.webmd.com/doctor/elizabeth-francisco-0a6a0890-25df-403c-b31f-4456114ac7ba-overview?=lid=6507288
+Lee-Lee,Francisco,2095576200,"1225 Oakdale Rd,",Modesto,CA,https://doctor.webmd.com/doctor/lee-lee-francisco-eb13f6de-7fc3-4863-b964-768074a7e957-overview?=lid=6507288
+Belinda,Aleman,2098698102,"2603 Patterson Rd Ste 3,",Riverbank,CA,https://doctor.webmd.com/doctor/belinda-aleman-960faf49-b6c2-4a51-977b-50732cb50157-overview?=lid=5259730
+Andres,Arellano,2098698102,"2603 Patterson Rd Ste 3,",Riverbank,CA,https://doctor.webmd.com/doctor/andres-arellano-0ec2ea6a-6481-491d-be3d-bdf19d80b0f0-overview?=lid=5259730
+Naomi,Reynolds,2098690131,"3227 Stanislaus St Ste A,",Riverbank,CA,https://doctor.webmd.com/doctor/naomi-reynolds-845256d6-b1f5-44ff-b601-2a9ebd9e5498-overview?=lid=5086333
+Gerald,Pogoriler,9164894443,"2100 Lambeth Way,",Carmichael,CA,https://doctor.webmd.com/doctor/gerald-pogoriler-14087c88-f4b4-43be-b9cf-126e0f11aa9e-overview?=lid=V10555230
+Sharon,Stone,9165617400,"5342 Dudley Blvd,",Mcclellan,CA,https://doctor.webmd.com/doctor/sharon-stone-85fdb373-83c2-45b4-9b1b-2b9cb99a7963-overview?=lid=5167976
+Joseph,Chen,,"5342 Dudley Blvd,",McClellan,CA,https://doctor.webmd.com/doctor/joseph-chen-cf92b4ed-e841-4bb2-8b07-8e8bc8d4dd8f-overview?=lid=6502064
+Linda,Sidwell,9165617560,"5342 Dudley Blvd,",McClellan,CA,https://doctor.webmd.com/doctor/linda-sidwell-090bb536-48fe-495a-a96d-0d0d83507045-overview?=lid=V10788102
+Robert,Sullivan,9169789777,"4441 Auburn Blvd Ste P,",Sacramento,CA,https://doctor.webmd.com/doctor/robert-sullivan-ad9cd676-11d0-45ca-bf90-1eab48551f7c-overview?=lid=5294473
+Joshua,Fischer,8319203838,"199 17th St Ste J,",Pacific Grove,CA,https://doctor.webmd.com/doctor/joshua-fischer-068683d2-5ad4-4177-85f9-0b99eda6d9b8-overview?=lid=V104340
+Sibyl,Knight,8319203838,"199 17th St Ste J,",Pacific Grove,CA,https://doctor.webmd.com/doctor/sibyl-knight-c6c2e1fc-3e50-496d-99fe-1ee4e576265c-overview?=lid=V16971032
+Hussam,Kujok,9169719000,"3609 Mission Ave Ste A,",Carmichael,CA,https://doctor.webmd.com/doctor/hussam-kujok-28068cc9-cb56-4694-898d-77dc5c9e87b7-overview?=lid=5481834
+Nourollah,Danialypour,9163448866,"5710 Watt Ave,",North Highlands,CA,https://doctor.webmd.com/doctor/nourollah-danialypour-b8dc737a-a580-4f27-955a-4717d715f404-overview?=lid=5087056
+Neeraj,Satyanarayana,8314438200,"1756 N Main St,",Salinas,CA,https://doctor.webmd.com/doctor/neeraj-satyanarayana-896a4e2e-045b-44a4-a5bd-5cc151d1d30c-overview?=lid=5081911
+Norman,Gross,8318833810,"3401 Engineer Ln,",Seaside,CA,https://doctor.webmd.com/doctor/norman-gross-a30aa4b4-3c46-41f5-a822-e77a01117756-overview?=lid=5452678
+Alaina,Fields,7072798813,"5290 State St,",Kelseyville,CA,https://doctor.webmd.com/doctor/alaina-fields-0a6186d5-b89b-45a7-9321-76527d89c352-overview?=lid=5064616
+Christopher,Curtis,8312424850,"473 Cabrillo St Rm A1A,",Monterey,CA,https://doctor.webmd.com/doctor/christopher-curtis-ee5852ee-e247-4a13-8133-806007aed27d-overview?=lid=V10579710
+Eugene,Guzman,8317700444,"2 Rossi Cir,",Salinas,CA,https://doctor.webmd.com/doctor/eugene-guzman-663c2695-e4c0-4f09-9497-29c459202d90-overview?=lid=5322000
+Diana,Reiss,8317541544,"1332 Natividad Rd Ste C,",Salinas,CA,https://doctor.webmd.com/doctor/diana-reiss-24a5fafa-fdb3-4811-b6d9-75e481a4dc81-overview?=lid=5081898
+Luz,Garcia,8317542844,"1332 Natividad Rd Ste B,",Salinas,CA,https://doctor.webmd.com/doctor/luz-garcia-8f1718cb-cd02-4567-a60a-66d198dd6e67-overview?=lid=5081897
+Peter,Franklin,8313755151,"550 Camino El Estero Ste 204,",Monterey,CA,https://doctor.webmd.com/doctor/peter-franklin-3048f120-ac20-45e6-a7db-b4ba4f60bd2d-overview?=lid=5082007
+Anita,Lavaisse,8317961700,"1441 Constitution Blvd Ste 202,",Salinas,CA,https://doctor.webmd.com/doctor/anita-lavaisse-f134dfe5-6db4-4a9b-9135-db58091b489d-overview?=lid=5255625
+Carlos,Ramirez,8319202163,"798 Cass St Ste 201,",Monterey,CA,https://doctor.webmd.com/doctor/carlos-ramirez-62cf557b-ccd9-40e5-86a2-264486916db8-overview?=lid=5569759
+Scott,Schneiderman,8316490350,"835 Cass St,",Monterey,CA,https://doctor.webmd.com/doctor/scott-schneiderman-134eb95d-e4e9-4f1c-b19c-c4b58b6cc7fa-overview?=lid=6612147
+Cassandra,Ohlsen,8316551846,"871 Cass St Ste 100,",Monterey,CA,https://doctor.webmd.com/doctor/cassandra-ohlsen-8ee0cdfd-bfa5-4189-b5ba-f32cbbb208a7-overview?=lid=5230851
+Nicholas,Nomicos,2098543728,"489 5th St,",Gustine,CA,https://doctor.webmd.com/doctor/nicholas-nomicos-2eeb594e-780c-4d06-ab79-9262865e13c5-overview?=lid=5086140
+Sarah,Goodreau,2098543728,"489 5th St,",Gustine,CA,https://doctor.webmd.com/doctor/sarah-goodreau-f9bee2cd-3c9a-4a31-8b50-f23a7a36d444-overview?=lid=5086140
+Donna,Bindel,8313738886,"1052 Cass St,",Monterey,CA,https://doctor.webmd.com/doctor/donna-bindel-ec2aef75-6a08-4192-bf65-fcceaf8a006d-overview?=lid=V10421453
+Lori,Kraus,8316362610,"911 Sunset Dr Lbby,",Hollister,CA,https://doctor.webmd.com/doctor/lori-kraus-ea1f574a-5d6a-4b15-a693-a323ca1da842-overview?=lid=5521306
+Erik,Smith,9163341100,"5255 Elkhorn Blvd Ste A,",Sacramento,CA,https://doctor.webmd.com/doctor/erik-smith-736439e1-a89c-4067-8621-bcefb9d6a9f7-overview?=lid=5431933
+Terry,Franklin,8316410923,"1011 Cass St Ste 106,",Monterey,CA,https://doctor.webmd.com/doctor/terry-franklin-d515c80c-8267-40e6-be87-f26490a7d9ce-overview?=lid=6500549
+Sabah,Al-Marashi,,"23625 Holman Hwy,",Monterey,CA,https://doctor.webmd.com/doctor/sabah-al-marashi-d09f9bfc-54ce-4f6f-a700-844af9a20c78-overview?=lid=5593772
+Satya,Chatterjee,9168635156,"8167 River Front Ln Ste A,",Fair Oaks,CA,https://doctor.webmd.com/doctor/satya-chatterjee-078234c4-fb75-4160-8af8-31e0bf5e9f48-overview?=lid=V10049163
+David,Coutin,8317576237,"950 Circle Dr,",Salinas,CA,https://doctor.webmd.com/doctor/david-coutin-95439cc4-2900-40f2-a23f-9c9d1cf209ed-overview?=lid=V10488177
+Michael,Hendrick,8313754945,"1900 Garden Rd Ste 100,",Monterey,CA,https://doctor.webmd.com/doctor/michael-hendrick-de8aa4b0-d59f-4fc9-8093-741b757a46cd-overview?=lid=5238467
+Ravin,Sharma,8317586134,"1101 Pajaro St,",Salinas,CA,https://doctor.webmd.com/doctor/ravin-sharma-f207ddd7-7bf0-4268-b261-864028361e06-overview?=lid=5081837
+Stephen,Mandaro,9162098505,"8139 Sunset Ave Ste 242,",Fair Oaks,CA,https://doctor.webmd.com/doctor/stephen-mandaro-2fce7ef1-162d-419d-b527-eee00a7e16b3-overview?=lid=V10077605
+Jay,Edmonds Jr,8313758880,"5 Harris Ct Ste T103,",Monterey,CA,https://doctor.webmd.com/doctor/jay-edmonds-jr-667568ea-4f9e-47ae-9005-a6f1d673dfc0-overview?=lid=6515126
+Cindy,Lee,8313758880,"5 Harris Ct Ste T103,",Monterey,CA,https://doctor.webmd.com/doctor/cindy-lee-e1e81553-cfb5-4772-b599-cb37b7d2ff9a-overview?=lid=6515126
+Monica,Summers,2096641550,"711 E Hawkeye Ave Ste 3,",Turlock,CA,https://doctor.webmd.com/doctor/monica-summers-9c93a659-8d2e-4a4a-aa5a-d9594de3632b-overview?=lid=5542764
+Paul,Anderson,2096641550,"711 E Hawkeye Ave Ste 3,",Turlock,CA,https://doctor.webmd.com/doctor/paul-anderson-94469e00-8d89-44f9-a69c-1a7e09ff96b5-overview?=lid=5542764
+Sharon,Wesley,8316465990,"11 Thomas Owens Way Ste 101,",Monterey,CA,https://doctor.webmd.com/doctor/sharon-wesley-834f7b6d-5bb9-4ebd-9b21-bc65177f4056-overview?=lid=5334852
+Eric,Schindler,,"2025 Aerojet Rd,",Rancho Cordova,CA,https://doctor.webmd.com/doctor/eric-schindler-b8498057-1edb-461c-a41a-15e8e91a5d28-overview?=lid=V97136
+Esmeralda,Moran,2096674200,"825 Delbon Ave,",Turlock,CA,https://doctor.webmd.com/doctor/esmeralda-moran-9eb9dd8e-437c-42eb-9a8c-a5f5f17f9aff-overview?=lid=5521548
+Samuel,Romeo,2092163400,"1801 Colorado Ave Ste 140,",Turlock,CA,https://doctor.webmd.com/doctor/samuel-romeo-e8e70691-a67e-49cd-a07b-4dbb917fe20f-overview?=lid=5410583
+Glenn,Hudgens,8316241597,"26415 Carmel Rancho Blvd Ste D,",Carmel,CA,https://doctor.webmd.com/doctor/glenn-hudgens-9ba32f1c-db54-482f-9b55-254c76c0ede3-overview?=lid=5081940
+Mark,Walker,8312405458,"225 the Crossroads Blvd,",Carmel,CA,https://doctor.webmd.com/doctor/mark-walker-cb4bdd4b-aa75-4b53-a4f2-d7d6ab3a078a-overview?=lid=V10666681
+Laurel,Moody,8317189701,"275 The Crossroads Blvd Ste A,",Carmel,CA,https://doctor.webmd.com/doctor/laurel-moody-ea56bfe1-be7d-462c-990a-297f454a0b0a-overview?=lid=5473113
+Elizabeth,Nagle,7078844005,"46900 Ocean Dr,",Gualala,CA,https://doctor.webmd.com/doctor/elizabeth-nagle-06f69525-f801-4e26-bcf9-d356c0269bb8-overview?=lid=5064493
+Susan,Chapler,7078849078,"44710 Moonrise Dr,",Gualala,CA,https://doctor.webmd.com/doctor/susan-chapler-71559939-3163-4025-bf94-af52d7406469-overview?=lid=V10699774
+Rosalyn,Lepley,7072638382,"925 Bevins Ct,",Lakeport,CA,https://doctor.webmd.com/doctor/rosalyn-lepley-2798b46c-4720-4f28-8848-d35203652d49-overview?=lid=5265392
+Sheldon,Sloan,7072638382,"925 Bevins Ct,",Lakeport,CA,https://doctor.webmd.com/doctor/sheldon-sloan-bc17799d-26a7-4ab0-9ba9-81b6eac73d12-overview?=lid=5265392
+Francisco,Tejeda,7072638382,"925 Bevins Ct,",Lakeport,CA,https://doctor.webmd.com/doctor/francisco-tejeda-40bddd19-9acd-4328-a14a-ce5575a0ab0a-overview?=lid=V10443850
+Maryann,Hart,8009725547,"4010 Foothills Blvd Ste 102,",Roseville,CA,https://doctor.webmd.com/doctor/maryann-hart-300ad790-cc37-4f54-b0a5-2b7091810d9c-overview?=lid=5542768
+Fred,Samimi,9166865566,"1000 Sunrise Ave Ste 7A,",Roseville,CA,https://doctor.webmd.com/doctor/fred-samimi-6ce9dd4b-a6c9-45f1-8964-b5c5af91a91a-overview?=lid=5529107
+Darla,Mabery,9167744348,"512 Royer St,",Roseville,CA,https://doctor.webmd.com/doctor/darla-mabery-4ff92a72-282e-4196-af52-fa3d872f67fc-overview?=lid=5329166
+Don,Endress,2098742345,"12700 Welch St,",Waterford,CA,https://doctor.webmd.com/doctor/don-endress-26d77dc7-f128-4e7b-80e8-e7ccb2cca0b9-overview?=lid=5086414
+Agnes,Grajo Warhover,9168654323,"406 Sunrise Ave Ste 320,",Roseville,CA,https://doctor.webmd.com/doctor/agnes-grajo-warhover-556e3629-6b00-445c-beab-dc47c4903f38-overview?=lid=5577948
+Donald,Peterson II,9167841050,"151 N Sunrise Ave Ste 611,",Roseville,CA,https://doctor.webmd.com/doctor/donald-peterson-ii-b6a3121e-c770-4c99-844f-d3d807b82c68-overview?=lid=V10492119
+William,Borris,9167830101,"1907 Douglas Blvd Ste 70,",Roseville,CA,https://doctor.webmd.com/doctor/william-borris-c7a620ec-52f5-405a-8ac8-8d46ea013b4d-overview?=lid=5021547
+Thomas,Gonzales,9169206337,"1201 E Bidwell St,",Folsom,CA,https://doctor.webmd.com/doctor/thomas-gonzales-5d0e85e3-b6e9-425b-9bce-d5fd86379e75-overview?=lid=5322113
+Robert,Taylor,9167849575,"2550 Douglas Blvd Ste 160,",Roseville,CA,https://doctor.webmd.com/doctor/robert-taylor-00c103c6-4fe9-4053-8964-ffb08d5deea0-overview?=lid=5087084
+Sujata,Pawar,9167733444,"2575 E Bidwell St,",Folsom,CA,https://doctor.webmd.com/doctor/sujata-pawar-2932c9dc-7adb-4b94-bb81-f6eec120f5f6-overview?=lid=V10187272
+Grewen,Palomero,9169852561,"300 Prison Rd,",Represa,CA,https://doctor.webmd.com/doctor/grewen-palomero-77d50fd0-d45c-431e-8a61-baad62326e49-overview?=lid=V10302328
+Genevieve,Sweet,9167974720,"3 Medical Plaza Dr Ste 250,",Roseville,CA,https://doctor.webmd.com/doctor/genevieve-sweet-2085ed24-2771-4b7c-bd3a-192c406c0256-overview?=lid=V10489881
+Jody,Laurence,9164831493,"5 Medical Plaza Dr Ste 110,",Roseville,CA,https://doctor.webmd.com/doctor/jody-laurence-a2f0b118-b366-4b91-94cf-035a73bd8925-overview?=lid=V10663490
+Pang,Her,9166243500,"6805 Five Star Blvd Ste 100,",Rocklin,CA,https://doctor.webmd.com/doctor/pang-her-8aad95d9-ef0e-46b9-9ada-0946e1ac7f68-overview?=lid=5268265
+Michael,Walker,8009725547,"3919 Park Dr Ste 80,",El Dorado Hills,CA,https://doctor.webmd.com/doctor/michael-walker-eff7e7f4-7537-4011-a0f6-be028376df26-overview?=lid=5604959
+Milan,Hopkins,,"9425 Main St,",Upper Lake,CA,https://doctor.webmd.com/doctor/milan-hopkins-e231c311-ff14-47ca-89cf-d81fea0ae765-overview?=lid=5086700
+Herbert,Getman,,"4062 Flying C Rd,",Cameron Park,CA,https://doctor.webmd.com/doctor/herbert-getman-db5a067a-20ef-43b8-97e8-9c66a88798d7-overview?=lid=V95776
+Karthikeya,Devireddy,2098262222,"311 W I St,",Los Banos,CA,https://doctor.webmd.com/doctor/karthikeya-devireddy-56a4e2e7-d85a-4cb4-8f7b-56c2a28282c8-overview?=lid=5042869
+Erwin,Boco,2098262222,"311 W I St,",Los Banos,CA,https://doctor.webmd.com/doctor/erwin-boco-456165b8-0e61-4df2-ac9d-a5981ff870ee-overview?=lid=5042869
+Roy Eugene,Tabigo On,2098262222,"311 W I St,",Los Banos,CA,https://doctor.webmd.com/doctor/roy-eugene-tabigo-on-e6beec32-95ee-4fa0-9b09-c8053d78ab33-overview?=lid=5042869
+Gary,Johnson,,"588 W Saint Charles St,",San Andreas,CA,https://doctor.webmd.com/doctor/gary-johnson-6fee36e4-d879-49fe-8268-3743d132ba3a-overview?=lid=5086071
+Gregory,Burt,5304584162,"151 E Webster St,",Colusa,CA,https://doctor.webmd.com/doctor/gregory-burt-dbab93dd-d215-4282-9646-d6b204927932-overview?=lid=6506569
+Dorothy,Peterson,9166241400,"10180 Tierra Del Lago Pl,",Newcastle,CA,https://doctor.webmd.com/doctor/dorothy-peterson-3d484ae5-2001-4baa-9a38-b81bf19ddb6b-overview?=lid=V10571480
+Carmen,Williams,5306713201,"1233 Plumas St Ste A,",Yuba City,CA,https://doctor.webmd.com/doctor/carmen-williams-f26cbad1-89b0-49a9-9595-77b92a2e82e3-overview?=lid=V16933450
+Jeanette,Mcafee,5307011416,"1132 Villa Vista Ave,",Yuba City,CA,https://doctor.webmd.com/doctor/jeanette-mcafee-04fcbc97-8b90-4646-b6e3-89bec51da095-overview?=lid=V65285
+Michael,Caplan,7074687400,"527 S State St,",Ukiah,CA,https://doctor.webmd.com/doctor/michael-caplan-b5275f3a-2a0a-4ae4-9621-aedeb1a18f36-overview?=lid=5606161
+Samuel,Sanders,5307518454,"555 W Onstott Rd,",Yuba City,CA,https://doctor.webmd.com/doctor/samuel-sanders-5ff17f0d-66e6-4062-87e8-9851b580f855-overview?=lid=5065127
+Lanier,Stenhouse,5307518454,"555 W Onstott Rd,",Yuba City,CA,https://doctor.webmd.com/doctor/lanier-stenhouse-d9ef5a5b-0998-4957-af8e-026b347db3a0-overview?=lid=5065127
+Patrick,Taylor,7074627490,"260 Hospital Dr,",Ukiah,CA,https://doctor.webmd.com/doctor/patrick-taylor-7b657ae3-1e22-467e-ab92-840a0bd6be9f-overview?=lid=5042165
+Karen,Ramsahai,5304585501,"3710 State Highway 45 Ste A,",Colusa,CA,https://doctor.webmd.com/doctor/karen-ramsahai-56e07f76-944d-4f3d-b779-b1bfc926a41e-overview?=lid=5388830
+Lou,Cummings,5308227215,"1445 Veterans Memorial Cir Ste B,",Yuba City,CA,https://doctor.webmd.com/doctor/lou-cummings-bc7e26a5-e18d-4992-80fe-ffd09fa86c99-overview?=lid=V10625328
+Leena,Chaudhury,2093585611,"1775 3rd St,",Atwater,CA,https://doctor.webmd.com/doctor/leena-chaudhury-72cd3546-ac44-484e-83c3-8541b429f800-overview?=lid=5065407
+Regino,Garcia,5306718820,"931 Market St,",Yuba City,CA,https://doctor.webmd.com/doctor/regino-garcia-a7419d4e-4fe2-4f0c-b7b8-f79a0766bad3-overview?=lid=5273435
+Catherine,Sanders,5307498640,"1496 N Beale Rd,",Marysville,CA,https://doctor.webmd.com/doctor/catherine-sanders-8371c766-8dcc-4563-a3fa-5345ac77dc77-overview?=lid=5369270
+Cynthia,Lu,2093572099,"1251 Grove Ave Ste A,",Atwater,CA,https://doctor.webmd.com/doctor/cynthia-lu-234f7ee3-fb99-464b-830f-a3f28e722b7d-overview?=lid=5510589
+Jack,Wong,2097360813,"222 S Main St,",Angels Camp,CA,https://doctor.webmd.com/doctor/jack-wong-890f32b8-03ed-4ea2-b6b3-b47410d87697-overview?=lid=V10161930
+Harbans,Gill,5305584010,"1532 Chandler Way,",Yuba City,CA,https://doctor.webmd.com/doctor/harbans-gill-435ca4f2-94ba-47c1-b094-abfe60e03f66-overview?=lid=V10416933
+Timothy,Johnston,2093812080,"3605 Hospital Rd Ste H,",Atwater,CA,https://doctor.webmd.com/doctor/timothy-johnston-dbb4c462-3567-42ae-8da4-f9e7c8db8708-overview?=lid=5086134
+Reymundo,Barosio-Magana,2093851244,"3140 Apron Ave,",Atwater,CA,https://doctor.webmd.com/doctor/reymundo-barosio-magana-c8cc6294-516a-421e-a62d-f1675adb4e00-overview?=lid=5420644
+Macario,Vazquez,2092966811,"19881 State Highway 88 Ste 5,",Pine Grove,CA,https://doctor.webmd.com/doctor/macario-vazquez-97c79945-5c77-49e4-b9f8-b084efb907af-overview?=lid=5087120
+Jon,Franco,2093864792,"1 Federal Way,",Atwater,CA,https://doctor.webmd.com/doctor/jon-franco-22ccc16c-e3c4-42a1-a25c-9e5667930523-overview?=lid=V10633376
+Colleen,Phalen,5308855177,"1111 High St Ste A,",Auburn,CA,https://doctor.webmd.com/doctor/colleen-phalen-50805b4d-dc48-44be-9b5a-996b861b801c-overview?=lid=5086819
+Elenitsa,Sebat,5308881016,"3254 Professional Dr,",Auburn,CA,https://doctor.webmd.com/doctor/elenitsa-sebat-e4643154-c1f5-415b-a7d5-9f3dac84ebb1-overview?=lid=5086807
+Mark,Vaughan,5308868630,"3280 Professional Dr,",Auburn,CA,https://doctor.webmd.com/doctor/mark-vaughan-20a8683f-a82e-4532-aa89-985bfd95d9b8-overview?=lid=5319381
+Gregory,Vaughan,5308868630,"3280 Professional Dr,",Auburn,CA,https://doctor.webmd.com/doctor/gregory-vaughan-d3680de1-d7c4-47db-a1c9-6c3019b855a1-overview?=lid=5319381
+Jennifer,Cochrane,5308868630,"3280 Professional Dr,",Auburn,CA,https://doctor.webmd.com/doctor/jennifer-cochrane-3ed90d4d-f2fd-4151-a0f0-f17aef18ac7b-overview?=lid=5319381
+Latrise,Searson-Norris,5306344730,"15301 Warren Shingle Rd Bldg 57,",Beale Afb,CA,https://doctor.webmd.com/doctor/latrise-searson-norris-b8fb3595-a069-4d38-a7ba-02b473d12bf2-overview?=lid=6502446
+Robert,Shideler,6199905251,"8885 Rio San Diego Dr Ste 357,",San Diego,CA,https://doctor.webmd.com/doctor/robert-shideler-e58712f1-dcd3-4c55-aad0-6dc9cb7c730b-overview?=lid=V10287262
+Helen,Yost,,"4216 Parrotts Ferry Rd,",Vallecito,CA,https://doctor.webmd.com/doctor/helen-yost-6431a7de-ed3a-4bbc-b2b3-c96033c8febb-overview?=lid=V51379
+Haku,Kahoano,2099844820,"18144 Seco St,",Jamestown,CA,https://doctor.webmd.com/doctor/haku-kahoano-32419847-6287-407e-b412-0fb48fbca4c3-overview?=lid=V10204842
+Teresa,Levinson,5302951900,"3105 Cedar Ravine Rd Ste 103,",Placerville,CA,https://doctor.webmd.com/doctor/teresa-levinson-048a615d-5902-4707-b7aa-916d08195414-overview?=lid=5020197
+Glendora,Evans-Trestler,5308897470,"11795 Education St Ste 100,",Auburn,CA,https://doctor.webmd.com/doctor/glendora-evans-trestler-0e2f2e70-8f6e-4755-af2a-b079de805333-overview?=lid=5570792
+Timothy,Friederichs,,"5 Mile N Soledad Hwy 101,",Soledad,CA,https://doctor.webmd.com/doctor/timothy-friederichs-b9d9d7c6-4a41-4da2-a1a9-0e6ca8537c9b-overview?=lid=5082079
+Roselle,Branch,,"5 Mile N Soledad Hwy 101,",Soledad,CA,https://doctor.webmd.com/doctor/roselle-branch-e1e9aa94-e980-4aaf-9419-2c786ff44f4c-overview?=lid=5082079
+Marc,Lasher,2097251060,"1343 W Main St Ste A/B,",Merced,CA,https://doctor.webmd.com/doctor/marc-lasher-acf921ea-c402-4d37-80e9-06641bd8904c-overview?=lid=5374131
+Robert,Hostetter,8316780881,"799 Front St,",Soledad,CA,https://doctor.webmd.com/doctor/robert-hostetter-2f0fe0ba-3456-4aa3-a88a-98f3a868603b-overview?=lid=V10194672
+Monique,Sanchez,2093835871,"797 W Childs Ave,",Merced,CA,https://doctor.webmd.com/doctor/monique-sanchez-b0014251-3a12-4897-804d-ebdcd61f1c29-overview?=lid=5257702
+Marie,David,2093853280,"2644 M St Ste H,",Merced,CA,https://doctor.webmd.com/doctor/marie-david-308003c1-fc92-4a8a-a4de-7c820c9ed54d-overview?=lid=5477728
+Jennifer,Garcia,2095643500,"315 Mercy Ave Ste 301,",Merced,CA,https://doctor.webmd.com/doctor/jennifer-garcia-a519513a-19c8-4d64-bc7b-6e6ea0610808-overview?=lid=V10376589
+Michael,Gonzaga,2095643513,"315 Mercy Ave Ste 301,",Merced,CA,https://doctor.webmd.com/doctor/michael-gonzaga-f5621c3e-fda0-476e-b89d-d423fe8593ca-overview?=lid=V10376589
+Elbio,Sabao,2095643500,"139 W El Portal Dr Ste A,",Merced,CA,https://doctor.webmd.com/doctor/elbio-sabao-12c72671-cd8a-425d-b184-a8bf976a9dff-overview?=lid=V10543761
+Johnny,Fong,2097252060,"143 W Main St,",Merced,CA,https://doctor.webmd.com/doctor/johnny-fong-edc68253-6ed1-4c8e-9178-9951754fdd0d-overview?=lid=5424011
+Chadwick,Burgdorff,8005856316,"5200 N Lake Rd,",Merced,CA,https://doctor.webmd.com/doctor/chadwick-burgdorff-72b3fdb1-3627-4bd8-811a-d569ae8cdda0-overview?=lid=V10624258
+Brad,Chew,2092237500,"26131 Lookout Ct,",Pioneer,CA,https://doctor.webmd.com/doctor/brad-chew-8a02a7e9-c830-417a-8e6b-a096bc9c5f48-overview?=lid=V10189312
+Timothy,Hooper,2095323370,"13951 Mono Way Ste A,",Sonora,CA,https://doctor.webmd.com/doctor/timothy-hooper-1feec951-3b68-45d1-bf4c-804bdc167b16-overview?=lid=5424946
+Hanna,Rhee,7143211839,"912 Hazel St,",Gridley,CA,https://doctor.webmd.com/doctor/hanna-rhee-e6e7e0e9-86d0-44f2-959e-44ccc0e2d784-overview?=lid=V10450320
+Ralph,Retherford,2095881424,"16050 Via Este Rd,",Sonora,CA,https://doctor.webmd.com/doctor/ralph-retherford-b1637ae5-bace-4711-b591-3bbf667e94c9-overview?=lid=V10543849
+Robert,Porcella,2097951800,"2262 Patricia Ln,",Arnold,CA,https://doctor.webmd.com/doctor/robert-porcella-d3c8fc04-a11e-4bef-857b-4f3b77c93e57-overview?=lid=V101070
+William,Culver,5306446044,"6156 Pony Express Trl,",Pollock Pines,CA,https://doctor.webmd.com/doctor/william-culver-148b3126-81d0-48f5-85ab-2c22427ef84a-overview?=lid=5064432
+Tedd,Dawson,7074593070,"1196 S Main St,",Willits,CA,https://doctor.webmd.com/doctor/tedd-dawson-db053f69-6f48-4b98-acda-5f84a9028fa1-overview?=lid=5086702
+Angela,Ingendaay,5302720537,"150 S Auburn St,",Grass Valley,CA,https://doctor.webmd.com/doctor/angela-ingendaay-368e0532-e351-4bc4-a9f5-c42eec1edd1c-overview?=lid=V10664204
+Adam,Payne,5302722303,"126 Glasson Way,",Grass Valley,CA,https://doctor.webmd.com/doctor/adam-payne-90cfe7a0-ed36-43da-b542-ddf1a208a6e5-overview?=lid=5087810
+Virender,Kaleka,5596593011,"992 O St,",Firebaugh,CA,https://doctor.webmd.com/doctor/virender-kaleka-f676325a-50cd-48ca-9b96-9c730900498d-overview?=lid=5542718
+Rogelio,Hernandez,5596599000,"1107 O St,",Firebaugh,CA,https://doctor.webmd.com/doctor/rogelio-hernandez-c6d1fa37-2863-4dc0-a0a4-f13fc2e4bbb7-overview?=lid=5263523
+Christopher,Montanaro,5302745020,"2090 Nevada City Hwy,",Grass Valley,CA,https://doctor.webmd.com/doctor/christopher-montanaro-da028f68-e61a-4cbc-becc-d62b464a803a-overview?=lid=5273431
+Celia,Sutton-Pado,5302749762,"844 Old Tunnel Rd,",Grass Valley,CA,https://doctor.webmd.com/doctor/celia-sutton-pado-5642926c-0719-4074-8800-249b1ac6a259-overview?=lid=5263130
+Luis,Jourdan Figueroa,5305345394,"2145 5th Ave,",Oroville,CA,https://doctor.webmd.com/doctor/luis-jourdan-figueroa-d6d13ff7-124f-444c-813a-ed94c5e41d47-overview?=lid=V10633817
+Smitha,Sathyaprakash,5305347500,"2800 Lincoln St,",Oroville,CA,https://doctor.webmd.com/doctor/smitha-sathyaprakash-7e174dd6-1ca6-4d77-9650-765280b5ab09-overview?=lid=5064157
+Kelly,Tracey,,"40232 Junction Dr,",Oakhurst,CA,https://doctor.webmd.com/doctor/kelly-tracey-dfe589e5-738f-40d4-9124-ec56a85f480b-overview?=lid=V10605930
+Clay,Craig,5305321820,"2780 Oro Dam Blvd E Ste 3,",Oroville,CA,https://doctor.webmd.com/doctor/clay-craig-6c6f92ec-ce16-46c9-85fd-1638ff680e08-overview?=lid=5328220
+Neal,Spiva,9167844000,"2809 Olive Hwy,",Oroville,CA,https://doctor.webmd.com/doctor/neal-spiva-cdb8da55-a2e6-469e-9fb7-4367665a77ed-overview?=lid=V10598020
+Ernesto,Alvaro,8313858000,"1180 Broadway St,",King City,CA,https://doctor.webmd.com/doctor/ernesto-alvaro-3051e131-6b69-4ff2-b1c9-6878ba7658dd-overview?=lid=5378149
+Peter,Van Houten,5302923478,"15301 Tyler Foote Rd,",Nevada City,CA,https://doctor.webmd.com/doctor/peter-van-houten-faf40051-58aa-4a4d-9510-12dbe34a479e-overview?=lid=5087840
+Kei,Velazquez,7079641251,"205 South St,",Fort Bragg,CA,https://doctor.webmd.com/doctor/kei-velazquez-a8856dd7-cb91-4829-b4f4-9408b8a2584d-overview?=lid=5086591
+Marilyn,Magoffin,7079614631,"721 River Dr Ste A,",Fort Bragg,CA,https://doctor.webmd.com/doctor/marilyn-magoffin-18ff79dc-b2fb-44ca-a236-7ec07839383b-overview?=lid=5069171
+Bradley,Smith,5308653400,"1361 Cortina Dr Ste A,",Orland,CA,https://doctor.webmd.com/doctor/bradley-smith-b10d7a14-9838-45cb-88f0-6780bcace858-overview?=lid=5064101
+Diana,Franco,5308655544,"1211 Cortina Dr,",Orland,CA,https://doctor.webmd.com/doctor/diana-franco-3b292aee-30f7-472c-8ad6-5d8a32294e3e-overview?=lid=5064111
+Alfred,Villasenor,5308263694,"278 Main St,",Hamilton City,CA,https://doctor.webmd.com/doctor/alfred-villasenor-738f09e8-a883-4761-80f2-5e4488f2ae68-overview?=lid=5263202
+Ronald,Johnson,5308911676,"376 Vallombrosa Ave,",Chico,CA,https://doctor.webmd.com/doctor/ronald-johnson-35d99bcf-9da2-4449-ad20-ee0b07638cd7-overview?=lid=V10693223
+Cyrus,Orandi,5303327300,"1458 Esplanade Ste 4,",Chico,CA,https://doctor.webmd.com/doctor/cyrus-orandi-b7bacd9a-98ce-4566-81c7-d77c6a1cde61-overview?=lid=V10502029
+Randall,Williams,5303450064,"1040 Mangrove Ave,",Chico,CA,https://doctor.webmd.com/doctor/randall-williams-9fe05028-4837-441c-bb5f-360aa56fcb77-overview?=lid=5007427
+Kurt,Johnson,5303450064,"1040 Mangrove Ave,",Chico,CA,https://doctor.webmd.com/doctor/kurt-johnson-b5544df1-d9ca-4537-9828-e4914783cdb8-overview?=lid=5007427
+Hugo,Leon Jr,5303450064,"1040 Mangrove Ave,",Chico,CA,https://doctor.webmd.com/doctor/hugo-leon-jr-d3e68f1a-5e8e-de11-a5f3-001f29e3eb44-overview?=lid=5007427
+Daniel,Ekkens,5303450064,"1040 Mangrove Ave,",Chico,CA,https://doctor.webmd.com/doctor/daniel-ekkens-611f2a2f-2615-43c9-98f9-6e9426f8cd2e-overview?=lid=5007427
+Barbara,Wilde,5303450064,"1040 Mangrove Ave,",Chico,CA,https://doctor.webmd.com/doctor/barbara-wilde-32758709-f23b-4e03-ab55-e3cfb280b9c9-overview?=lid=5007427
+Debra,Peterson,5303427564,"185 E 7th Ave Ste D,",Chico,CA,https://doctor.webmd.com/doctor/debra-peterson-b2dc914f-aa72-4403-8d47-a0dee0e09415-overview?=lid=5064120
+Stephen,Peterson,5303427564,"185 E 7th Ave Ste D,",Chico,CA,https://doctor.webmd.com/doctor/stephen-peterson-bc6b93fe-1096-4805-9ffa-5d99a5e04030-overview?=lid=5064120
+Timothy,Roy,5308795000,"280 Cohasset Rd,",Chico,CA,https://doctor.webmd.com/doctor/timothy-roy-7663d545-a491-de11-a5f3-001f29e3eb44-overview?=lid=5168008
+Nicanor,Rodriguez,5308795000,"280 Cohasset Rd,",Chico,CA,https://doctor.webmd.com/doctor/nicanor-rodriguez-5203c376-81cc-4a8b-9435-af96ecfc3ea3-overview?=lid=5168008
+Paul,Schnur,5308795000,"280 Cohasset Rd,",Chico,CA,https://doctor.webmd.com/doctor/paul-schnur-30c6cc77-a391-de11-a5f3-001f29e3eb44-overview?=lid=5168008
+Mark,Light,5308997300,"1279 E 1st Ave Ste C,",Chico,CA,https://doctor.webmd.com/doctor/mark-light-08b0464e-5335-4c51-828a-cd015634c053-overview?=lid=5299369
+Randall,Caviness,5308919531,"1279 E 1st Ave Ste A,",Chico,CA,https://doctor.webmd.com/doctor/randall-caviness-4b7bbed8-f0aa-4e30-98fb-24824fd7a205-overview?=lid=5306904
+Sandra,Rice,5308990295,"110 Independence Cir Ste 100,",Chico,CA,https://doctor.webmd.com/doctor/sandra-rice-ddbd8956-904d-4bf4-91c5-3dd04fe9e141-overview?=lid=5181129
+Angela,Lurlay,,"124 S A St,",Madera,CA,https://doctor.webmd.com/doctor/angela-lurlay-76cdffb0-e483-4179-b414-b9df3d2b736f-overview?=lid=5353959
+Moises,Zamora,,"124 S A St,",Madera,CA,https://doctor.webmd.com/doctor/moises-zamora-9a844801-19ff-4a82-b8e9-e2b38ed1258b-overview?=lid=5353959
+Christopher,Jensen,5308722000,"5125 Skyway,",Paradise,CA,https://doctor.webmd.com/doctor/christopher-jensen-5853436e-6110-4e89-8a67-ad41ec24c73c-overview?=lid=5064104
+Hector,Urquilla,,"505 E Almond Ave Ste 101,",Madera,CA,https://doctor.webmd.com/doctor/hector-urquilla-4de2a420-37ef-44d1-a09f-119345690d04-overview?=lid=5007225
+Martha,Ramos-Fraga,5596644000,"505 E Almond Ave Ste 101,",Madera,CA,https://doctor.webmd.com/doctor/martha-ramos-fraga-d34b75ea-efad-411e-a93b-17a44d391c44-overview?=lid=5007225
+Jessie,Sumner Jr,,"505 E Almond Ave Ste 101,",Madera,CA,https://doctor.webmd.com/doctor/jessie-sumner-jr-1e936c76-49d7-40ab-bc22-b12cf561c5b0-overview?=lid=5007225
+Kathy,Garlick,,"5910 Clark Rd Ste U,",Paradise,CA,https://doctor.webmd.com/doctor/kathy-garlick-96ae84e5-a459-49bd-bb7b-1f904e8929ba-overview?=lid=5369231
+Moira,Kehoe,,"5910 Clark Rd Ste U,",Paradise,CA,https://doctor.webmd.com/doctor/moira-kehoe-c1664194-598c-4d64-974c-5c60d622767d-overview?=lid=5369231
+Laurence,Alavezos,7079836182,"Hwy 162 & Biggar Ln,",Covelo,CA,https://doctor.webmd.com/doctor/laurence-alavezos-990fea57-9e8d-4e64-9403-103284046556-overview?=lid=5086577
+Don,Massie,5308244663,"155 Solano St,",Corning,CA,https://doctor.webmd.com/doctor/don-massie-e0281ba8-3b1b-466b-9e25-56bedd43eb37-overview?=lid=5065408
+Aurelia,Lake,5308244663,"155 Solano St,",Corning,CA,https://doctor.webmd.com/doctor/aurelia-lake-cda05822-6a37-407a-bc89-d869ea5d6ff8-overview?=lid=5065408
+Tracy,Rychtera,5308244663,"155 Solano St,",Corning,CA,https://doctor.webmd.com/doctor/tracy-rychtera-07c2004f-a2b7-40b2-a4ac-e646275cca99-overview?=lid=5065408
+Iqbal,Sodha,5596412245,"35324 Highway 41 Ste A,",Coarsegold,CA,https://doctor.webmd.com/doctor/iqbal-sodha-db6af2cb-38e1-4a39-8152-83f7262e8533-overview?=lid=5574204
+Todd,Degiovanni,5305435623,"2201 South Ave,",South Lake Tahoe,CA,https://doctor.webmd.com/doctor/todd-degiovanni-9de25729-1572-4564-89c6-eb121004c832-overview?=lid=5013420
+Victor,Flauta,5594395950,"5631 N Figarden Dr Ste 107,",Fresno,CA,https://doctor.webmd.com/doctor/victor-flauta-887578f0-c42f-4434-a2f1-bfc0ec26fc1b-overview?=lid=V10706943
+Michael,Lemus,5596421500,"49063 Road 426 Ste C,",Oakhurst,CA,https://doctor.webmd.com/doctor/michael-lemus-ece3e315-ee1b-4ad8-a888-4c0fb93f34af-overview?=lid=5081532
+Jennifer,Franchuk,8559999355,"49169 Road 426,",Oakhurst,CA,https://doctor.webmd.com/doctor/jennifer-franchuk-0c760d19-55cf-4cb9-92d4-9c38f2808226-overview?=lid=5545113
+Lisa,Gilliam,5593537290,"9300 Valley Childrens Pl # G230,",Madera,CA,https://doctor.webmd.com/doctor/lisa-gilliam-58bdc88e-4f59-4a5d-b76e-70094904abb9-overview?=lid=5068916
+Russel,Ladwig,5593537290,"9300 Valley Childrens Pl # G230,",Madera,CA,https://doctor.webmd.com/doctor/russel-ladwig-3e6f0172-3335-4adf-88b2-f858a76d9c35-overview?=lid=5068916
+Keri,Dinino,5593537290,"9300 Valley Childrens Pl # G230,",Madera,CA,https://doctor.webmd.com/doctor/keri-dinino-f22ce0a2-e7e8-4915-971c-33e3fbea16fe-overview?=lid=5068916
+Jill,Cielnicky,5593537290,"9300 Valley Childrens Pl # G230,",Madera,CA,https://doctor.webmd.com/doctor/jill-cielnicky-e033f371-5bfe-4850-b8d7-234f5af5f889-overview?=lid=5068916
+Kanwar Partap,Gill,5594729895,"7035 N West Ave Ste 101,",Fresno,CA,https://doctor.webmd.com/doctor/kanwar-partap-gill-53f027fd-2014-46cb-a5e9-4fe192300512-overview?=lid=6545975
+Matthew,Kolosky,5593533000,"9300 Valley Childrens Pl,",Madera,CA,https://doctor.webmd.com/doctor/matthew-kolosky-792267dc-06d2-44f1-b839-351484a37f37-overview?=lid=V10338036
+John,Lubenko,5598604925,"4011 N Marks Ave,",Fresno,CA,https://doctor.webmd.com/doctor/john-lubenko-607d46d2-2863-4eb0-85b8-314e883c1683-overview?=lid=5568722
+Apai,Polyudhapoom,5598604925,"4011 N Marks Ave,",Fresno,CA,https://doctor.webmd.com/doctor/apai-polyudhapoom-0b8a68a4-37a9-44c7-a0b8-e703265925df-overview?=lid=5568722
+Mark,Spohr,,"456 Old County Rd,",Tahoe City,CA,https://doctor.webmd.com/doctor/mark-spohr-971b71df-cb5d-4223-8247-41cd6c51cefe-overview?=lid=V14589
+Cristina,Okomkwo,5594401500,"6769 N Fresno St Ste 201,",Fresno,CA,https://doctor.webmd.com/doctor/cristina-okomkwo-88d0952a-76e9-44b5-b182-34e7a054c05c-overview?=lid=5530378
+Thomas,Dabrowski,5592229200,"222 W Shaw Ave,",Fresno,CA,https://doctor.webmd.com/doctor/thomas-dabrowski-19b839dd-4f16-430a-8c74-7917ceae2ce7-overview?=lid=V10695622
+Thomas,Shute,5594479056,"6137 N Thesta St Ste 101A,",Fresno,CA,https://doctor.webmd.com/doctor/thomas-shute-a395d605-2cbf-4ef6-87b0-426cb564939a-overview?=lid=5460227
+Nicholas,Orme,5594325003,"6183 N Fresno St Ste 101,",Fresno,CA,https://doctor.webmd.com/doctor/nicholas-orme-9286914a-b247-4dc2-9f64-67867c4fbab8-overview?=lid=5385702
+Sonja,Growcott,5598380500,"7472 N Fresno St Ste 205,",Fresno,CA,https://doctor.webmd.com/doctor/sonja-growcott-d5b0240a-67eb-4bec-a5cf-061031158343-overview?=lid=5598281
+Robert,Graham,5594355231,"1382 E Alluvial Ave Ste 106,",Fresno,CA,https://doctor.webmd.com/doctor/robert-graham-5e82e22c-f2f5-4491-8a10-35e4011cfc36-overview?=lid=5596113
+Thomas,Griffin,5594350339,"1515 E Alluvial Ave Ste 101,",Fresno,CA,https://doctor.webmd.com/doctor/thomas-griffin-a4ac43b3-d4f9-47f1-ad0b-8da6ebf8c2c3-overview?=lid=5543439
+Steven,Chooljian,5594352630,"1515 E Alluvial Ave Ste 101,",Fresno,CA,https://doctor.webmd.com/doctor/steven-chooljian-c51faba9-3ad0-4479-a050-459a6c7a45a2-overview?=lid=5543439
+Sergey,Zakharyan,5592240106,"1095 E Shaw Ave Ste 200,",Fresno,CA,https://doctor.webmd.com/doctor/sergey-zakharyan-0948ef72-eee9-45cd-a316-2194edaddb4e-overview?=lid=5081697
+Juan,Bautista,5592989600,"1805 E Fir Ave Ste 101,",Fresno,CA,https://doctor.webmd.com/doctor/juan-bautista-e7fbe313-cdf9-4528-9e9d-e68f395d8f53-overview?=lid=5511268
+Paul,Woodruff,5592300745,"5150 N 6th St Ste 172,",Fresno,CA,https://doctor.webmd.com/doctor/paul-woodruff-1b042a8a-a888-4011-af3a-deb145047f5e-overview?=lid=V10690255
+Timothy,Atmajian,5592271622,"3030 N Fresno St Ste 101,",Fresno,CA,https://doctor.webmd.com/doctor/timothy-atmajian-e10478af-36ec-4a43-a4c5-f388f39addd4-overview?=lid=5324388
+Megan,Shirley,5305823277,"10956 Donner Pass Rd Ste 230,",Truckee,CA,https://doctor.webmd.com/doctor/megan-shirley-3411d805-ed1c-46e6-bda9-43f698f770ae-overview?=lid=5375413
+Freddie,Hayes,,"302 Fresno St Ste 105,",Fresno,CA,https://doctor.webmd.com/doctor/freddie-hayes-48f04e91-e29f-4ddf-a9da-6f77e8466822-overview?=lid=V10652889
+Yooppadee,Rithaporn,5592331188,"1743 N Fresno St,",Fresno,CA,https://doctor.webmd.com/doctor/yooppadee-rithaporn-575c021a-4bfd-49ae-91d3-916ea6554750-overview?=lid=V10369457
+Clarence,Warner,5592301485,"4420 N 1st St Ste 121,",Fresno,CA,https://doctor.webmd.com/doctor/clarence-warner-0113c570-fbd6-462a-9f4d-bb70a8580758-overview?=lid=5590830
+Tejinder,Randhawa,5594854000,"805 Fresno St,",Fresno,CA,https://doctor.webmd.com/doctor/tejinder-randhawa-5dafa52a-d022-462c-99c7-f84e7faff43a-overview?=lid=5329486
+Elpidio,Fonte,5592662496,"2210 E Illinois Ave Ste 201,",Fresno,CA,https://doctor.webmd.com/doctor/elpidio-fonte-7708bd77-ec3b-4f54-bbbd-3aa04fd07ad9-overview?=lid=V10659535
+Rafael,Gonzalez,5594996400,"155 N Fresno St,",Fresno,CA,https://doctor.webmd.com/doctor/rafael-gonzalez-a928a9fb-d320-477d-a57d-c9070486b86f-overview?=lid=V10580935
+David,Dowis,5594991690,"1047 R St Ste 1047,",Fresno,CA,https://doctor.webmd.com/doctor/david-dowis-9d8b3f28-be30-4c75-b47d-1e86a34e391d-overview?=lid=5081785
+Ralph,Jacobs,5594534099,"4441 E Kings Canyon Rd,",Fresno,CA,https://doctor.webmd.com/doctor/ralph-jacobs-1664ae13-b0b1-4eec-a24b-99cf85ae4c25-overview?=lid=V67154
+Roger,Cox,5305288600,"1425 Montgomery Rd,",Red Bluff,CA,https://doctor.webmd.com/doctor/roger-cox-ceaaf860-01b9-4c40-a783-8f02faa82e7f-overview?=lid=V10633157
+Janene,Jarrett,5594724600,"782 Medical Center Dr E Ste 311,",Clovis,CA,https://doctor.webmd.com/doctor/janene-jarrett-fbebbce3-e8ec-4a68-ae66-a4053d938512-overview?=lid=A3479972
+Jenny,Wang-Peterman,5593255809,"1867 E Fir Ave Ste 104,",Fresno,CA,https://doctor.webmd.com/doctor/jenny-wang-peterman-374322ce-93fc-4572-80e6-2a6037f40e85-overview?=lid=V10395880
+Steven,Brown,7757829118,"1667 Lucerne St Ste A,",Minden,NV,https://doctor.webmd.com/doctor/steven-brown-4c079ef3-76cf-484c-807a-839b22adb6dd-overview?=lid=5320309
+Venu,Gopal,5592973454,"2539 Scott Ave,",Clovis,CA,https://doctor.webmd.com/doctor/venu-gopal-020a5e7e-9202-4511-a39b-a820c4dc5739-overview?=lid=V10572609
+Heidi,Mist,5305277333,"1022 Jefferson St,",Red Bluff,CA,https://doctor.webmd.com/doctor/heidi-mist-7e13a4e4-1bb4-de11-9b4f-001f29e3bb62-overview?=lid=5492182
+Ulysses,Baniga,5599354900,"24863 W Jayne Ave,",Coalinga,CA,https://doctor.webmd.com/doctor/ulysses-baniga-272cded8-7b4c-4ece-af58-6ae46c188977-overview?=lid=V10018461
+Samantha,Smith,7758315308,"880 Alder Ave Fl 2 Ste 200,",Incline Village,NV,https://doctor.webmd.com/doctor/samantha-smith-144d3fbf-f4d7-4dd8-aab6-f58c1378101e-overview?=lid=5161282
+John,Zinke,8057481076,"588 Huntington Rd,",Cambria,CA,https://doctor.webmd.com/doctor/john-zinke-507c6ba2-df68-422c-b5db-215c8c6c52b9-overview?=lid=V10494242
+Carlos,Guzman,5598345341,"210 E Merced St,",Fowler,CA,https://doctor.webmd.com/doctor/carlos-guzman-f997e3db-9738-4bad-82d4-684149a69314-overview?=lid=5081485
+Barbara,Wheeler,5598345341,"210 E Merced St,",Fowler,CA,https://doctor.webmd.com/doctor/barbara-wheeler-86b8aad0-4884-4cdc-b957-28ba0dda8685-overview?=lid=5081485
+Kane,Deem,7754457220,"3770 US Highway 395 S,",Carson City,NV,https://doctor.webmd.com/doctor/kane-deem-c0b0a89f-0096-4a11-8f84-3bd89b5d47a7-overview?=lid=5542923
+Kelly,Nalder,7754455632,"775 Fleischmann Way Fl 2,",Carson City,NV,https://doctor.webmd.com/doctor/kelly-nalder-be69b1c0-5774-457c-8a88-8af4bc247e78-overview?=lid=5561954
+Daniela,Borgia,7758833953,"4095 N Carson St Ste 1,",Carson City,NV,https://doctor.webmd.com/doctor/daniela-borgia-d45dab62-4320-4797-8d85-f376bf888f46-overview?=lid=5161448
+Jean,Gebhard,7754457170,"2874 N Carson St Ste 200,",Carson City,NV,https://doctor.webmd.com/doctor/jean-gebhard-d8db9ff7-8921-4ce7-94c0-3776d853d6d1-overview?=lid=5161437
+Merritt,Dunlap,7758821300,"2874 N Carson St Ste 127,",Carson City,NV,https://doctor.webmd.com/doctor/merritt-dunlap-77df9da0-71c8-4bc7-8d2c-bd04d3aaf829-overview?=lid=5547220
+Diana,Torok,2034351751,"24 Hospital Ave,",Danbury,CT,https://doctor.webmd.com/doctor/diana-torok-4e512976-3059-40e7-aa5e-a5c8c3a5aa3b-overview?=lid=V10153934
+Dawn,Elton,7754457220,"3200 Market St,",Carson City,NV,https://doctor.webmd.com/doctor/dawn-elton-e7fb0b50-a1f9-461d-9bd7-afc8a24dd8a1-overview?=lid=5542920
+Laurie,Berthold,5594484500,"2651 Highland Ave,",Selma,CA,https://doctor.webmd.com/doctor/laurie-berthold-ed7c94f8-51a6-4cbd-a3a9-90fa0cc18a35-overview?=lid=5413342
+Lori,Winton-Elmer,5594484500,"2651 Highland Ave,",Selma,CA,https://doctor.webmd.com/doctor/lori-winton-elmer-b58e1fd5-4725-49b7-89e4-083ed7caddf0-overview?=lid=5413342
+Dev,Rai,5598919100,"2057 High St,",Selma,CA,https://doctor.webmd.com/doctor/dev-rai-c41e4d13-50a1-40c8-b70a-d4d92848453a-overview?=lid=5081556
+Yash,Verma,5598961414,"1850 Whitson St,",Selma,CA,https://doctor.webmd.com/doctor/yash-verma-d6b068e2-c4fe-4422-8bae-ffaf9b24e034-overview?=lid=5009670
+Cindy,Buchanan,8054344315,"1220 Las Tablas Rd Ste 1418,",Templeton,CA,https://doctor.webmd.com/doctor/cindy-buchanan-b8cc2892-44b0-4a23-80af-fbdb0343a2e4-overview?=lid=5541928
+Lena,Jesrani,5303473418,"20833 Long Branch Dr,",Cottonwood,CA,https://doctor.webmd.com/doctor/lena-jesrani-e142639a-02ed-df11-a4b4-001f29e3eb44-overview?=lid=5038274
+Christopher,Garcia,5599241541,"16835 Alkali Dr Ste M,",Lemoore,CA,https://doctor.webmd.com/doctor/christopher-garcia-626fc0ae-8ee8-4242-a060-4637472a72f2-overview?=lid=6500386
+Michael,Obrien,7758511505,"5575 Kietzke Ln Ste B,",Reno,NV,https://doctor.webmd.com/doctor/michael-obrien-91cfd34d-0407-4636-a6ec-3a62e534480b-overview?=lid=5547340
+Annie,Wong,5595840668,"355 Campus Dr Ste B,",Hanford,CA,https://doctor.webmd.com/doctor/annie-wong-33c43299-9abb-4048-8c35-70a24138dd5a-overview?=lid=V10264130
+Joseph,Hollen,7758270670,"4741 Caughlin Pkwy Ste 3,",Reno,NV,https://doctor.webmd.com/doctor/joseph-hollen-25cef5ec-6d2b-409f-a15b-39be98678ccc-overview?=lid=V10565744
+Cyrus,Pourzan,7758319600,"1000 Whites Creek Ln,",Reno,NV,https://doctor.webmd.com/doctor/cyrus-pourzan-dc58b991-9c91-4c91-9d2f-ca73f4b17483-overview?=lid=V10023059
+Daniel,Schlund,5595828791,"125 Mall Dr Ste 307,",Hanford,CA,https://doctor.webmd.com/doctor/daniel-schlund-6131aba1-3c4b-4643-a8ea-3cc24bddac7e-overview?=lid=5300895
+Jacob,Peters,5596379818,"750 G St Ste 1,",Reedley,CA,https://doctor.webmd.com/doctor/jacob-peters-96753d3b-d803-44b3-a2fe-16bf8a016e04-overview?=lid=5229019
+Nadia,Dao,5595370224,"1025 N Douty St Ste 105,",Hanford,CA,https://doctor.webmd.com/doctor/nadia-dao-28de5e75-8c11-4fa7-a3bc-49af2145d097-overview?=lid=V10234775
+Victor,Barahona,5597437340,"1093 11th St,",Reedley,CA,https://doctor.webmd.com/doctor/victor-barahona-22977324-0ede-4f3b-9fd9-92fe586487d7-overview?=lid=V129895
+Stefan,Pentschev,5596380400,"826 E Manning Ave,",Reedley,CA,https://doctor.webmd.com/doctor/stefan-pentschev-d598d5c6-9932-4cc3-9fc7-469208f40a13-overview?=lid=5081543
+Robert,Eslinger,7758291009,"6110 Plumas St Ste B,",Reno,NV,https://doctor.webmd.com/doctor/robert-eslinger-876d1110-aae5-44db-a68e-a22e333baf43-overview?=lid=5161393
+Kellie,McGinley,7758242323,"517 Hammill Lane,",Reno,NV,https://doctor.webmd.com/doctor/kellie-mcginley-7c494c6f-6ae7-4ff9-8947-e618ce4a6b70-overview?=lid=V62773
+DeAnne,Reynolds,7758538888,"255 W Peckham Ln Ste 2,",Reno,NV,https://doctor.webmd.com/doctor/deanne-reynolds-84d6a59b-46d3-4aab-af01-f04edb6d0b49-overview?=lid=5503505
+Naomi,Waak,8054617144,"5905 Capistrano Ave Ste C,",Atascadero,CA,https://doctor.webmd.com/doctor/naomi-waak-822d0528-dd9f-4f76-aae8-38521dd62dfb-overview?=lid=5081164
+Patricia,Schechter,8054617144,"5905 Capistrano Ave Ste C,",Atascadero,CA,https://doctor.webmd.com/doctor/patricia-schechter-d78bfdd6-2ff5-41b5-98de-0be569f9d465-overview?=lid=5081164
+Ivy,Spadone,7757864673,"580 W 5th St Ste 9,",Reno,NV,https://doctor.webmd.com/doctor/ivy-spadone-c63979a3-35e6-45ac-a6a6-10cbae28eb58-overview?=lid=5161428
+Christine,Silsby,7757864673,"580 W 5th St Ste 9,",Reno,NV,https://doctor.webmd.com/doctor/christine-silsby-eae712b8-ba03-4489-9505-c6b6dd5965dd-overview?=lid=5161428
+Charles,Quaglieri,7753983630,"330 E Liberty St Ste 100,",Reno,NV,https://doctor.webmd.com/doctor/charles-quaglieri-cd400ac1-2aee-4d71-9107-940e7dfccfdd-overview?=lid=5266465
+Mellyn,Johnson,7759825003,"1500 E 2nd St Ste 100,",Reno,NV,https://doctor.webmd.com/doctor/mellyn-johnson-99556719-8c99-4ba1-b725-eb52aea214e7-overview?=lid=5544221
+Li-Chien,Chen,7759823866,"75 Pringle Way Ste 705,",Reno,NV,https://doctor.webmd.com/doctor/li-chien-chen-708812de-43a3-4309-85b5-8c037ccb6ac8-overview?=lid=V10618115
+Ellen,Ackerman,7758297999,"75 Pringle Way Ste 804,",Reno,NV,https://doctor.webmd.com/doctor/ellen-ackerman-c0338512-b92f-473b-a8d5-5585fe8d8817-overview?=lid=5533627
+Gary,Mimura,5595959890,"250 W El Monte Way,",Dinuba,CA,https://doctor.webmd.com/doctor/gary-mimura-54edd3b8-5f4e-4c40-a7b9-ca504cbfe06c-overview?=lid=5081471
+Howard,Henson,7756881900,"500 Galletti Way,",Sparks,NV,https://doctor.webmd.com/doctor/howard-henson-8e44bccc-09c7-4db2-8921-5357cc071215-overview?=lid=5254835
+Anand,Narayan,5595916200,"468 N Vermont Ave,",Dinuba,CA,https://doctor.webmd.com/doctor/anand-narayan-ce3cd125-94b6-4321-9952-e40f42b4663f-overview?=lid=5081540
+Ecstacy,Peralta,5595916200,"468 N Vermont Ave,",Dinuba,CA,https://doctor.webmd.com/doctor/ecstacy-peralta-b28040d5-ca00-41a8-bf21-99106c4fb397-overview?=lid=5081540
+Lourdes,Oliveros,5595957650,"355 Monte Vista Dr,",Dinuba,CA,https://doctor.webmd.com/doctor/lourdes-oliveros-1bae547c-d66e-4031-b143-570c0ceb2e69-overview?=lid=5600675
+Hermann,Jonak,7753135036,"911 E Parr Blvd,",Reno,NV,https://doctor.webmd.com/doctor/hermann-jonak-8021569b-5b2a-4ff7-8381-465be11c21a3-overview?=lid=V10613517
+Daryoush,Kashani,5596267118,"555 6th St,",Orange Cove,CA,https://doctor.webmd.com/doctor/daryoush-kashani-da535378-cb7a-4368-b1b9-3fe438f3b0b6-overview?=lid=5263511
+James,Laage,5302415511,"5594 Indianwood Dr,",Redding,CA,https://doctor.webmd.com/doctor/james-laage-b1b63968-9b22-4804-b95b-6edc37911637-overview?=lid=V118470
+Autumn,Gardner,7753527200,"3160 Vista Blvd,",Sparks,NV,https://doctor.webmd.com/doctor/autumn-gardner-60c480f2-1051-e111-ae23-001f29e3eb44-overview?=lid=5169451
+Alicia,Garaventa,7753527200,"3160 Vista Blvd,",Sparks,NV,https://doctor.webmd.com/doctor/alicia-garaventa-64e8a2b5-48af-4aa9-85e7-473438fa172b-overview?=lid=5169451
+Navjot,Dhillon,5302256458,"2175 Rosaline Ave Ste A,",Redding,CA,https://doctor.webmd.com/doctor/navjot-dhillon-8ee5a072-ed42-4cf8-84e5-c5a07c70df14-overview?=lid=5087975
+Leann,Arnett,5302267555,"351 Hartnell Ave,",Redding,CA,https://doctor.webmd.com/doctor/leann-arnett-d88f9c20-f860-4ad5-9dd0-0d903b94d74a-overview?=lid=5167989
+Kelli,Giovaniello,5302267555,"351 Hartnell Ave,",Redding,CA,https://doctor.webmd.com/doctor/kelli-giovaniello-e01ab8b8-9ddc-4438-81a6-443c93954c32-overview?=lid=5167989
+Cheri,Hougland,5305475305,"9461 Deschutes Rd Ste 4,",Palo Cedro,CA,https://doctor.webmd.com/doctor/cheri-hougland-6b432ee8-2d21-465a-a9b9-8e2b3173e949-overview?=lid=5671437
+Raymond,Merlo,5302222113,"191 Hartnell Ave,",Redding,CA,https://doctor.webmd.com/doctor/raymond-merlo-ef441600-fcfa-44e7-a7b6-c7f2bd5a3164-overview?=lid=5251223
+Woody,Patra,5302463857,"3335 Placer St,",Redding,CA,https://doctor.webmd.com/doctor/woody-patra-6adf1091-5e0a-488f-bd23-cdaae5898b26-overview?=lid=V10424484
+Juan,Tamayo,5595282804,"12586 Avenue 408,",Orosi,CA,https://doctor.webmd.com/doctor/juan-tamayo-36b353a2-0f64-49bc-9d06-80c2f5a690c5-overview?=lid=V10303145
+Benjamin,Bradley,5595282804,"12586 Avenue 408,",Orosi,CA,https://doctor.webmd.com/doctor/benjamin-bradley-1429c928-a82e-4ff1-b4d2-6335f52246a0-overview?=lid=5259309
+Sean,Dugan,5302465710,"1035 Placer St,",Redding,CA,https://doctor.webmd.com/doctor/sean-dugan-4d8302a5-00d6-4382-906a-49f44f7e703c-overview?=lid=5061657
+Barry,Billington,5302433988,"1115 Whiskeytown Ct Ste A,",Redding,CA,https://doctor.webmd.com/doctor/barry-billington-66b285ba-cab9-4f48-bc8e-637f4961a057-overview?=lid=5064810
+Mark,Roback,5302445400,"1100 Butte St,",Redding,CA,https://doctor.webmd.com/doctor/mark-roback-3d92c0e0-8386-43f5-a05a-31f694b6abcb-overview?=lid=V10594294
+Than,Aung,5302258775,"2421 Old Eureka Way,",Redding,CA,https://doctor.webmd.com/doctor/than-aung-c58799de-ee77-412f-83aa-30772fe2e66d-overview?=lid=5064811
+Ryan,Sefcik,7758297600,"655 Sierra Rose Dr,",Reno,NV,https://doctor.webmd.com/doctor/ryan-sefcik-871355d4-930a-4bd0-aa05-d24a6c6c0484-overview?=lid=5194185
+Trisha,Fagan,5302462467,"1255 Liberty St,",Redding,CA,https://doctor.webmd.com/doctor/trisha-fagan-032506ed-0d2f-423d-96c3-b47e722716da-overview?=lid=5047440
+Bruce,Vogel,7754633335,"171 Campbell Ln,",Yerington,NV,https://doctor.webmd.com/doctor/bruce-vogel-a92bdf3f-bbcb-445e-8667-f7f4bb5cc931-overview?=lid=6508526
+Ellen,Mamole,7754633335,"171 Campbell Ln,",Yerington,NV,https://doctor.webmd.com/doctor/ellen-mamole-33360908-649c-43d6-88d7-1d584de205cc-overview?=lid=6508526
+Ken,Zacharias,7754633335,"171 Campbell Ln,",Yerington,NV,https://doctor.webmd.com/doctor/ken-zacharias-06a25fe2-94a8-4743-a115-33193de5f3f8-overview?=lid=6508526
+Irene,Best,7754633335,"171 Campbell Ln,",Yerington,NV,https://doctor.webmd.com/doctor/irene-best-483db983-c277-4263-b40e-34148a43b8c7-overview?=lid=6508526
+Donald,Krouse,5306285517,"6961 Highway 3,",Hayfork,CA,https://doctor.webmd.com/doctor/donald-krouse-99e57c74-eb2e-4a15-bab0-085f956eea13-overview?=lid=5088077
+Patricia,Wise,,"213 S Whitacre St,",Yerington,NV,https://doctor.webmd.com/doctor/patricia-wise-9ee74c6a-9d1c-4394-ad89-1fecb6e9c641-overview?=lid=5161269
+Patricia,Wise,,"213 S Whitacre St,",Yerington,NV,https://doctor.webmd.com/doctor/patricia-wise-9ee74c6a-9d1c-4394-ad89-1fecb6e9c641-overview?=lid=5161269
+David,Harris,8057561211,"1 Grand Ave,",San Luis Obispo,CA,https://doctor.webmd.com/doctor/david-harris-98196509-0143-4711-b8b1-487fc1022c36-overview?=lid=5081138
+Gregory,Thomas,8057561211,"1 Grand Ave,",San Luis Obispo,CA,https://doctor.webmd.com/doctor/gregory-thomas-c6348db4-e25b-4a3f-8a0c-0e1066e4d236-overview?=lid=5081138
+Edward,Coughlin,8057561211,"1 Grand Ave,",San Luis Obispo,CA,https://doctor.webmd.com/doctor/edward-coughlin-6ed8a4e6-5b7c-49fd-b53d-cd4d1023ebf5-overview?=lid=5081138
+Aaron,Baker,8057561211,"1 Grand Ave,",San Luis Obispo,CA,https://doctor.webmd.com/doctor/aaron-baker-37796e91-217e-4a39-ac75-f440c613593c-overview?=lid=5081138
+Beth,Hirsch,5596243741,"840 S Akers St,",Visalia,CA,https://doctor.webmd.com/doctor/beth-hirsch-30a66c4c-a724-49ed-bc1c-35c07f1bc92e-overview?=lid=5580373
+Steven,Alcocer,5596273222,"225 S Chinowth St,",Visalia,CA,https://doctor.webmd.com/doctor/steven-alcocer-c6145116-87c6-42a9-8751-a68fa4455c1b-overview?=lid=5047206
+Rochelle,Wileman,5597334505,"4025 W Caldwell Ave Ste A,",Visalia,CA,https://doctor.webmd.com/doctor/rochelle-wileman-2bf459af-9ef3-4e3c-8c83-56bed7396b1d-overview?=lid=5542644
+Harish,Shah,5597336342,"2611 N Dinuba Blvd,",Visalia,CA,https://doctor.webmd.com/doctor/harish-shah-910a34db-1a56-4fe4-8a04-b79aa709b52e-overview?=lid=5080835
+Omar,Franklin,5597337685,"1604 W Princeton Ct,",Visalia,CA,https://doctor.webmd.com/doctor/omar-franklin-6f190e29-f7d3-4239-83e6-ed279ef61107-overview?=lid=V86303
+Youssef,Bakhoum,5596368071,"1837 W Dorothea Ave,",Visalia,CA,https://doctor.webmd.com/doctor/youssef-bakhoum-4309db6f-ebd4-44da-83f4-7a40e007276b-overview?=lid=5065413
+Jeff,Seidenrose,5597341939,"401 E School Ave,",Visalia,CA,https://doctor.webmd.com/doctor/jeff-seidenrose-d252111e-58a5-46d8-b67d-697688736f66-overview?=lid=5080851
+Scott,Rodgers,5597341939,"401 E School Ave,",Visalia,CA,https://doctor.webmd.com/doctor/scott-rodgers-0170c5f9-151d-41a0-9608-0810fe4a8c5b-overview?=lid=5080851
+Andrew,Bloom,5597341939,"401 E School Ave,",Visalia,CA,https://doctor.webmd.com/doctor/andrew-bloom-256230fd-0a16-48d6-8f21-d23877055154-overview?=lid=5080851
+Roberto,Santoyo,5596272777,"100 S Santa Fe St,",Visalia,CA,https://doctor.webmd.com/doctor/roberto-santoyo-63906dfb-91d7-48cd-8921-21d834cac9f6-overview?=lid=5080867
+Gerardo,Muniz,5597471470,"730 N Farmersville Blvd,",Farmersville,CA,https://doctor.webmd.com/doctor/gerardo-muniz-f22f08ed-e6d4-48ce-8d31-3fe7df659207-overview?=lid=5529047
+Kenneth,Korver,5302574186,"575 Hospital Ln,",Susanville,CA,https://doctor.webmd.com/doctor/kenneth-korver-797d369e-d840-42f9-8f0e-21b077e4178e-overview?=lid=5164388
+Hal,Meadows,5302577251,"705 West St,",Susanville,CA,https://doctor.webmd.com/doctor/hal-meadows-f568aeae-4281-423d-adbd-4939b51ac489-overview?=lid=5088149
+Daniel,Mcelheran,,"25 Five Cent Gulch St Ste B,",Weaverville,CA,https://doctor.webmd.com/doctor/daniel-mcelheran-46816236-2df1-415a-a4d4-22015c99e3d5-overview?=lid=5585805
+Jay,Beams,5302574137,"701 Nevada St,",Susanville,CA,https://doctor.webmd.com/doctor/jay-beams-b894d5d7-83f0-41a4-8938-652b0445bb75-overview?=lid=5088148
+Robert,Snyder,5302572542,"795 Joaquin St,",Susanville,CA,https://doctor.webmd.com/doctor/robert-snyder-58c97f27-f799-452c-9d18-e4a53778156e-overview?=lid=5321475
+Johnnie,Ham,8052019135,"575 Price St Ste 313,",Pismo Beach,CA,https://doctor.webmd.com/doctor/johnnie-ham-713c1ce3-3aea-465d-b718-39c2bba5afa2-overview?=lid=5437661
+Roberta,Hayertz,8054730297,"912 Printz Rd,",Arroyo Grande,CA,https://doctor.webmd.com/doctor/roberta-hayertz-bee6b790-6afa-4b87-8c88-d3591673e2ed-overview?=lid=V10225680
+Lawrence,Newman,8054748450,"877 Oak Park Blvd,",Pismo Beach,CA,https://doctor.webmd.com/doctor/lawrence-newman-cb5d009f-e429-4461-871f-04df42370c7e-overview?=lid=5081218
+Arthur,Molina,5595927300,"1014 San Juan Ave,",Exeter,CA,https://doctor.webmd.com/doctor/arthur-molina-5d7e2740-1450-4e56-9983-6410ddc5c124-overview?=lid=5012545
+Laura,Sandoval,8052151810,"200 Station Way Ste E,",Arroyo Grande,CA,https://doctor.webmd.com/doctor/laura-sandoval-f64c61da-aff1-4dfb-86e3-6379375a3fcc-overview?=lid=5682665
+Mark,Goodwin,5303353651,"36977 Park Ave,",Burney,CA,https://doctor.webmd.com/doctor/mark-goodwin-f79e29c5-f697-4253-a1b9-f27ce84e05b6-overview?=lid=5088058
+Edward,Kazel,5303353651,"36977 Park Ave,",Burney,CA,https://doctor.webmd.com/doctor/edward-kazel-b1486500-8ad5-43f5-9bac-bd1af00ea26b-overview?=lid=V10219531
+Dana,Hays,5303355457,"37491 Enterprise Dr,",Burney,CA,https://doctor.webmd.com/doctor/dana-hays-b89e8705-807d-4e08-bdf2-f89b553d0ab0-overview?=lid=5088060
+Dwight,James,5597813219,"876 W Grand Ave,",Porterville,CA,https://doctor.webmd.com/doctor/dwight-james-f042d146-3388-de11-a5f3-001f29e3eb44-overview?=lid=5240498
+Narwhals,Mating,5597817242,"1107 W Poplar Ave,",Porterville,CA,https://doctor.webmd.com/doctor/narwhals-mating-6fc6a7ba-ead1-4658-bbcb-c1d55d2e6dc6-overview?=lid=5382329
+Samuel,Drake,8053466585,"1690 N McClelland St,",Santa Maria,CA,https://doctor.webmd.com/doctor/samuel-drake-d2efe252-4ff5-457a-b12a-c6f425b0e193-overview?=lid=5081231
+Estrella,Asejo,6617257299,"1419 Main St,",Delano,CA,https://doctor.webmd.com/doctor/estrella-asejo-d5f9529f-3579-4b8f-9276-1347d3b9fa27-overview?=lid=5038644
+Jesse,Jacobs,,"326 W Main St Ste 120,",Santa Maria,CA,https://doctor.webmd.com/doctor/jesse-jacobs-22e9ede0-aaa6-47ed-9885-293fa74c741d-overview?=lid=5081250
+Ramy,Alnahhal,6617257793,"1230 Jefferson St,",Delano,CA,https://doctor.webmd.com/doctor/ramy-alnahhal-4ff4f8de-c2dc-4498-8570-a745024ee452-overview?=lid=5042908
+Tressa,Esty,8057390033,"120 N Miller St Ste C,",Santa Maria,CA,https://doctor.webmd.com/doctor/tressa-esty-3d84dfef-81ae-4698-a519-08e153f8ca38-overview?=lid=5081219
+Nagy,Awadalla,6617725335,"1001 Main St,",Delano,CA,https://doctor.webmd.com/doctor/nagy-awadalla-101dfdbc-7499-4023-97a3-ccf23ad1172c-overview?=lid=6510658
+Tirso,Bustamante,8059223003,"938 E Main St,",Santa Maria,CA,https://doctor.webmd.com/doctor/tirso-bustamante-066eb140-13cf-4e68-91fc-eafa155b6d17-overview?=lid=5081262
+Alberto,Acevedo,6617213530,"1205 Garces Hwy Ste 102,",Delano,CA,https://doctor.webmd.com/doctor/alberto-acevedo-23266bfa-bab0-46e1-b3fe-3dddb44c1b8d-overview?=lid=5038401
+Sadegh,Salmassi,,"1205 Garces Hwy Ste 306,",Delano,CA,https://doctor.webmd.com/doctor/sadegh-salmassi-51bcfe3a-71bc-423c-9502-69da785ec20b-overview?=lid=5013208
+Thomas,Caruso,8059220561,"340 E Betteravia Rd Ste C,",Santa Maria,CA,https://doctor.webmd.com/doctor/thomas-caruso-f5f2bc31-84c5-4e22-9c9d-248c4b9c6e7c-overview?=lid=5081242
+Mark,Pomerantz,8059220561,"340 E Betteravia Rd Ste C,",Santa Maria,CA,https://doctor.webmd.com/doctor/mark-pomerantz-c9643eb2-f6ba-419b-9aeb-23b456eea9de-overview?=lid=5081242
+Paul,Windham,,"1915 Harrison Ave Ste A,",Eureka,CA,https://doctor.webmd.com/doctor/paul-windham-0082a829-f5e1-42a6-81e6-192b7de34ec3-overview?=lid=5536308
+John,Haskett,7074439747,"1910 California St,",Eureka,CA,https://doctor.webmd.com/doctor/john-haskett-be3542c9-f658-4ca9-a2e1-369b21fa3b0d-overview?=lid=5580006
+Manbir,Singh,6617584184,"2300 7th St,",Wasco,CA,https://doctor.webmd.com/doctor/manbir-singh-9acc71b4-74f7-49ce-84aa-79e235fd677f-overview?=lid=5274956
+Maritza,Robles,6617584184,"2300 7th St,",Wasco,CA,https://doctor.webmd.com/doctor/maritza-robles-110c8bdc-21f1-417b-b25b-6fdb97c11969-overview?=lid=5274956
+Joe,Torres,6617584184,"2300 7th St,",Wasco,CA,https://doctor.webmd.com/doctor/joe-torres-df8b2441-d770-4aa2-8298-bf514a900f2e-overview?=lid=5274956
+Jesus,Bustamante,6617582263,"2101 7th St,",Wasco,CA,https://doctor.webmd.com/doctor/jesus-bustamante-a1d291b1-4a95-47ba-a171-d70379418ef4-overview?=lid=5013211
+Mark,Shoemaker,5597845013,"32151 River Island Dr,",Springville,CA,https://doctor.webmd.com/doctor/mark-shoemaker-4dfbe4e1-e7c6-4b9a-ac17-2cdbd5597413-overview?=lid=V10613707
+Carlo,Amazona,6616353050,"217 W Kern Ave,",Mc Farland,CA,https://doctor.webmd.com/doctor/carlo-amazona-f88e51d1-a312-4c3c-bc75-fba37bcfd1e1-overview?=lid=5080722
+Gary,Ridenour,7754236400,"625 W Williams Ave Ste B,",Fallon,NV,https://doctor.webmd.com/doctor/gary-ridenour-94b44493-80b5-4d1c-87de-f0d83d1a72ad-overview?=lid=5161205
+Sarah,Alailima-Utu Hall,5597842316,"380 N Reservation Rd,",Porterville,CA,https://doctor.webmd.com/doctor/sarah-alailima-utu-hall-be0745db-9e91-4acc-b57e-d17309e183f9-overview?=lid=V10041312
+Jong,Moon,6617465788,"406 James St,",Shafter,CA,https://doctor.webmd.com/doctor/jong-moon-1ea6d44e-fde6-4e77-8026-3580cfb3cb40-overview?=lid=5080763
+Shimeaka,Hodges,6617465788,"406 James St,",Shafter,CA,https://doctor.webmd.com/doctor/shimeaka-hodges-8b260541-e3da-4b94-9b18-286410befa45-overview?=lid=5080763
+Laura,Lyons,7078393068,"1644 Central Ave,",McKinleyville,CA,https://doctor.webmd.com/doctor/laura-lyons-e2f4c426-7b6d-406d-806e-d559137cc3b5-overview?=lid=5193432
+Marcelle,Mahan,7078394852,"1733 Central Ave,",McKinleyville,CA,https://doctor.webmd.com/doctor/marcelle-mahan-5a71340d-3fc9-414e-a1eb-a4da8b192922-overview?=lid=5366885
+Monica,Murphy,6616305890,"1150 E Lerdo Hwy Unit C,",Shafter,CA,https://doctor.webmd.com/doctor/monica-murphy-18e0a0b9-f35b-4bfb-9a7e-5f5e81f0a763-overview?=lid=5487431
+Julie,Fadness,5309642389,"116 W Minnesota Ave,",Mccloud,CA,https://doctor.webmd.com/doctor/julie-fadness-a4ab19d2-c1d1-41ec-bede-6e5659874340-overview?=lid=5263225
+Sheppard,Peng,8057373300,"1515 E Ocean Ave,",Lompoc,CA,https://doctor.webmd.com/doctor/sheppard-peng-c1c5aaee-a3bf-47f0-8ab0-81613866b24b-overview?=lid=V10037823
+Michael,Staszel,5309264528,"824 Pine St,",Mount Shasta,CA,https://doctor.webmd.com/doctor/michael-staszel-c27cea7c-dc8f-4753-85dc-838d44bb5edf-overview?=lid=5000561
+Stacy,Guzman,6617655044,"1100 4th St Bldg A,",Taft,CA,https://doctor.webmd.com/doctor/stacy-guzman-1a4b8842-ab44-41d7-8f5f-d837f64db6fc-overview?=lid=5020988
+Ronnie,Claiborne,6617633338,"333 S 10th St Ste 103,",Taft,CA,https://doctor.webmd.com/doctor/ronnie-claiborne-73a5d7ee-0f57-43d1-abde-50ab43c8d037-overview?=lid=5274957
+Tony,Carey,6617651122,"422 Center St,",Taft,CA,https://doctor.webmd.com/doctor/tony-carey-e5e4f451-c7d3-467b-9eda-e22b35b3dfb8-overview?=lid=5493325
+Vibul,Tangpraphaphorn,6617654124,"109 Adkisson Way,",Taft,CA,https://doctor.webmd.com/doctor/vibul-tangpraphaphorn-c5693400-5dc0-42b5-be9e-a74bc864e0c1-overview?=lid=5022498
+Thomas,Phelps,8054108125,"2001 Old Farm Rd,",Bakersfield,CA,https://doctor.webmd.com/doctor/thomas-phelps-80fb7e38-e262-40f7-80bb-5354dd084903-overview?=lid=V10602784
+Lennie,Ornelaz,6616633122,"300 Old River Rd Ste 125,",Bakersfield,CA,https://doctor.webmd.com/doctor/lennie-ornelaz-d7a898a8-4dc2-42af-80e9-d38608dd997f-overview?=lid=5081054
+Amy,Betancourt,6612416700,"4909 Centennial Plz Way,",Bakersfield,CA,https://doctor.webmd.com/doctor/amy-betancourt-d968e4f2-844f-4ed5-b663-41c0e9fb1c71-overview?=lid=5022518
+James,Johnston,6613284295,"2525 N Chester Ave Ste B,",Bakersfield,CA,https://doctor.webmd.com/doctor/james-johnston-69afbf58-acac-4d46-859a-1249a22e813b-overview?=lid=5354942
+Howard,Morley,6613058065,"8200 Stockdale Hwy Ste M10,",Bakersfield,CA,https://doctor.webmd.com/doctor/howard-morley-a4e83cc9-ed2b-47a3-bf10-7eea0f1a553a-overview?=lid=V10511829
+Christopher,Parks,6615872500,"9450 Ming Ave,",Bakersfield,CA,https://doctor.webmd.com/doctor/christopher-parks-e626658f-cf58-477d-aa48-194a4c99de05-overview?=lid=V40769
+Sarupinder,Bhangoo,6616644700,"9508 Stockdale Hwy Ste 140A,",Bakersfield,CA,https://doctor.webmd.com/doctor/sarupinder-bhangoo-38326a61-9e86-4cb5-8653-0144e0c93add-overview?=lid=5022547
+Kristine,Isenman,6616657880,"9802 Stockdale Hwy Ste 105,",Bakersfield,CA,https://doctor.webmd.com/doctor/kristine-isenman-de0ba46b-a408-434c-bd9f-551eed157ee2-overview?=lid=6612779
+Nancy,Cromwell,6613744949,"2901 F St Ste A,",Bakersfield,CA,https://doctor.webmd.com/doctor/nancy-cromwell-7b4d45ab-04f2-4bba-ac5c-2d456f15f626-overview?=lid=5519459
+Billiana,Hardy,6613241455,"2000 Physician Plz Blvd Bldg F,",Bakersfield,CA,https://doctor.webmd.com/doctor/billiana-hardy-7bda122d-99da-46d8-8f49-bd011a7d16be-overview?=lid=5080969
+George,Girgis,6613280245,"501 W Columbus St,",Bakersfield,CA,https://doctor.webmd.com/doctor/george-girgis-b2e86891-664f-48f6-8bef-606613723cf0-overview?=lid=5609324
+Keith,Seidenstricker,6617161070,"2701 Chester Ave Ste 201,",Bakersfield,CA,https://doctor.webmd.com/doctor/keith-seidenstricker-f984e4b9-75dd-4687-8ab8-a8aa2beae4a5-overview?=lid=5405659
+Stephen,Hanson,6618084070,"2701 Chester Ave Ste 103,",Bakersfield,CA,https://doctor.webmd.com/doctor/stephen-hanson-0647db29-be15-4da6-ac29-b503aabfc55c-overview?=lid=5581749
